@@ -1,0 +1,2571 @@
+datasets/moon/audio/4/4_2323.wav|아내는 제 직장 후배였어요
+datasets/moon/audio/4/4_5598.wav|법률 용어를 보면 머리가 아파요
+datasets/moon/audio/4/4_0952.wav|저는 무역 회사에 다닙니다
+datasets/moon/audio/4/2_0742.wav|밖은 벌써 어두워요
+datasets/moon/audio/4/4_2437.wav|시내 이곳저곳을 돌아다녔어요
+datasets/moon/audio/4/3_4531.wav|어젯밤에 너 완전히 취했었어
+datasets/moon/audio/4/3_0560.wav|책상 밑에 숨어 봤자 소용없어
+datasets/moon/audio/4/2_0723.wav|빈칸에 알맞은 말을 써 넣으시오
+datasets/moon/audio/4/2_0388.wav|너 참 못됐어
+datasets/moon/audio/4/4_3831.wav|이번 주말에는 가족 나들이를 갈 거예요
+datasets/moon/audio/4/4_1068.wav|왜 이러시는 건지 도대체 이해가 안 되네요
+datasets/moon/audio/4/2_0098.wav|혼잡한 지하철 안에서 서 있는 것은 고통스러운 일이다
+datasets/moon/audio/4/2_0931.wav|너는 너무 정직한 게 문제야
+datasets/moon/audio/4/3_3842.wav|나뭇잎에 이슬이 맺혔다
+datasets/moon/audio/4/2_0072.wav|나이에 걸맞게 행동해라
+datasets/moon/audio/4/3_4027.wav|어떤 계절을 제일 좋아하세요
+datasets/moon/audio/4/3_1457.wav|아드님이 참 똑똑하군요
+datasets/moon/audio/4/4_2491.wav|일주일에 몇 시간이나 일하세요
+datasets/moon/audio/4/1_0016.wav|자리에 앉으세요
+datasets/moon/audio/4/1_0209.wav|연못에 돌을 던지지 마세요
+datasets/moon/audio/4/4_5211.wav|시험에서 떨어져서 기분이 우울해요
+datasets/moon/audio/4/4_2292.wav|사장님은 지금 회의 중이세요
+datasets/moon/audio/4/3_1566.wav|저는 삶을 비관적으로 바라보는 사람들의 입장을 이해합니다
+datasets/moon/audio/4/3_1230.wav|마침내 제 사무실을 갖는 오랜 꿈을 실현했습니다
+datasets/moon/audio/4/4_1844.wav|핸드폰이 고장 난 것 같아요
+datasets/moon/audio/4/1_0858.wav|그녀는 길 건너편에 산다
+datasets/moon/audio/4/4_4484.wav|걔는 나한테 상대가 안 돼
+datasets/moon/audio/4/3_2828.wav|그 이야기의 장르는 무엇인가요
+datasets/moon/audio/4/2_0632.wav|저는 여태껏 숱한 고비를 넘겼습니다
+datasets/moon/audio/4/4_3069.wav|선생님 차가 다른 차들의 진행을 막고 있습니다
+datasets/moon/audio/4/4_1995.wav|신문에 내신 광고에 대해 몇 가지 질문이 있는데요
+datasets/moon/audio/4/3_3646.wav|설치 중에는 컴퓨터를 끄지 마시오
+datasets/moon/audio/4/3_3527.wav|작년에 한국은 사상 최고의 무역 흑자를 기록했다
+datasets/moon/audio/4/3_1613.wav|그들은 속삭이듯 말했다
+datasets/moon/audio/4/4_3211.wav|그 사람은 자신에게 죄가 없다고 주장했어요
+datasets/moon/audio/4/3_4507.wav|하나부터 열까지 다 다시 설명을 해야 했다
+datasets/moon/audio/4/4_0113.wav|곧 따라갈 테니까 앞서 가세요
+datasets/moon/audio/4/4_4223.wav|그 여자는 피부가 정말 좋아요
+datasets/moon/audio/4/4_1562.wav|그 그림 벽에 거는 건 어떨까
+datasets/moon/audio/4/3_1586.wav|그녀는 말없이 듣고만 있었다
+datasets/moon/audio/4/3_0755.wav|몸살 기운이 좀 있어요
+datasets/moon/audio/4/4_4328.wav|나는 평범하게 살고 싶지 않아
+datasets/moon/audio/4/4_4242.wav|근처에 피씨방 있나요
+datasets/moon/audio/4/3_1086.wav|네가 나라면 납득할 수 있겠니
+datasets/moon/audio/4/2_0113.wav|그것은 공허한 이론에 불과하다
+datasets/moon/audio/4/3_0179.wav|오줌이 마려워요
+datasets/moon/audio/4/3_4571.wav|그건 시간 낭비일 뿐이야
+datasets/moon/audio/4/2_0777.wav|창조적 작업은 때로는 엉뚱한 상상에서 출발한다
+datasets/moon/audio/4/4_2309.wav|신제품 홍보는 어떻게 하실 계획이세요
+datasets/moon/audio/4/4_5383.wav|두 사람 친구 아니야
+datasets/moon/audio/4/3_2749.wav|언제 귀국할 예정입니까
+datasets/moon/audio/4/1_0883.wav|그 영화는 상업적으로 크게 성공했다
+datasets/moon/audio/4/4_3405.wav|저녁 식사에 내가 껴도 돼
+datasets/moon/audio/4/3_4835.wav|제 방이 지금 엉망이에요
+datasets/moon/audio/4/3_2611.wav|상사 앞에서 다른 사람들 험담을 하지 마세요
+datasets/moon/audio/4/4_1361.wav|저는 커서 가수가 되고 싶어요
+datasets/moon/audio/4/3_1452.wav|갑자기 왜 무게를 잡고 그래
+datasets/moon/audio/4/3_0023.wav|그 사람은 삼십대 초반이에요
+datasets/moon/audio/4/4_0132.wav|지금 그만두면 아쉬움이 남을 것 같아요
+datasets/moon/audio/4/1_0054.wav|선크림을 발랐어야지
+datasets/moon/audio/4/4_0843.wav|대도시에 사는 게 좋으세요
+datasets/moon/audio/4/4_1243.wav|어머 이게 어릴 적 당신이에요
+datasets/moon/audio/4/3_4322.wav|각 조각을 동그랗게 만드세요
+datasets/moon/audio/4/3_1833.wav|그녀는 제 비밀을 세상에 폭로하겠다고 협박했어요
+datasets/moon/audio/4/4_4389.wav|새벽 두 시까지 잠을 못 잤어요
+datasets/moon/audio/4/2_0315.wav|따뜻한 차 한 잔 드시겠어요
+datasets/moon/audio/4/3_4726.wav|이것은 중대한 실수예요
+datasets/moon/audio/4/3_0376.wav|옷이 왜 그렇게 더러워
+datasets/moon/audio/4/3_1858.wav|한글은 매우 과학적이다
+datasets/moon/audio/4/4_3997.wav|이 컴퓨터 정말 느려요
+datasets/moon/audio/4/4_2245.wav|실내에서는 흡연이 허용되지 않습니다
+datasets/moon/audio/4/4_3725.wav|한낮에는 무더웠는데 지금은 시원해
+datasets/moon/audio/4/3_3397.wav|방 안의 모든 가구는 목재로 만들어졌어요
+datasets/moon/audio/4/3_1551.wav|여기 다시 나타나다니 참 뻔뻔하구나
+datasets/moon/audio/4/3_0815.wav|즐거운 시간 보내세요
+datasets/moon/audio/4/4_0454.wav|서울로 편지를 부치고 싶은데요
+datasets/moon/audio/4/4_4926.wav|제 소원은 말랐다는 소리 한 번 들어보는 거예요
+datasets/moon/audio/4/3_2062.wav|마개가 너무 꽉 잠겨서 열리지가 않아요
+datasets/moon/audio/4/3_4797.wav|저와 남편은 매일같이 싸웠어요
+datasets/moon/audio/4/2_0037.wav|여기에서는 좋은 물건을 값싸게 살 수 있습니다
+datasets/moon/audio/4/3_0944.wav|체중이 빠져서 고민이다
+datasets/moon/audio/4/3_2693.wav|아이들이 눈 속에 즐겁게 뛰놀고 있다
+datasets/moon/audio/4/3_0112.wav|눈을 감고 소원을 빌어 봐
+datasets/moon/audio/4/3_4974.wav|밖이 추우니까 옷을 따뜻하게 입어라
+datasets/moon/audio/4/4_1561.wav|코트 걸치고 나가. 밖이 아직 추워
+datasets/moon/audio/4/4_0821.wav|산에 오르다
+datasets/moon/audio/4/3_1343.wav|그는 의외로 덩치가 작았다
+datasets/moon/audio/4/4_1734.wav|기초 자료를 수집하는 중입니다
+datasets/moon/audio/4/4_2398.wav|과학으로는 이 신기한 현상을 설명할 수 없다
+datasets/moon/audio/4/4_5327.wav|어제 길에서 우연히 고등학교 때 담임 선생님을 만났어요
+datasets/moon/audio/4/4_3692.wav|내 몸에서 손 떼
+datasets/moon/audio/4/3_1831.wav|면접 결과는 이메일로 통보해 드리겠습니다
+datasets/moon/audio/4/4_0166.wav|남자 배우 중에서 누구를 제일 좋아하세요
+datasets/moon/audio/4/3_0508.wav|안전벨트 풀어도 돼요
+datasets/moon/audio/4/2_0858.wav|그녀는 의아한 표정을 지었다
+datasets/moon/audio/4/4_0340.wav|블라우스는 삼만 원이고 치마는 오만 원이에요
+datasets/moon/audio/4/3_3318.wav|저는 아기일 때 세례를 받았어요
+datasets/moon/audio/4/3_1404.wav|가슴에 손을 얹고 생각해 봐
+datasets/moon/audio/4/4_5382.wav|그 사람은 참 좋은 사람이야
+datasets/moon/audio/4/3_1472.wav|누나는 간이 커서 밤에도 혼자 잘 다녀요
+datasets/moon/audio/4/2_0791.wav|이불이 너무 엷어서 밤에 추워요
+datasets/moon/audio/4/1_0844.wav|한국어로 제 생각을 표현하는 게 쉽지 않아요
+datasets/moon/audio/4/3_1866.wav|민주주의는 대중에 의한 통치를 의미한다
+datasets/moon/audio/4/1_0805.wav|빚을 갚으려고 친구한테 오토바이를 팔았다
+datasets/moon/audio/4/3_4174.wav|민주는 학교에 지각이 너무 잦아요
+datasets/moon/audio/4/2_0545.wav|이 옷은 너무 비싸요
+datasets/moon/audio/4/2_0587.wav|지호 씨는 사람이 참 선해 보여
+datasets/moon/audio/4/3_3940.wav|소나무 한 그루
+datasets/moon/audio/4/1_0350.wav|턱수염을 기른 적이 있어요
+datasets/moon/audio/4/4_1755.wav|기회를 한 번 더 주시겠어요
+datasets/moon/audio/4/2_0956.wav|주요한 문제를 먼저 논의합시다
+datasets/moon/audio/4/3_3997.wav|휴일을 어떻게 보낼 거야
+datasets/moon/audio/4/4_1433.wav|갈증 나 죽겠어요
+datasets/moon/audio/4/3_4576.wav|에이 그거 재미있었어 비 아뇨, 전혀 재미없었어요
+datasets/moon/audio/4/4_4129.wav|우리 회사는 올해 신규 직원을 뽑을 계획이 없습니다
+datasets/moon/audio/4/4_1670.wav|지금은 근무 중이에요. 이따가 전화 주세요
+datasets/moon/audio/4/3_4891.wav|나는 점심시간을 이용해 신문을 읽는다
+datasets/moon/audio/4/4_2808.wav|저기 두세요
+datasets/moon/audio/4/2_0926.wav|그 거울은 뒷면에 정교한 무늬가 있었다
+datasets/moon/audio/4/3_1405.wav|전쟁 포로들은 인간적인 대우를 받게 되어 있다
+datasets/moon/audio/4/2_0724.wav|이 제품은 초보자들에게 딱 알맞습니다
+datasets/moon/audio/4/4_3112.wav|바지가 저한테 좀 짧은 것 같아요
+datasets/moon/audio/4/4_1957.wav|동전을 주우려고 허리를 굽히다 바지가 찢어져 버렸어요
+datasets/moon/audio/4/3_5021.wav|사랑스럽다
+datasets/moon/audio/4/3_4117.wav|나는 집에 오는 도중에 서점에 들렀다
+datasets/moon/audio/4/1_0141.wav|테니스를 치다가 발목을 삐었어요
+datasets/moon/audio/4/4_3875.wav|나이보다 젊어 보이세요
+datasets/moon/audio/4/4_3386.wav|끈으로 꽉 묶어라
+datasets/moon/audio/4/1_0573.wav|어제 한밤중에 갑자기 잠에서 깼습니다
+datasets/moon/audio/4/4_0249.wav|저는 몇 번 방송에 출연한 적이 있습니다
+datasets/moon/audio/4/4_4526.wav|지금까지 살아오면서 그렇게 이상한 사람은 처음 봤어요
+datasets/moon/audio/4/3_4822.wav|약속 시간에 늦을 뻔했어요
+datasets/moon/audio/4/1_0091.wav|그녀가 나에게 사진 몇 장을 보여 주었다
+datasets/moon/audio/4/3_3137.wav|민간인에 대한 공격은 어떤 경우에라도 정당화될 수 없다
+datasets/moon/audio/4/1_0488.wav|저는 부산에서 자랐어요
+datasets/moon/audio/4/2_0712.wav|허리가 몹시 아파요
+datasets/moon/audio/4/3_4592.wav|그 정도면 충분해
+datasets/moon/audio/4/4_4114.wav|내 생각에는 외로움을 달래는 데는 티비만 한 게 없는 거 같아
+datasets/moon/audio/4/3_3616.wav|저희 잡지는 매달 초에 발행됩니다
+datasets/moon/audio/4/4_0461.wav|이 소파 가죽이 참 부드럽네요
+datasets/moon/audio/4/4_5162.wav|한국에서는 택시에서 무료로 통역 서비스를 제공해요
+datasets/moon/audio/4/3_1423.wav|순수한 것과 순진한 건 달라요
+datasets/moon/audio/4/3_3129.wav|수도는 전쟁터로 변해 버렸다
+datasets/moon/audio/4/3_0516.wav|나는 그녀에게 생일 선물로 시계를 주었다
+datasets/moon/audio/4/4_5419.wav|물이 얕아서 발이 바닥에 닿아요
+datasets/moon/audio/4/4_0017.wav|저는 우리나라에 대해 깊은 애정을 갖고 있습니다
+datasets/moon/audio/4/2_0054.wav|거대한 규모의 테러리스트 단체가 이 사건의 배후에 있다
+datasets/moon/audio/4/4_0876.wav|아시아 대륙
+datasets/moon/audio/4/4_3241.wav|이 중에서 하나를 고르세요
+datasets/moon/audio/4/3_1623.wav|그녀는 아프다는 핑계를 대고 결근했다
+datasets/moon/audio/4/4_2781.wav|제 제안에 대해 생각해 보셨어요
+datasets/moon/audio/4/4_4496.wav|우리 일에 상관하지 마세요
+datasets/moon/audio/4/4_0368.wav|그 사람은 비난을 받아도 마땅해
+datasets/moon/audio/4/3_3711.wav|교통 체증을 피하려면 이 도로를 이용해라
+datasets/moon/audio/4/4_4797.wav|그릇들을 싱크대로 옮겨 줄래
+datasets/moon/audio/4/4_2327.wav|그 선수는 해외 훈련 중 부상을 당해 먼저 귀국했다
+datasets/moon/audio/4/3_1777.wav|그녀는 조용히 말했지만, 아무도 감히 그녀에게 대들지 못했다
+datasets/moon/audio/4/4_0251.wav|저는 한 방송사에서 기자로 일하고 있습니다
+datasets/moon/audio/4/3_2547.wav|기본적으로 나도 동의해
+datasets/moon/audio/4/4_2955.wav|저리 가
+datasets/moon/audio/4/4_4031.wav|해마다 이때쯤에 농민들은 아주 바빠요
+datasets/moon/audio/4/4_0927.wav|우선 쌀을 물에 담가 놔
+datasets/moon/audio/4/3_1839.wav|경비원이 내게 사진을 찍지 말라고 주의를 주었다
+datasets/moon/audio/4/3_3080.wav|법원은 그 사건을 기각했다
+datasets/moon/audio/4/4_4805.wav|나는 아내에게 집에 가자는 신호를 보냈다
+datasets/moon/audio/4/4_2387.wav|어머니는 가정 형편 때문에 대학에 가시지 못했어요
+datasets/moon/audio/4/1_0292.wav|잠시만 눈 좀 감아 봐
+datasets/moon/audio/4/3_2919.wav|그녀는 배우이자 감독이다
+datasets/moon/audio/4/4_0365.wav|아이들이 비만이 되는 이유가 뭔가요
+datasets/moon/audio/4/1_1010.wav|전화 받아 전화벨 울리잖아
+datasets/moon/audio/4/1_0139.wav|창문은 뭘로 청소하나요
+datasets/moon/audio/4/4_4578.wav|설거지 좀 도와줄래
+datasets/moon/audio/4/3_1807.wav|우리가 머리를 모으면 무슨 방법이 있을 거야
+datasets/moon/audio/4/2_0822.wav|뭐가 그리 우습니
+datasets/moon/audio/4/1_0123.wav|다 찾아봤지만 찾을 수가 없어요
+datasets/moon/audio/4/4_0978.wav|다수의 결정이 항상 옳은 것은 아니다
+datasets/moon/audio/4/4_0845.wav|대강 몇 시에 올 거니
+datasets/moon/audio/4/3_1011.wav|외국어 학습은 사고력을 향상시킬 수 있다
+datasets/moon/audio/4/3_4263.wav|내 생각에는 위아래가 뒤바뀐 것 같아
+datasets/moon/audio/4/4_2022.wav|한 번에 세 권 이상은 대출이 안 됩니다
+datasets/moon/audio/4/3_1098.wav|이 자료로 유추할 수 있는 것은 무엇입니까
+datasets/moon/audio/4/4_2823.wav|적절한 예가 생각이 안 나요
+datasets/moon/audio/4/1_0167.wav|이 문제에 대해 말해 볼 사람
+datasets/moon/audio/4/4_5407.wav|이 넥타이는 네 양복이랑 잘 어울릴 거야
+datasets/moon/audio/4/4_0695.wav|저는 보통 주말에 집 근처 체육관에서 운동을 해요
+datasets/moon/audio/4/4_3596.wav|그는 마약에 중독되어 있다
+datasets/moon/audio/4/4_5482.wav|이 열차는 잠시 후 서울역에 도착합니다
+datasets/moon/audio/4/4_3168.wav|각 학생들은 종이 한 장을 받게 될 겁니다
+datasets/moon/audio/4/1_0582.wav|그 사람은 자기 지갑을 꺼내려고 차에 갔어요
+datasets/moon/audio/4/3_2474.wav|한국에는 학원이 많은 것 같아요
+datasets/moon/audio/4/4_5209.wav|좋은 생각이 떠올랐다
+datasets/moon/audio/4/3_0709.wav|병실이 몇 호실이죠
+datasets/moon/audio/4/3_0200.wav|코치는 아이들이 축구를 하는 것을 지켜보고 있다
+datasets/moon/audio/4/3_4257.wav|배가 앞뒤로 흔들리고 있었다
+datasets/moon/audio/4/3_2005.wav|에이 커피 마실래 차 마실래 비 아무거나
+datasets/moon/audio/4/3_0068.wav|너 왜 이리 철이 없어 철 좀 들어
+datasets/moon/audio/4/4_2537.wav|존경하는 인물이 있나요
+datasets/moon/audio/4/2_1114.wav|남편은 운전을 험하게 해요
+datasets/moon/audio/4/4_4539.wav|그녀는 사위가 별로 마음에 들지 않았다
+datasets/moon/audio/4/3_2190.wav|영업부는 오층에 있습니다
+datasets/moon/audio/4/4_4986.wav|매년 수천 명의 사람들이 교통사고로 목숨을 잃어요
+datasets/moon/audio/4/2_0173.wav|기막혀서 할 말이 없다
+datasets/moon/audio/4/4_3066.wav|아들 녀석이 올해 삼학년으로 진급했어요
+datasets/moon/audio/4/4_0678.wav|혼자 고민하지 말고 도움을 청하세요
+datasets/moon/audio/4/2_0139.wav|손자가 정말 귀여워 죽겠어요
+datasets/moon/audio/4/3_0529.wav|그는 단호하게 머리를 저었다
+datasets/moon/audio/4/1_0594.wav|영화가 끝나 갈 즈음에 잠이 들었다
+datasets/moon/audio/4/3_2549.wav|제가 초보적인 실수를 저질렀어요
+datasets/moon/audio/4/3_3002.wav|노조는 정부의 제안을 거절했다
+datasets/moon/audio/4/4_2753.wav|그 잡지는 얼마나 자주 나오죠
+datasets/moon/audio/4/3_1005.wav|나는 무안해서 그녀의 눈을 똑바로 쳐다볼 수가 없었다
+datasets/moon/audio/4/4_2561.wav|입장하시기 전에 모자를 벗어 주세요
+datasets/moon/audio/4/2_0084.wav|그렇게 고급스러운 호텔은 처음 봤어
+datasets/moon/audio/4/3_2482.wav|다음 물음에 답하시오
+datasets/moon/audio/4/4_1302.wav|저는 이번 성공으로 자신감을 얻었어요
+datasets/moon/audio/4/3_2132.wav|음식을 내놓기 전에 최소 한 시간은 식히세요
+datasets/moon/audio/4/3_1682.wav|도대체 무슨 말이야
+datasets/moon/audio/4/1_0268.wav|이 지역 주변을 둘러보고 싶어요
+datasets/moon/audio/4/3_0182.wav|날이 너무 더워서 가만 있어도 땀이 나네요
+datasets/moon/audio/4/3_3090.wav|한국은 배심원 제도를 지난 2008년 도입했다
+datasets/moon/audio/4/4_5360.wav|널 위해 뭐든 할게
+datasets/moon/audio/4/4_2758.wav|그 사람은 늘 자기 자식 자랑을 해요
+datasets/moon/audio/4/4_1846.wav|쟤는 고집이 너무 세
+datasets/moon/audio/4/3_4315.wav|문장 구조가 좀 이상해
+datasets/moon/audio/4/4_0359.wav|입학 시험에서는 수학의 비중이 아주 커요
+datasets/moon/audio/4/3_3029.wav|깡패들이 지역 상인들에게서 돈을 빼앗았다
+datasets/moon/audio/4/4_2072.wav|제가 계산하겠습니다
+datasets/moon/audio/4/4_2132.wav|저는 맡은 일은 반드시 해내는 사람이에요
+datasets/moon/audio/4/3_3370.wav|그는 금을 캐며 평생을 보냈다
+datasets/moon/audio/4/4_1331.wav|음식물은 가지고 들어올 수 없습니다
+datasets/moon/audio/4/4_2977.wav|이전에 비슷한 증상이 있었나요
+datasets/moon/audio/4/2_0216.wav|영화가 원작 소설보다 나아
+datasets/moon/audio/4/3_0554.wav|어른에게 인사할 때는 고개를 숙여야지
+datasets/moon/audio/4/3_1344.wav|저희 가족은 모두 키가 크고 마른 체형을 갖고 있어요
+datasets/moon/audio/4/1_0125.wav|내일까지 짐을 찾아가셔야 해요
+datasets/moon/audio/4/3_3158.wav|자본주의 사회에서는 소비자가 왕이다
+datasets/moon/audio/4/4_3687.wav|목소리를 낮춰 주세요
+datasets/moon/audio/4/3_0920.wav|아들을 군대에 보내고 나니 마음이 허전해요
+datasets/moon/audio/4/2_1113.wav|우리는 첫 경기에서 허무하게 졌다
+datasets/moon/audio/4/3_2129.wav|방금 구운 빵이야
+datasets/moon/audio/4/3_2962.wav|민주주의의 근본 이념은 인간 존중이다
+datasets/moon/audio/4/3_2250.wav|엄마는 평범한 가정주부세요
+datasets/moon/audio/4/3_4151.wav|그들은 나와 동시에 떠났다
+datasets/moon/audio/4/4_5478.wav|열이 계속 나면 내일 다시 오세요
+datasets/moon/audio/4/4_5272.wav|감기는 현대 의학으로 고칠 수가 없다
+datasets/moon/audio/4/3_4261.wav|노트가 침대 밑에 있어
+datasets/moon/audio/4/4_5156.wav|시간이 별로 없으니 주문을 한 가지로 통일하자
+datasets/moon/audio/4/3_1112.wav|그는 열일곱 살 때 이 이론을 창안했다
+datasets/moon/audio/4/4_2477.wav|내일 일기예보 들었어
+datasets/moon/audio/4/4_3982.wav|아무리 해도 영어가 늘지를 않아요
+datasets/moon/audio/4/4_0596.wav|우리 집은 3번 채널이 안 나와
+datasets/moon/audio/4/2_0445.wav|저는 피부가 민감해요
+datasets/moon/audio/4/3_3766.wav|고장 난 부품 하나만 교체하시면 됩니다
+datasets/moon/audio/4/3_1627.wav|그는 큰소리치지만 아무것도 안 했다
+datasets/moon/audio/4/4_5336.wav|이 와이셔츠 내일까지 드라이 좀 해 주세요
+datasets/moon/audio/4/3_3944.wav|나무에 꽃이 활짝 피었다
+datasets/moon/audio/4/4_3044.wav|진료 시간은 오전 아홉 시에서 오후 여섯 시까지입니다
+datasets/moon/audio/4/3_0557.wav|입을 크게 벌리고 혀를 내밀어 보세요
+datasets/moon/audio/4/4_0276.wav|이 문장을 바르게 고치세요
+datasets/moon/audio/4/4_1989.wav|제 일은 직원들을 관리하는 거예요
+datasets/moon/audio/4/1_0461.wav|음악을 듣고 있습니다
+datasets/moon/audio/4/3_0407.wav|저는 치약을 중간에서부터 짭니다
+datasets/moon/audio/4/3_3009.wav|저는 법률에 관한 지식이 별로 없거든요
+datasets/moon/audio/4/3_2802.wav|저 친구처럼 뛰어난 선수를 본 적이 없어요
+datasets/moon/audio/4/4_4911.wav|어머님이 소녀 같으시네요
+datasets/moon/audio/4/3_4971.wav|성공을 하려면 남들보다 더 노력해야 해
+datasets/moon/audio/4/3_1254.wav|나는 한 시간 가까이 출발을 늦추었다
+datasets/moon/audio/4/3_2377.wav|딸아이가 통 시집갈 생각을 안 해요
+datasets/moon/audio/4/4_0547.wav|네가 붙다니 이건 기적이야
+datasets/moon/audio/4/4_3016.wav|배고파 죽을 지경이야
+datasets/moon/audio/4/3_2119.wav|채소를 볶기 전에 살짝 데쳐 주세요
+datasets/moon/audio/4/2_1106.wav|담배는 특히 십대 청소년들에게 해롭다
+datasets/moon/audio/4/2_0377.wav|그 공연은 정말 멋졌다
+datasets/moon/audio/4/3_1488.wav|그녀는 훌륭한 교사다
+datasets/moon/audio/4/3_2656.wav|저는 드라마를 즐겨 봐요
+datasets/moon/audio/4/1_0097.wav|휴가 잘 보내세요
+datasets/moon/audio/4/4_4086.wav|얼른 와서 이 티비 뉴스 좀 봐
+datasets/moon/audio/4/4_1000.wav|창문에 돌을 던진 사람이 누구야
+datasets/moon/audio/4/4_0337.wav|아기 옷 벗기는 것 좀 도와 줄래
+datasets/moon/audio/4/3_2284.wav|우리는 사돈 간입니다
+datasets/moon/audio/4/3_3013.wav|한국에서는 대마초를 피우는 것이 불법입니다
+datasets/moon/audio/4/4_5530.wav|그건 제 영역 밖의 일이에요
+datasets/moon/audio/4/3_2899.wav|문법을 이해하면 생각을 글로 명확하게 표현할 수 있다
+datasets/moon/audio/4/4_3411.wav|꼭대기까지 가는 데 얼마나 걸려요
+datasets/moon/audio/4/4_4900.wav|컴퓨터를 오래 하고 나면 손목이 아파요
+datasets/moon/audio/4/4_0722.wav|한국의 칠월은 날씨가 어때요
+datasets/moon/audio/4/4_3360.wav|여기에 인터넷이 깔려 있나요
+datasets/moon/audio/4/3_3503.wav|대출을 위해서는 보증을 서실 분이 필요합니다
+datasets/moon/audio/4/4_3339.wav|그렇게 생각하는 까닭이 뭔가요
+datasets/moon/audio/4/2_1078.wav|아기가 평화롭게 자고 있다
+datasets/moon/audio/4/3_1257.wav|현재 상태를 유지하는 것이 쉽지 않다
+datasets/moon/audio/4/1_0120.wav|기름을 가득 채워 주세요
+datasets/moon/audio/4/1_0788.wav|외부 전화는 구번을 누르세요
+datasets/moon/audio/4/4_3269.wav|농촌의 인구는 계속 줄어들고 있어요
+datasets/moon/audio/4/1_0748.wav|참을 수 있는 한계를 넘어섰어요
+datasets/moon/audio/4/4_0810.wav|저 조금 취한 것 같아요
+datasets/moon/audio/4/3_0192.wav|행복한 사람들은 대체로 유머 감각이 뛰어나다
+datasets/moon/audio/4/3_3150.wav|저는 남북 통일을 간절히 바라고 있어요
+datasets/moon/audio/4/1_0068.wav|가난에서 벗어나려면 습관부터 바꿔라
+datasets/moon/audio/4/4_2042.wav|어떻게 그런 결론을 내리게 된 겁니까
+datasets/moon/audio/4/3_2467.wav|나는 대학에서 경제학을 공부하고 싶다
+datasets/moon/audio/4/3_0821.wav|그 사람하고 얘기를 하고 있으면 참 유쾌해요
+datasets/moon/audio/4/4_4540.wav|내 여동생이 사월에 아기를 낳을 예정이야
+datasets/moon/audio/4/4_4806.wav|신호는 가는데 전화를 안 받아요
+datasets/moon/audio/4/3_2473.wav|숙제 다 했어
+datasets/moon/audio/4/3_3024.wav|일주일 전에 길거리에서 강도를 당했어요
+datasets/moon/audio/4/3_2165.wav|이곳 기후는 사람이 거주하기에 적합하지 않다
+datasets/moon/audio/4/1_0865.wav|가격은 선생님이 상상하시는 것보다 저렴합니다
+datasets/moon/audio/4/4_1412.wav|집에서 숙제를 해 가지고 오세요
+datasets/moon/audio/4/3_0569.wav|그 사람은 침대에 누워 책을 읽고 있었어요
+datasets/moon/audio/4/3_0183.wav|생리가 불규칙해 산부인과에 가 봐야 할까 봐
+datasets/moon/audio/4/4_4370.wav|아 내 리포트가 날아갔어
+datasets/moon/audio/4/2_0798.wav|그 사람 못 본 지 오래예요
+datasets/moon/audio/4/3_1997.wav|참기름 냄새가 고소하다
+datasets/moon/audio/4/3_3178.wav|그녀가 한 말은 모두 거짓이었다
+datasets/moon/audio/4/3_1322.wav|저는 왜 이렇게 못생겼을까요
+datasets/moon/audio/4/3_1607.wav|비밀 지킬 수 있어
+datasets/moon/audio/4/3_3559.wav|전화 한 통 써도 될까요
+datasets/moon/audio/4/4_2817.wav|저쪽 테이블로 옮겨도 되나요
+datasets/moon/audio/4/3_4201.wav|이 치료의 효과는 일시적입니다
+datasets/moon/audio/4/3_0730.wav|맥박과 혈압은 정상입니다
+datasets/moon/audio/4/3_3333.wav|그 땅은 농사를 짓기에 부적합하다
+datasets/moon/audio/4/3_0424.wav|아버지는 언제나 잡은 고기들을 모두 놓아주고는 했어요
+datasets/moon/audio/4/4_3277.wav|메일 주소가 어떻게 되세요
+datasets/moon/audio/4/4_0637.wav|엄마 상 차리는 것 좀 도와라
+datasets/moon/audio/4/3_0688.wav|어쩌다 눈에 멍이 든 거니
+datasets/moon/audio/4/3_4012.wav|일월 초순에 파리로 갈 거야
+datasets/moon/audio/4/1_0882.wav|사업에 성공하려면 우선 자신을 돌봐야 한다
+datasets/moon/audio/4/3_4904.wav|그 사람은 참 좋은 사람이야
+datasets/moon/audio/4/3_3627.wav|그 책은 여태까지 전 세계에서 천만 권 이상 팔렸다
+datasets/moon/audio/4/3_0823.wav|그것 참 반가운 일이군요
+datasets/moon/audio/4/4_1036.wav|어디에 있든지 자주 편지해
+datasets/moon/audio/4/3_1436.wav|걱정 마 나는 입이 무거워
+datasets/moon/audio/4/4_0457.wav|형제는 같은 부대로 배치를 받았다
+datasets/moon/audio/4/4_0553.wav|요즘은 서울 하늘에서 별을 보기가 쉽지 않아요
+datasets/moon/audio/4/3_4237.wav|수원에 가 본 적 있으세요
+datasets/moon/audio/4/3_2932.wav|인생은 비극이야
+datasets/moon/audio/4/4_4976.wav|총을 쏘지 마세요
+datasets/moon/audio/4/3_3897.wav|이번 휴가에 바닷가에 갈 거야
+datasets/moon/audio/4/4_5206.wav|집을 떠나온 지 얼마나 되었습니까
+datasets/moon/audio/4/4_0749.wav|최종 결정은 너한테 달렸어
+datasets/moon/audio/4/4_3139.wav|잠을 쫓으려고 커피를 두 잔이나 마셨어요
+datasets/moon/audio/4/3_3325.wav|저는 그 섬의 작은 농촌에서 태어났습니다
+datasets/moon/audio/4/4_2642.wav|아버지는 교사로서 자부심이 강한 분이에요
+datasets/moon/audio/4/3_1193.wav|여기 온 목적이 뭡니까
+datasets/moon/audio/4/3_0401.wav|만지지 마시오
+datasets/moon/audio/4/1_0782.wav|창문을 열어 놓으세요
+datasets/moon/audio/4/4_0947.wav|그 당시 저는 직업이 없었어요
+datasets/moon/audio/4/3_0499.wav|결국 아내는 벽장 안에 숨긴 돈을 찾아냈어요
+datasets/moon/audio/4/3_2014.wav|또 햄버거로 끼니를 때우는 거야
+datasets/moon/audio/4/3_4367.wav|티셔츠가 빛이 바랬어요
+datasets/moon/audio/4/3_3626.wav|아동 도서 시장은 빠르게 성장하고 있다
+datasets/moon/audio/4/1_0201.wav|용의자는 부산으로 달아났다
+datasets/moon/audio/4/2_0628.wav|순진한 척하지 마
+datasets/moon/audio/4/4_2165.wav|제 친구들 중에는 이미 학부모가 된 아이들이 많아요
+datasets/moon/audio/4/3_2254.wav|할아버지는 늘 일찍 주무세요
+datasets/moon/audio/4/2_0165.wav|전국적으로 가뭄이 극심하다
+datasets/moon/audio/4/3_4005.wav|이번 달 전기 요금이 너무 많이 나왔어요
+datasets/moon/audio/4/3_2939.wav|환경에 관한 국제 회의가 서울에서 열리고 있다
+datasets/moon/audio/4/4_2693.wav|전화 잘못 거셨어요
+datasets/moon/audio/4/3_4274.wav|방의 중앙에 의자를 놓으세요
+datasets/moon/audio/4/4_4717.wav|시험을 다음 주 목요일로 연기할 수 있을까요
+datasets/moon/audio/4/2_0895.wav|그 여자는 자기가 잘난 줄 알아요
+datasets/moon/audio/4/4_1046.wav|길을 잘못 들으셨어요
+datasets/moon/audio/4/3_2382.wav|제 대학교수님이 주례를 서 주셨어요
+datasets/moon/audio/4/3_1674.wav|어떤 색깔을 찾고 계세요
+datasets/moon/audio/4/4_0792.wav|안양으로 이사 간 후로 출퇴근 시간이 많이 늘어났어요
+datasets/moon/audio/4/2_0492.wav|배가 불러 더 이상은 못 먹겠어요
+datasets/moon/audio/4/3_2233.wav|어렸을 때 목이 불에 데었어요
+datasets/moon/audio/4/2_0840.wav|그는 유능한 경찰이다
+datasets/moon/audio/4/4_5411.wav|한국 사람들은 양력과 음력을 모두 사용해요
+datasets/moon/audio/4/2_0183.wav|이 문제는 초등학생들에게는 너무 까다로워
+datasets/moon/audio/4/3_4746.wav|장난이 지나치시네요
+datasets/moon/audio/4/3_3200.wav|작년에 저희는 열 명의 주부들로 구성된 단체를 만들었어요
+datasets/moon/audio/4/4_3229.wav|주말에 주로 뭐 하세요
+datasets/moon/audio/4/4_3605.wav|저는 먹여 살릴 식구가 많아요
+datasets/moon/audio/4/3_2924.wav|무대에서 대사를 까먹은 적이 있나요
+datasets/moon/audio/4/4_4943.wav|걔는 책을 쌓아 두기만 하고 보지는 않아
+datasets/moon/audio/4/4_4590.wav|저는 일 년에 책을 서너 권 정도 삽니다
+datasets/moon/audio/4/4_3601.wav|먼저 메뉴판 좀 주세요
+datasets/moon/audio/4/1_0150.wav|이 역에서 출발하는 사람 중에는 군인이 많아
+datasets/moon/audio/4/4_5090.wav|우주의 탄생은 아직도 미스터리예요
+datasets/moon/audio/4/2_0692.wav|그녀는 쓸쓸한 표정으로 나를 쳐다보았다
+datasets/moon/audio/4/4_2530.wav|비로 인해 경기가 취소되었어요
+datasets/moon/audio/4/4_3727.wav|무엇이 문제인가요
+datasets/moon/audio/4/3_5000.wav|진정시키다
+datasets/moon/audio/4/4_4673.wav|최고의 스승은 부모라는 말에 동의합니다
+datasets/moon/audio/4/4_3994.wav|네가 늘어놓은 장난감 언제 치울 거니
+datasets/moon/audio/4/3_3348.wav|그 창고는 습기가 많아서 곡식을 장기간 보관하기는 어렵다
+datasets/moon/audio/4/3_2021.wav|저는 아직 배 안 고파요
+datasets/moon/audio/4/3_2410.wav|오늘 밤에 신입생 환영회가 있습니다
+datasets/moon/audio/4/4_0010.wav|네 살 된 아들이 하나 있습니다
+datasets/moon/audio/4/3_3558.wav|저는 예전 직장 동료들과 아직도 연락하고 지내요
+datasets/moon/audio/4/1_0129.wav|갑자기 시부모님이 오셔서 모임에 참석하지 못했어요
+datasets/moon/audio/4/4_3072.wav|외국에 나가면 여권을 항상 지니고 다니세요
+datasets/moon/audio/4/3_2765.wav|이번 한 게임에 모든 것을 걸겠어
+datasets/moon/audio/4/3_1998.wav|야채 볶을 때 식용유를 쓸까요 버터를 쓸까요
+datasets/moon/audio/4/1_0923.wav|모니터 위에 먼지가 잔뜩 쌓였어요
+datasets/moon/audio/4/4_4320.wav|이번 공연은 야외에서 펼쳐질 거예요
+datasets/moon/audio/4/3_1836.wav|그녀는 대선 출마 의사를 밝혔다
+datasets/moon/audio/4/1_1000.wav|그녀는 육상 선수였기 때문에 굉장히 높이 뛸 수 있다
+datasets/moon/audio/4/4_3256.wav|저는 중학교 교사입니다
+datasets/moon/audio/4/4_3474.wav|정말 맛없다
+datasets/moon/audio/4/3_4256.wav|내 뒤에 서 있어라
+datasets/moon/audio/4/3_3949.wav|나 없는 동안 화분에 물 좀 줄래
+datasets/moon/audio/4/3_2737.wav|기념품을 살 수 있는 곳이 있나요
+datasets/moon/audio/4/4_1181.wav|우리 집 뒤에는 주차장이 있어요
+datasets/moon/audio/4/4_2958.wav|아기한테 젖 먹일 시간이에요
+datasets/moon/audio/4/3_3597.wav|그 드라마는 매주 토요일 저녁에 방영된다
+datasets/moon/audio/4/3_2296.wav|오직 가까운 친척들만이 결혼식에 참석했다
+datasets/moon/audio/4/3_3307.wav|아내와 저는 매주 일요일 아침에 교회에 갑니다
+datasets/moon/audio/4/4_1320.wav|글쎄요, 음, 그건 확실히 모르겠어요
+datasets/moon/audio/4/3_1194.wav|목적은 수단을 정당화하지 않는다
+datasets/moon/audio/4/3_1901.wav|여자 친구에게 선물할 귀걸이를 찾고 있어요
+datasets/moon/audio/4/4_2622.wav|저는 딸만 여섯 있어요
+datasets/moon/audio/4/2_0146.wav|옛날에는 컴퓨터가 귀했다
+datasets/moon/audio/4/4_2814.wav|그 책의 저자는 누구예요
+datasets/moon/audio/4/3_0540.wav|입 다물어
+datasets/moon/audio/4/4_3782.wav|너희 아빠는 무슨 일을 하시니
+datasets/moon/audio/4/3_4034.wav|세월 참 빠르네
+datasets/moon/audio/4/4_2399.wav|제가 걱정해 왔던 일이 현실이 되었어요
+datasets/moon/audio/4/4_0725.wav|그냥 네 칫솔만 챙겨 치약은 내 것을 쓰면 돼
+datasets/moon/audio/4/4_1389.wav|개미들이 설탕 주위에 모여 있어요
+datasets/moon/audio/4/4_2938.wav|내일 저녁에 뭐 할 거예요
+datasets/moon/audio/4/4_1819.wav|단점을 고치는 건 쉬운 일이 아냐
+datasets/moon/audio/4/2_0394.wav|내 노트북은 이것보다 못해
+datasets/moon/audio/4/3_4684.wav|일등과 이등은 하늘과 땅 차이예요
+datasets/moon/audio/4/3_3953.wav|새 두 마리
+datasets/moon/audio/4/4_5207.wav|이 사진을 보면 어릴 때가 떠올라요
+datasets/moon/audio/4/4_1151.wav|아버지가 편히 주무시도록 조용히 해라
+datasets/moon/audio/4/3_1028.wav|그 사람한테 네 의견을 말하지 그래
+datasets/moon/audio/4/4_1299.wav|요즘 몸은 좀 어때
+datasets/moon/audio/4/3_1004.wav|네가 창피할 이유는 없어
+datasets/moon/audio/4/3_4379.wav|이 상자는 가로 삼십 세로 오십 높이 이십센티다
+datasets/moon/audio/4/3_4025.wav|몇 년도에 졸업했니
+datasets/moon/audio/4/4_2904.wav|대학 때 전공이 뭐예요
+datasets/moon/audio/4/4_5589.wav|서울의 버스 요금은 얼마죠
+datasets/moon/audio/4/2_0660.wav|아내는 매사에 신중합니다
+datasets/moon/audio/4/3_3857.wav|어젯밤 광주 인근에서 강력한 지진이 발생했다
+datasets/moon/audio/4/3_3012.wav|다행히 피해는 크지 않았다
+datasets/moon/audio/4/2_0611.wav|봐 달라고 빌어 봤자 소용없다
+datasets/moon/audio/4/2_0225.wav|이럴 때일수록 냉정해야 해
+datasets/moon/audio/4/4_4682.wav|다 쓰고 나면 스위치를 꼭 꺼
+datasets/moon/audio/4/3_1977.wav|밥 한 공기 더 주세요
+datasets/moon/audio/4/3_4166.wav|그 사람은 앉으나 서나 일 생각만 해요
+datasets/moon/audio/4/3_0485.wav|그는 가방에서 낡은 책 한 권을 끄집어냈다
+datasets/moon/audio/4/4_1773.wav|많은 아이들이 소풍 때 도시락으로 김밥을 싸 와요
+datasets/moon/audio/4/3_3037.wav|그는 살인, 강도, 강간 등 흉악한 범죄를 저질렀다
+datasets/moon/audio/4/4_4128.wav|나는 네가 올바른 선택을 할 거라고 믿어
+datasets/moon/audio/4/3_2142.wav|독감이 전국적으로 유행하고 있다
+datasets/moon/audio/4/3_2864.wav|제가 제일 좋아하는 밴드가 새 음반을 발표했어요
+datasets/moon/audio/4/3_1115.wav|아내는 창의성이 풍부합니다
+datasets/moon/audio/4/4_3960.wav|다음 주제로 넘어가자
+datasets/moon/audio/4/1_0344.wav|저를 기억하시겠어요
+datasets/moon/audio/4/3_3197.wav|어떻게 해야 세대 차이를 극복할 수 있을까요
+datasets/moon/audio/4/3_2361.wav|나는 자기밖에 없어
+datasets/moon/audio/4/3_2556.wav|예외 없는 법칙은 없다
+datasets/moon/audio/4/3_3491.wav|보험 약관에 따라 보험금을 청구하려고 할 때 다음 순서를 따르세요
+datasets/moon/audio/4/4_0097.wav|여기가 안방이에요
+datasets/moon/audio/4/3_4737.wav|제 일은 신규 고객을 확보하는 것입니다
+datasets/moon/audio/4/1_0878.wav|우유랑 버터를 밀가루에 섞으세요
+datasets/moon/audio/4/4_2271.wav|밤새웠더니 몸에 힘이 하나도 없어요
+datasets/moon/audio/4/4_0048.wav|언제 내려야 할지 좀 알려주세요
+datasets/moon/audio/4/3_2683.wav|저희 사진 좀 찍어 주시겠어요
+datasets/moon/audio/4/4_2675.wav|저는 수학 교사 자격증이 있어요
+datasets/moon/audio/4/4_3504.wav|마이크에 대고 자연스럽게 이야기하세요
+datasets/moon/audio/4/4_4122.wav|저희는 오전 아홉시에 문을 엽니다
+datasets/moon/audio/4/4_2527.wav|그 사람은 인간성이 좋아요
+datasets/moon/audio/4/4_1740.wav|오래 기다리셨어요
+datasets/moon/audio/4/3_1611.wav|수업 시간에 떠들지 마라
+datasets/moon/audio/4/4_2736.wav|영화 올드보이의 첫 장면은 아주 인상적이었어요
+datasets/moon/audio/4/4_5352.wav|저는 위가 안 좋아요
+datasets/moon/audio/4/3_2371.wav|저는 약혼을 했지만 약혼녀를 정말로 얼마나 사랑하는지 모르겠어요
+datasets/moon/audio/4/3_0530.wav|개들은 여러 이유로 종종 고개를 갸웃거린다
+datasets/moon/audio/4/4_2604.wav|세일은 일월 십오일까지입니다
+datasets/moon/audio/4/3_2726.wav|카드를 분실하거나 도난 당할 경우 즉시 신고해서 카드를 정지시켜야 합니다
+datasets/moon/audio/4/3_3927.wav|오늘 경기는 기상 악화로 취소되었습니다
+datasets/moon/audio/4/2_0779.wav|그는 경찰이 엉뚱한 사람을 체포했다고 주장했다
+datasets/moon/audio/4/3_3828.wav|빛은 소리보다 훨씬 빨리 이동한다
+datasets/moon/audio/4/2_0089.wav|참기름 냄새가 참 고소해요
+datasets/moon/audio/4/3_4748.wav|체온은 정상입니다
+datasets/moon/audio/4/3_1697.wav|에이 나랑 결혼해 줄래 비 그럼, 물론이지
+datasets/moon/audio/4/4_4089.wav|언제 오세요
+datasets/moon/audio/4/3_2855.wav|그는 작곡가이자 바이올린 연주자이다
+datasets/moon/audio/4/4_2150.wav|이 넥타이하고 그 셔츠는 안 어울려
+datasets/moon/audio/4/4_4705.wav|저는 시어머니와 사이가 아주 좋아요
+datasets/moon/audio/4/2_0453.wav|학생이 수업 시간에 질문을 하는 것이 바람직합니다
+datasets/moon/audio/4/3_2695.wav|장난 전화 걸지 마라
+datasets/moon/audio/4/4_2776.wav|섹스는 정상적이고 자연스러운 겁니다
+datasets/moon/audio/4/1_0539.wav|그 나라에 가려면 지문을 찍어야 한다
+datasets/moon/audio/4/2_0838.wav|사람들이 전염병으로 대단히 위험한 상황에 처해 있다
+datasets/moon/audio/4/3_3911.wav|남부 캘리포니아는 일 년 내내 화창합니다
+datasets/moon/audio/4/3_1758.wav|엄마한테 이르면 죽을 줄 알아
+datasets/moon/audio/4/3_1214.wav|변경 사항들을 적용하려면 컴퓨터를 껐다 켜시오
+datasets/moon/audio/4/4_2346.wav|날짜가 확정되면 바로 알려 드릴게요
+datasets/moon/audio/4/4_4030.wav|저는 시골에 농장이 있습니다
+datasets/moon/audio/4/3_3809.wav|배 한 척
+datasets/moon/audio/4/3_0986.wav|깜짝 놀랐잖아 간 떨어질 뻔했어
+datasets/moon/audio/4/4_0705.wav|천장을 직접 칠하셨어요
+datasets/moon/audio/4/4_0081.wav|자 아니 깨어 있어
+datasets/moon/audio/4/3_3490.wav|매달 보험료를 납입하는 것이 한 번에 큰돈을 내는 것보다 낫다
+datasets/moon/audio/4/4_0353.wav|이번 시험은 비교적 쉬웠어요
+datasets/moon/audio/4/3_2246.wav|어머니가 가족을 부양하고 계세요
+datasets/moon/audio/4/1_0676.wav|거스름돈이 모자란 거 같아요
+datasets/moon/audio/4/4_4198.wav|사람을 외모로 판단하지 마세요
+datasets/moon/audio/4/3_2764.wav|우리 달리기 시합 할까
+datasets/moon/audio/4/2_0560.wav|어제부터 날씨가 몹시 사나워요
+datasets/moon/audio/4/4_0466.wav|이 부근에서는 택시 잡기가 정말 힘들군요
+datasets/moon/audio/4/4_0191.wav|암은 조기 발견이 아주 중요하다
+datasets/moon/audio/4/4_1954.wav|나는 국내 영화보다 외국 영화가 더 좋아
+datasets/moon/audio/4/4_4423.wav|숙제 때문에 밤을 새워서 피곤해 죽겠어
+datasets/moon/audio/4/3_0492.wav|문을 닫고 들어와라
+datasets/moon/audio/4/3_1288.wav|그들의 생활 여건은 열악했다
+datasets/moon/audio/4/3_3062.wav|그녀는 가해자의 얼굴을 기억해 내지 못했다
+datasets/moon/audio/4/2_0851.wav|당신이 유일하게 왔어요
+datasets/moon/audio/4/3_3540.wav|내년에 인도에 공장을 세울 예정입니다
+datasets/moon/audio/4/4_1648.wav|농담은 그만둬
+datasets/moon/audio/4/3_0334.wav|저 건물에 이발소 표시가 있다
+datasets/moon/audio/4/3_2443.wav|우리 엄마는 초등학교도 못 나왔어요
+datasets/moon/audio/4/4_2020.wav|어머 이 아이들 너무 귀엽다
+datasets/moon/audio/4/3_1620.wav|말 돌리지 말고 핵심을 말해 봐
+datasets/moon/audio/4/3_4036.wav|청소년기는 아주 중요한 시기야
+datasets/moon/audio/4/4_0780.wav|정부는 그 시에 대한 예산 지원을 축소하기로 결정했다
+datasets/moon/audio/4/3_0114.wav|어두운 곳에 가면 눈동자가 커진다
+datasets/moon/audio/4/4_4143.wav|다른 부서로 옮기고 싶어요
+datasets/moon/audio/4/3_0252.wav|이 꽃은 향기가 좋아요
+datasets/moon/audio/4/2_1110.wav|사람들은 그의 허름한 옷차림 때문에 그를 거지라고 생각했다
+datasets/moon/audio/4/3_2180.wav|그는 사무실 근처의 하숙집에서 산다
+datasets/moon/audio/4/2_1063.wav|하늘을 꼭 파랗게 칠할 필요는 없어
+datasets/moon/audio/4/3_2276.wav|어제는 언니 집에서 잤어요
+datasets/moon/audio/4/3_1955.wav|카드로 결제해도 되나요
+datasets/moon/audio/4/3_3729.wav|사고가 나서 차가 많이 밀려 있어요
+datasets/moon/audio/4/4_2335.wav|이메일 확인해 봤어
+datasets/moon/audio/4/4_4793.wav|미리 신청을 하셨나요
+datasets/moon/audio/4/3_0330.wav|끄트머리를 다듬어 주세요
+datasets/moon/audio/4/4_5095.wav|테이프 처음으로 다시 감았어
+datasets/moon/audio/4/1_0730.wav|어머니의 건강이 점점 나빠지고 있어요
+datasets/moon/audio/4/4_1126.wav|제 말에 동의하세요
+datasets/moon/audio/4/4_1725.wav|이 방법은 그야말로 백퍼센트 효과가 있어요
+datasets/moon/audio/4/3_4433.wav|혈압을 재겠습니다
+datasets/moon/audio/4/3_4899.wav|꼭 암을 이겨내겠어요
+datasets/moon/audio/4/4_4048.wav|한국의 전통 놀이에는 뭐가 있나요
+datasets/moon/audio/4/4_0735.wav|이번 축제에는 인기 가수들을 초청할 예정입니다
+datasets/moon/audio/4/4_5623.wav|부산은 국제 영화 축제로 유명해요
+datasets/moon/audio/4/4_4570.wav|건강에 관련된 서적은 어디에 있나요
+datasets/moon/audio/4/4_0647.wav|언제 찾으러 올까요
+datasets/moon/audio/4/3_2367.wav|첫 키스는 어땠나요
+datasets/moon/audio/4/3_4952.wav|거울 보면서 연습하고 있어요
+datasets/moon/audio/4/3_1705.wav|부탁 하나 해도 될까요
+datasets/moon/audio/4/3_4308.wav|선인장은 혹독한 환경에 잘 적응하는 특성이 있다
+datasets/moon/audio/4/4_3643.wav|민주주의의 핵심은 대화다
+datasets/moon/audio/4/3_3324.wav|이 지역 주민들 중 대부분은 농업에 종사하고 있다
+datasets/moon/audio/4/3_3823.wav|달이 구름 사이로 나타났다
+datasets/moon/audio/4/4_0681.wav|이 청소기는 선이 너무 짧아서 쓰기가 불편해요
+datasets/moon/audio/4/4_5390.wav|식사하고 삼십분 후에 이 약을 드세요
+datasets/moon/audio/4/3_3300.wav|최근에 기독교에서 불교로 개종하기로 마음먹었어요
+datasets/moon/audio/4/2_0428.wav|그는 무심한 표정으로 고개를 끄덕였다
+datasets/moon/audio/4/3_4328.wav|등을 곧게 펴라
+datasets/moon/audio/4/4_4665.wav|승진을 축하합니다
+datasets/moon/audio/4/3_3965.wav|우리 집 닭은 달걀을 하루에 한 개씩 낳는다
+datasets/moon/audio/4/4_4033.wav|저는 아직 농사일이 서툴러요
+datasets/moon/audio/4/4_4547.wav|몇까지 셀 수 있니
+datasets/moon/audio/4/4_1988.wav|동물원 관람객들은 동물에게 먹이를 주지 말라는 주의를 받습니다
+datasets/moon/audio/4/3_3722.wav|골목에서는 차가 보행자에게 양보해야 한다
+datasets/moon/audio/4/3_2824.wav|스키 탈 줄 아니
+datasets/moon/audio/4/4_0937.wav|여행 중에는 단독으로 행동하면 안 된다
+datasets/moon/audio/4/4_1133.wav|이 동네는 아이들에게 너무 위험해요
+datasets/moon/audio/4/1_0460.wav|리모컨은 침대 위에 있어
+datasets/moon/audio/4/4_0295.wav|벤치에 앉아서 좀 쉬자
+datasets/moon/audio/4/3_4325.wav|똑바로 서라
+datasets/moon/audio/4/3_1263.wav|일정은 사전 통보 없이 변경될 수 있습니다
+datasets/moon/audio/4/4_5380.wav|야 말 조심해
+datasets/moon/audio/4/1_0905.wav|누구나 실수할 수 있다
+datasets/moon/audio/4/3_3623.wav|오늘 신문 사설 읽었어
+datasets/moon/audio/4/4_1244.wav|우리 어머니는 중학교에서 음악을 가르치세요
+datasets/moon/audio/4/4_3561.wav|신랑은 결혼식에서 만세를 외쳤다
+datasets/moon/audio/4/3_3685.wav|자동차에 또 문제가 있어요
+datasets/moon/audio/4/3_4967.wav|미국에 가려면 영어를 할 줄 알아야 해요
+datasets/moon/audio/4/4_0685.wav|천장에 물이 새요
+datasets/moon/audio/4/4_3719.wav|어떻게 그런 무책임한 말을 할 수 있어
+datasets/moon/audio/4/3_4447.wav|나이는 숫자에 불과하다
+datasets/moon/audio/4/4_2544.wav|인상 좀 쓰지 마
+datasets/moon/audio/4/4_3178.wav|졸업하고 나면 뭐 할 거예요
+datasets/moon/audio/4/3_3346.wav|농가들이 잉여 농산물을 놓고 고심하고 있다
+datasets/moon/audio/4/4_1185.wav|뒤쪽에 자리가 있는 것 같아요
+datasets/moon/audio/4/3_0888.wav|그는 나에게 사람들의 비난을 무시하라고 충고했다
+datasets/moon/audio/4/4_0916.wav|저는 스포츠, 특히 달리기를 좋아해요
+datasets/moon/audio/4/4_4009.wav|먼저 버터를 녹이세요
+datasets/moon/audio/4/1_0731.wav|시력이 많이 나빠졌어요
+datasets/moon/audio/4/4_0574.wav|커피하고 차 중에 뭐 마실래
+datasets/moon/audio/4/4_2708.wav|저는 잠자리가 바뀌면 잠을 잘 못 자요
+datasets/moon/audio/4/4_4678.wav|너희 영어 스터디에 내가 껴도 될까
+datasets/moon/audio/4/3_0550.wav|많은 사람들이 어깨를 움츠린 채로 하루 종일 책상 앞에 앉아 있다
+datasets/moon/audio/4/3_0267.wav|마지막으로 미지근한 물에 헹궈 내세요
+datasets/moon/audio/4/3_2991.wav|이번 선거의 투표율은 매우 낮았다
+datasets/moon/audio/4/4_5136.wav|저는 우리 팀에서 제일 키가 작아요
+datasets/moon/audio/4/1_0877.wav|떠날 채비를 서둘러라
+datasets/moon/audio/4/4_3823.wav|이 지폐를 잔돈으로 좀 바꿔 주실 수 있나요
+datasets/moon/audio/4/4_2342.wav|창문을 확 좀 열어라
+datasets/moon/audio/4/3_1796.wav|어머니는 제 생활에 지나치게 간섭하세요
+datasets/moon/audio/4/4_3819.wav|저는 한국의 가을 하늘만큼 푸른 하늘을 본 적이 없어요
+datasets/moon/audio/4/4_0692.wav|저는 체력이 약한 편이에요
+datasets/moon/audio/4/4_2118.wav|일이 하도 많아서 점심도 못 먹었어요
+datasets/moon/audio/4/4_1125.wav|어릴 때 엄마는 밤마다 저에게 동화책을 읽어 주셨어요
+datasets/moon/audio/4/2_0499.wav|우리 회사는 현재 사람이 부족해요
+datasets/moon/audio/4/4_2664.wav|그렇게 엄청난 재산을 어떻게 모으셨어요
+datasets/moon/audio/4/3_1326.wav|좋은 이미지를 유지하는 것이 연예인들에게는 중요하다
+datasets/moon/audio/4/4_1751.wav|주방 기구
+datasets/moon/audio/4/3_4193.wav|점차 좋아지고 있습니다
+datasets/moon/audio/4/3_0509.wav|실이 엉켜서 안 풀려요
+datasets/moon/audio/4/4_4647.wav|그냥 저기 저 건물 옆에 세워 주세요
+datasets/moon/audio/4/3_3640.wav|이 컴퓨터 잠시 좀 써도 되나요
+datasets/moon/audio/4/4_0768.wav|팔월 초순에 휴가를 갈 생각이에요
+datasets/moon/audio/4/3_2915.wav|그 소설은 영화로 제작될 예정이다
+datasets/moon/audio/4/1_0779.wav|합격을 위해 정말 열심히 노력했어
+datasets/moon/audio/4/4_3500.wav|누나는 마음씨가 고운 사람이에요
+datasets/moon/audio/4/4_1969.wav|새 학기가 구월에 시작됩니다
+datasets/moon/audio/4/3_4801.wav|대회는 보통 일월 말이나 이월 초에 열립니다
+datasets/moon/audio/4/4_2442.wav|8시 이후에 예약이 가능해요
+datasets/moon/audio/4/3_1888.wav|올 여름은 칠십년대 패션이 다시 유행하고 있다
+datasets/moon/audio/4/4_3557.wav|그 여자만큼 매력적인 사람은 드물어요
+datasets/moon/audio/4/2_0978.wav|우리는 몇 시간 동안 진지한 대화를 나누었다
+datasets/moon/audio/4/4_3907.wav|내가 나뭇가지를 모아 올 테니까 너는 구멍을 파
+datasets/moon/audio/4/3_3607.wav|당국은 그 보도를 완강하게 부인하고 있다
+datasets/moon/audio/4/4_0030.wav|아이고 정말 죄송해요
+datasets/moon/audio/4/3_2562.wav|더 이상의 정보는 드릴 수가 없네요
+datasets/moon/audio/4/3_1392.wav|지원 자격이 어떻게 돼요
+datasets/moon/audio/4/4_5276.wav|한국 경제는 옛날부터 수출에 의존해 왔어요
+datasets/moon/audio/4/3_2853.wav|제 꿈은 세계적인 음악가가 되는 거예요
+datasets/moon/audio/4/2_0958.wav|저는 중대한 결정을 내리기 전에 식구들이랑 꼭 의논을 해요
+datasets/moon/audio/4/4_0721.wav|아드님 결혼식은 잘 치르셨어요
+datasets/moon/audio/4/3_4511.wav|이것들이 내 전 재산이에요
+datasets/moon/audio/4/4_5461.wav|우리 반은 남학생보다 여학생이 많아요
+datasets/moon/audio/4/3_2732.wav|지도를 보면서 안내해 드릴게요
+datasets/moon/audio/4/4_3892.wav|바람이 남에서 북으로 바뀌었어요
+datasets/moon/audio/4/4_4116.wav|단어를 외우는 제일 쉬운 방법이 뭘까
+datasets/moon/audio/4/3_3474.wav|침몰한 배를 구조하는 비용은 거액에 달한다
+datasets/moon/audio/4/4_4608.wav|물은 더러운 것을 깨끗하게 만드는 성질이 있다
+datasets/moon/audio/4/4_1314.wav|며칠 내로 꼭 갚을게
+datasets/moon/audio/4/4_1536.wav|제가 살던 곳에서는 게가 아주 쌌어요
+datasets/moon/audio/4/3_1265.wav|우리 발상을 전환해 봅시다
+datasets/moon/audio/4/3_4964.wav|돈이 있으면 좀 빌려 줄래
+datasets/moon/audio/4/3_4727.wav|그의 발명품은 전혀 쓸모가 없다
+datasets/moon/audio/4/4_3111.wav|양말이 짝이 안 맞아요
+datasets/moon/audio/4/4_5606.wav|요새 스트레스를 많이 받아요
+datasets/moon/audio/4/3_1571.wav|그 자신을 빼고 모두들 그가 무능하다고 생각했다
+datasets/moon/audio/4/4_2886.wav|우리는 매주 정기적으로 모임을 가집니다
+datasets/moon/audio/4/3_2927.wav|영화의 첫 장면이 아주 인상적이었어요
+datasets/moon/audio/4/3_3064.wav|그녀는 남편을 살해했다는 자신에 대한 모든 혐의를 부인했다
+datasets/moon/audio/4/4_3263.wav|저희 은행은 중소기업들에게 많은 혜택을 제공하고 있습니다
+datasets/moon/audio/4/3_3996.wav|주말 어떻게 보냈어
+datasets/moon/audio/4/3_1266.wav|계획의 많은 부분이 수정되었다
+datasets/moon/audio/4/3_3494.wav|이번 창구에서 공과금을 납부하실 수 있습니다
+datasets/moon/audio/4/3_3375.wav|그 공장은 최신 설비를 갖추고 있다
+datasets/moon/audio/4/4_5440.wav|얼른 말해
+datasets/moon/audio/4/3_1137.wav|우리는 책을 주제에 따라 분류했다
+datasets/moon/audio/4/3_1148.wav|다음 문항들은 당신의 공간 지각 능력을 시험할 것입니다
+datasets/moon/audio/4/4_2999.wav|해가 지고 날이 어두워졌어요
+datasets/moon/audio/4/3_3337.wav|이 비료에는 식물의 생장에 필요한 모든 영양소가 들어 있습니다
+datasets/moon/audio/4/4_3313.wav|이 이불은 너무 커서 세탁기 안에 안 들어가요
+datasets/moon/audio/4/3_0645.wav|총을 버리고 집 밖으로 나와라
+datasets/moon/audio/4/4_3272.wav|너무 빨라요 속도 좀 줄여요
+datasets/moon/audio/4/4_2093.wav|아버지는 삼십년 동안 교직에 계셨어요
+datasets/moon/audio/4/4_1321.wav|출구 없음
+datasets/moon/audio/4/4_3489.wav|너는 미소가 참 매력적이구나
+datasets/moon/audio/4/3_1040.wav|애매한 표현을 피해라
+datasets/moon/audio/4/4_2710.wav|엄마 잠깐 이리 좀 와 보세요
+datasets/moon/audio/4/3_3574.wav|여보세요
+datasets/moon/audio/4/4_2700.wav|그 둘은 마치 자매 같아
+datasets/moon/audio/4/3_3666.wav|게시판에 글 좀 올려
+datasets/moon/audio/4/3_1139.wav|그 애를 자기 형이랑 비교하지 마세요
+datasets/moon/audio/4/3_0035.wav|고향이 어디세요
+datasets/moon/audio/4/4_0926.wav|담당자 바꿔 드리겠습니다
+datasets/moon/audio/4/4_4407.wav|그 병은 아프리카에서 생겨났어요
+datasets/moon/audio/4/3_1155.wav|애쓴 보람이 없구나
+datasets/moon/audio/4/4_0742.wav|이번 기회를 최대한 이용해라
+datasets/moon/audio/4/3_3631.wav|그 보고서는 백쪽이 넘는다
+datasets/moon/audio/4/4_5252.wav|시골에는 아이들이 뛰어놀 수 있는 공간이 충분히 있다
+datasets/moon/audio/4/4_3957.wav|국이 끓어 넘치고 있어요
+datasets/moon/audio/4/3_3085.wav|그 사건은 현재 재판 중이에요
+datasets/moon/audio/4/3_1412.wav|감사합니다. 정말 친절하시네요
+datasets/moon/audio/4/4_4657.wav|내가 키우던 고양이가 죽었을 때 너무 슬펐어요
+datasets/moon/audio/4/2_0735.wav|그렇게 얇은 셔츠를 입고 안 춥니
+datasets/moon/audio/4/2_1123.wav|확실해
+datasets/moon/audio/4/4_4602.wav|성함이 어떻게 되시죠
+datasets/moon/audio/4/3_0386.wav|쓰레기는 쓰레기통에 버려라
+datasets/moon/audio/4/3_1231.wav|실패는 성공의 어머니다
+datasets/moon/audio/4/4_4946.wav|남들 싸움에 끼어들지 마
+datasets/moon/audio/4/3_0122.wav|혀를 내밀어 보세요
+datasets/moon/audio/4/3_2653.wav|특별한 취미가 있으세요
+datasets/moon/audio/4/3_4318.wav|이 텔레비전에는 어떤 기능이 있어요
+datasets/moon/audio/4/3_1331.wav|왜 울상을 짓고 있어
+datasets/moon/audio/4/3_1824.wav|좀 더 구체적인 예를 들어 주실 수 있나요
+datasets/moon/audio/4/4_0493.wav|이것은 시작에 불과해
+datasets/moon/audio/4/3_1165.wav|인내하는 사람이 마지막에 남는다
+datasets/moon/audio/4/4_0391.wav|그렇게 비용이 많이 들지는 않아
+datasets/moon/audio/4/4_3290.wav|양파를 썰다가 칼에 손가락을 벴어요
+datasets/moon/audio/4/4_2055.wav|최근에는 사람들이 아이를 갖기를 피하는 경향이 있습니다
+datasets/moon/audio/4/3_4452.wav|오에서 이를 빼면 삼이 남는다
+datasets/moon/audio/4/3_3365.wav|기름 유출로 인해 지역 내 거의 모든 물고기 양식장들이 파괴되었다
+datasets/moon/audio/4/4_2428.wav|이다음이 네 차례야
+datasets/moon/audio/4/4_1842.wav|고향이 어디세요
+datasets/moon/audio/4/3_0596.wav|나 방금 너희 집에 갔었는데 너 없더라
+datasets/moon/audio/4/4_5216.wav|회의 중에는 자리를 뜨지 마세요
+datasets/moon/audio/4/4_3611.wav|그 사람은 목소리가 커서 멀리서도 다 들려요
+datasets/moon/audio/4/3_1477.wav|정민이는 늘 활기가 넘쳐
+datasets/moon/audio/4/3_4933.wav|구석 자리에 앉읍시다
+datasets/moon/audio/4/3_4873.wav|나는 그 사람을 만난 적도 없습니다. 그러므로 이 기사는 말도 안 됩니다
+datasets/moon/audio/4/1_0261.wav|좀전에 할머니가 돌아가셨다는 전화를 받았어
+datasets/moon/audio/4/4_3366.wav|쓰레기 내놓는 걸 깜빡했어요
+datasets/moon/audio/4/4_4998.wav|마른 수건 없니
+datasets/moon/audio/4/3_2878.wav|사람들이 탱고를 추고 있다
+datasets/moon/audio/4/1_0375.wav|축구는 열한명으로 구성돼 있습니다
+datasets/moon/audio/4/4_1065.wav|물은 백도에서 끓어요
+datasets/moon/audio/4/4_4677.wav|새 머리 스타일이 마음에 드세요
+datasets/moon/audio/4/2_0830.wav|경부고속도로는 현재 차량 소통이 원활합니다
+datasets/moon/audio/4/4_1364.wav|이 책은 살 만한 가치가 없어
+datasets/moon/audio/4/4_4054.wav|그러면 예약을 해 놓는 편이 좋겠네요
+datasets/moon/audio/4/3_2020.wav|배고파 죽겠어
+datasets/moon/audio/4/4_2474.wav|그 사람이 일부러 그런 것 같지는 않아요
+datasets/moon/audio/4/3_3477.wav|여러분은 금융 기관들로부터 우편물을 대거 받고 계실 겁니다
+datasets/moon/audio/4/3_1706.wav|나는 그에게 가지 말라고 애원했다
+datasets/moon/audio/4/3_0361.wav|너 셔츠에 흙 묻었어
+datasets/moon/audio/4/3_3128.wav|그는 그 전투의 유일한 생존자였다
+datasets/moon/audio/4/3_1007.wav|이런 말 하기 쑥스럽지만, 저는 변비가 있어요
+datasets/moon/audio/4/4_2315.wav|어제는 창피해서 혼났어요
+datasets/moon/audio/4/3_0152.wav|신이 너무 작아서 뒤꿈치가 까졌어요
+datasets/moon/audio/4/4_2275.wav|경찰로서 가장 힘든 점이 무엇입니까
+datasets/moon/audio/4/1_0834.wav|이 문제를 못 풀겠어
+datasets/moon/audio/4/4_4206.wav|이놈의 파리
+datasets/moon/audio/4/3_1225.wav|인생에서 때로는 운이 크게 작용한다
+datasets/moon/audio/4/3_1503.wav|겁이 나서 죽을 뻔했어요
+datasets/moon/audio/4/4_5286.wav|할머니는 수술 후에 바로 의식을 회복하셨어요
+datasets/moon/audio/4/4_3829.wav|숙제하고 나서 놀아라
+datasets/moon/audio/4/3_1305.wav|저희는 예전보다 잘살아요
+datasets/moon/audio/4/3_2643.wav|저는 지점에서 본사로 옮겨왔어요
+datasets/moon/audio/4/3_0045.wav|저는 제가 직접 겪은 일에 대해서 씁니다
+datasets/moon/audio/4/3_4982.wav|최우수
+datasets/moon/audio/4/2_0657.wav|이곳은 신성한 장소이기 때문에 입장하기 전에 신발을 벗어야 합니다
+datasets/moon/audio/4/4_0060.wav|저는 한국에 아는 사람이 아무도 없습니다
+datasets/moon/audio/4/3_2130.wav|찐 감자 좋아해
+datasets/moon/audio/4/3_1970.wav|요즘 건강 식품이 인기를 얻고 있다
+datasets/moon/audio/4/4_2063.wav|그 백화점이 경영 위기라는 소문이 있습니다
+datasets/moon/audio/4/4_0824.wav|끝 부분만 다듬어 주세요
+datasets/moon/audio/4/4_3767.wav|문제점이 있으면 말해 주세요
+datasets/moon/audio/4/4_0600.wav|어제 기름을 가득 채워 둘걸
+datasets/moon/audio/4/4_0271.wav|오늘은 바람이 세게 불어
+datasets/moon/audio/4/4_1826.wav|저희 부모님은 굉장한 부자지만 저는 아니에요
+datasets/moon/audio/4/4_0968.wav|도둑이 경찰을 보자마자 달아났다
+datasets/moon/audio/4/1_0294.wav|박스를 끈으로 감아라
+datasets/moon/audio/4/4_4023.wav|네 주장의 논리적 근거가 뭐야
+datasets/moon/audio/4/4_0541.wav|인천 공항부터 서울까지 얼마나 걸려요
+datasets/moon/audio/4/4_1048.wav|과일 좀 드릴까요
+datasets/moon/audio/4/3_0963.wav|우리 아이는 뭐든 빨리 싫증을 내요
+datasets/moon/audio/4/3_0939.wav|부모님이 살아 계실 때 잘하지 못한 게 한이에요
+datasets/moon/audio/4/3_1629.wav|걔는 허풍이 심해
+datasets/moon/audio/4/4_3302.wav|너 때문에 문제가 더 커졌어
+datasets/moon/audio/4/4_4443.wav|선생님이 쓰신 책에 사인 좀 해 주세요
+datasets/moon/audio/4/3_3461.wav|한국의 주요 수출품에는 전자제품, 기계, 자동차, 철강, 조선 등이 있다
+datasets/moon/audio/4/4_2453.wav|저희 집 티비 화면이 이중으로 보여요
+datasets/moon/audio/4/2_1094.wav|모두가 지쳤지만, 그에게서는 피로한 기색을 찾아볼 수 없었다
+datasets/moon/audio/4/2_1007.wav|참신한 아이디어가 있으신 분은 저희에게 연락 주십시오
+datasets/moon/audio/4/3_3505.wav|그 사람한테 빚을 얼마나 진 거야
+datasets/moon/audio/4/4_3205.wav|누나는 벌레 한 마리도 못 죽이는 사람이에요
+datasets/moon/audio/4/3_0613.wav|일본을 하루 만에 다녀올 수 있나요
+datasets/moon/audio/4/3_4394.wav|담장을 높인다고 문제가 해결되지는 않을 것이다
+datasets/moon/audio/4/3_0195.wav|비가 오는 날에는 앞유리에 김이 서려 운전 중 시야를 방해할 수 있습니다
+datasets/moon/audio/4/4_0598.wav|당신 몸은 당신이 좀 챙겨요
+datasets/moon/audio/4/3_0320.wav|저는 양치를 하루에 세 번 합니다
+datasets/moon/audio/4/3_1959.wav|일시불로 할까요 아니면 할부로 할까요
+datasets/moon/audio/4/3_3915.wav|올해 겨울은 이상하게 따뜻하다
+datasets/moon/audio/4/4_4624.wav|가위는 어느 서랍에 들어 있죠
+datasets/moon/audio/4/2_0861.wav|왜 이렇게 늦었어
+datasets/moon/audio/4/4_5278.wav|우리는 모두 법을 지킬 의무가 있다
+datasets/moon/audio/4/2_0176.wav|시험에 합격한 것이 너무나 기뻐요
+datasets/moon/audio/4/3_3894.wav|신발에 모래가 들어갔어
+datasets/moon/audio/4/1_0078.wav|우리는 서로 답을 비교해 보았다
+datasets/moon/audio/4/2_0889.wav|이 모자는 저한테 너무 작아요
+datasets/moon/audio/4/3_0577.wav|제 남동생은 왼쪽 다리를 약간 절어요
+datasets/moon/audio/4/3_0436.wav|휴지를 주워서 휴지통에 버려라
+datasets/moon/audio/4/3_2199.wav|부모님이 옆방에 계신다
+datasets/moon/audio/4/3_1588.wav|입 닥쳐
+datasets/moon/audio/4/3_2546.wav|건강한 생활의 기본은 무엇인가요
+datasets/moon/audio/4/3_4330.wav|지구의 자전축은 중심에서 이십삼점오도 기울어 있다
+datasets/moon/audio/4/4_5458.wav|이 여관은 서비스가 별로예요
+datasets/moon/audio/4/4_4523.wav|소비자의 생각을 이해하지 못하면 살아남을 수 없어요
+datasets/moon/audio/4/3_0248.wav|음식을 담백하게 드세요
+datasets/moon/audio/4/4_1059.wav|말씀 많이 들었습니다
+datasets/moon/audio/4/2_0864.wav|오늘은 평소보다 이르게 집을 나섰다
+datasets/moon/audio/4/3_1976.wav|밥 좀 더 주시겠어요
+datasets/moon/audio/4/4_1706.wav|그릇 치우는 거 좀 도와줄래
+datasets/moon/audio/4/4_0117.wav|내 손 잡아라
+datasets/moon/audio/4/3_2137.wav|이런 사과가 썩었어
+datasets/moon/audio/4/3_1033.wav|그녀는 장애인의 대한 편견을 극복하기 위해 노력해 왔다
+datasets/moon/audio/4/4_2170.wav|할머니 여기 앉으세요
+datasets/moon/audio/4/3_0789.wav|상처가 곪아서 통증이 심해요
+datasets/moon/audio/4/1_0508.wav|저는 맥주를 즐겨 마십니다
+datasets/moon/audio/4/4_4327.wav|이 아파트는 한 평에 삼천만 원이 넘어요
+datasets/moon/audio/4/1_0867.wav|달이 구름 속으로 사라졌다
+datasets/moon/audio/4/2_0757.wav|아직 그 사람하고 사이가 좀 어색해요
+datasets/moon/audio/4/1_0456.wav|사실은 시골로 이사하는 게 싫어
+datasets/moon/audio/4/2_0290.wav|반죽을 동그란 모양으로 말아 주세요
+datasets/moon/audio/4/3_4922.wav|밥 먹다 말고 어디 가니
+datasets/moon/audio/4/3_0420.wav|얼른 봉투를 뜯어 봐
+datasets/moon/audio/4/3_2951.wav|동양인들의 생활 방식은 서양인들과 많이 달라요
+datasets/moon/audio/4/1_0462.wav|왜 아직 안 자고 깨어 있니
+datasets/moon/audio/4/1_1011.wav|고개를 움직여 봐
+datasets/moon/audio/4/4_0528.wav|어쩌다 다리가 부러졌습니까
+datasets/moon/audio/4/4_3374.wav|당근 자르기 전에 껍질부터 벗겨라
+datasets/moon/audio/4/4_1451.wav|제 아내는 감정이 풍부한 사람이에요
+datasets/moon/audio/4/4_2676.wav|당신이 하는 말은 당신에게 불리하게 작용할 수 있습니다
+datasets/moon/audio/4/3_1282.wav|프로젝트는 마무리 단계에 있다
+datasets/moon/audio/4/2_0101.wav|제 입장이 좀 곤란한데요
+datasets/moon/audio/4/4_4762.wav|네 도움이 없었다면 실패했을 거야
+datasets/moon/audio/4/4_0814.wav|그림은 그냥 취미로 그려요
+datasets/moon/audio/4/4_0478.wav|통일이 된다면 북한을 자유롭게 갈 수 있을 거야
+datasets/moon/audio/4/3_4374.wav|갈라진 벽 틈 사이로 희미한 빛이 들어왔다
+datasets/moon/audio/4/4_5271.wav|그 병은 모기에 의해 발생한다
+datasets/moon/audio/4/4_4288.wav|이를 아직 뽑을 필요는 없어요
+datasets/moon/audio/4/3_2425.wav|연필이 책상 밑으로 떨어졌다
+datasets/moon/audio/4/4_0278.wav|이 단어는 어떻게 발음합니까
+datasets/moon/audio/4/3_2420.wav|교내에서는 금연입니다
+datasets/moon/audio/4/3_3145.wav|많은 젊은이들이 이 나라를 위해 목숨을 바쳤다
+datasets/moon/audio/4/3_4292.wav|저리 가
+datasets/moon/audio/4/4_1656.wav|박물관에서는 사진 촬영이 금지되어 있습니다
+datasets/moon/audio/4/4_0230.wav|나는 네 말에 반대한다
+datasets/moon/audio/4/4_1315.wav|그 사람 벌써 떠났을걸요
+datasets/moon/audio/4/2_0266.wav|그녀는 그 보도 내용을 단호하게 부인했다
+datasets/moon/audio/4/4_1669.wav|긍정적으로 생각해
+datasets/moon/audio/4/4_3281.wav|다음 주유소에서 잠깐 차를 세우는 게 좋겠어요
+datasets/moon/audio/4/4_2928.wav|저는 제 분야에서 전문가가 되고 싶습니다
+datasets/moon/audio/4/3_1963.wav|영수증 필요하신가요
+datasets/moon/audio/4/3_1332.wav|너 안색이 창백해 보여
+datasets/moon/audio/4/2_0389.wav|어렸을 때 저는 누나한테 못된 장난을 많이 쳤어요
+datasets/moon/audio/4/3_4107.wav|나중에 보자
+datasets/moon/audio/4/3_1096.wav|취업 전망이 여전히 어두워
+datasets/moon/audio/4/2_0955.wav|스트레스는 암의 주요한 원인 중 하나다
+datasets/moon/audio/4/3_0251.wav|라벤더는 요리에 향긋한 향을 더해 줍니다
+datasets/moon/audio/4/3_2343.wav|싸우지 좀 마
+datasets/moon/audio/4/2_0292.wav|우리 회사에서는 남자와 여자가 모두 동등한 기회를 받습니다
+datasets/moon/audio/4/4_1283.wav|어린이 요금은 얼마입니까
+datasets/moon/audio/4/3_4689.wav|엄마 집에 계셔
+datasets/moon/audio/4/3_0322.wav|저는 샤워를 늘 아침에 해요
+datasets/moon/audio/4/1_0396.wav|그는 한국의 여러 다른 생활방식을 경험할 수 있었다
+datasets/moon/audio/4/2_0688.wav|좋은 약은 입에 쓴 법이야
+datasets/moon/audio/4/3_0057.wav|아이들이 바깥에서 눈사람을 만들고 있다
+datasets/moon/audio/4/4_1609.wav|사이트가 너무 썰렁해. 게시판에 글 좀 올려
+datasets/moon/audio/4/4_4595.wav|아이의 성별은 아직 몰라요
+datasets/moon/audio/4/4_3544.wav|망치 다 썼으면 원래 있던 자리에 갖다 놓아라
+datasets/moon/audio/4/3_0746.wav|이 약은 처방전이 있어야 합니다
+datasets/moon/audio/4/3_4570.wav|이번에는 단 한 번의 실수도 용납되지 않아
+datasets/moon/audio/4/2_0193.wav|저는 일처리가 꼼꼼한 사람이 좋아요
+datasets/moon/audio/4/1_0267.wav|수업 중에 휴대폰을 켜 두지 마세요
+datasets/moon/audio/4/4_1696.wav|나는 생각한다 그러므로 나는 존재한다
+datasets/moon/audio/4/2_0598.wav|그는 매사에 성실하다
+datasets/moon/audio/4/3_0028.wav|한국에서는 농촌 총각들이 결혼하기 어렵다
+datasets/moon/audio/4/3_1765.wav|걔의 조롱하는 말투를 더 이상은 못 참겠어
+datasets/moon/audio/4/3_2406.wav|많은 중학생들이 담배를 피우나요
+datasets/moon/audio/4/3_1864.wav|저는 컴퓨터 용어들을 잘 몰라요
+datasets/moon/audio/4/4_5449.wav|예외 없는 규칙은 없다
+datasets/moon/audio/4/2_0930.wav|저는 그에 대한 비판이 정당했다고 생각해요
+datasets/moon/audio/4/3_2196.wav|안방의 가구를 바꿔야겠어요
+datasets/moon/audio/4/3_2078.wav|흡연 금지
+datasets/moon/audio/4/4_4970.wav|나는 내 아이가 씩씩하게 자랐으면 좋겠어요
+datasets/moon/audio/4/3_1065.wav|성급하게 결론 내리지 마라
+datasets/moon/audio/4/4_2794.wav|제자리로 돌아가서 하던 일 계속하세요
+datasets/moon/audio/4/4_5381.wav|철수야 무슨 생각하고 있니
+datasets/moon/audio/4/4_3279.wav|수영장 주위를 뛰어다니면 안 돼
+datasets/moon/audio/4/3_0094.wav|진심으로 애도의 말씀을 드립니다
+datasets/moon/audio/4/3_4863.wav|내 생각은 이래
+datasets/moon/audio/4/3_1515.wav|그렇게 말씀하시다니 매정하시네요
+datasets/moon/audio/4/3_3171.wav|김 교수는 정직하고 바른 사람입니다
+datasets/moon/audio/4/4_0791.wav|지난 시간에 출석 불렀어
+datasets/moon/audio/4/4_4346.wav|이 표에 있는 숫자가 정확한 건가요
+datasets/moon/audio/4/3_1454.wav|그날 집에 있기로 한 것은 현명한 선택이었다
+datasets/moon/audio/4/3_4697.wav|수면을 취하는 데 어려움을 겪은 적이 있나요
+datasets/moon/audio/4/3_0513.wav|그녀는 여행 가방을 끌고 있었다
+datasets/moon/audio/4/4_1113.wav|돈을 모두 써 버렸어
+datasets/moon/audio/4/4_2737.wav|장래 희망이 뭐니
+datasets/moon/audio/4/3_2095.wav|메뉴판 좀 갖다 주세요
+datasets/moon/audio/4/3_1498.wav|나는 의사가 자기 가족 중 누군가를 수술하는 것이 비도덕적이라고 생각한다
+datasets/moon/audio/4/3_1814.wav|내가 왜 늦게 도착했는지 설명할게요
+datasets/moon/audio/4/4_4469.wav|삼십 분 후에 다시 전화할게요
+datasets/moon/audio/4/1_0118.wav|엄마는 아빠를 엄청 챙기신다
+datasets/moon/audio/4/2_0787.wav|이 식물은 열악한 환경에서도 잘 자란다
+datasets/moon/audio/4/4_4509.wav|길에서 백만 원을 주웠다고 상상해 봐
+datasets/moon/audio/4/3_3147.wav|전쟁이 끝난 후, 대부분의 포로들은 자기 나라로 돌려보내졌다
+datasets/moon/audio/4/3_1236.wav|우리 목표는 우승입니다
+datasets/moon/audio/4/2_0020.wav|가벼운 상처가 아닌 것 같아요
+datasets/moon/audio/4/3_2366.wav|그녀는 성적 매력이 넘친다
+datasets/moon/audio/4/4_5003.wav|수화기가 잘못 놓여 있었어요
+datasets/moon/audio/4/4_4057.wav|강의 노트 좀 빌려 줄래
+datasets/moon/audio/4/1_0457.wav|내일 이사하신다고 들었어요
+datasets/moon/audio/4/4_4104.wav|저는 외할아버지를 닮았어요
+datasets/moon/audio/4/4_1573.wav|인터넷에서 검색해 봐
+datasets/moon/audio/4/3_4134.wav|저는 항상 시험 직전에 공부해요
+datasets/moon/audio/4/4_5058.wav|좋은 부모가 되는 건 절대 쉬운 일이 아니에요
+datasets/moon/audio/4/4_1009.wav|이번 여름은 정말 더위를 모르고 지냈어
+datasets/moon/audio/4/4_1224.wav|어쩌면 네 말이 맞을지도 모른다
+datasets/moon/audio/4/4_0446.wav|저는 키가 보통이에요
+datasets/moon/audio/4/3_0109.wav|네 이마에 열이 있잖아
+datasets/moon/audio/4/1_0980.wav|놀라서 목소리가 떨리기 시작했다
+datasets/moon/audio/4/4_0050.wav|다음 문장에서 잘못된 부분을 알맞게 고쳐라
+datasets/moon/audio/4/4_0490.wav|불고기는 한국의 대표적인 고기 요리입니다
+datasets/moon/audio/4/4_1619.wav|저는 소주를 그다지 좋아하지 않아요
+datasets/moon/audio/4/2_0663.wav|꼬마 녀석이 신통하구나
+datasets/moon/audio/4/3_3155.wav|사격 개시
+datasets/moon/audio/4/4_4609.wav|자신의 성격 중에서 고치고 싶은 부분이 있나요
+datasets/moon/audio/4/4_2021.wav|모든 사람은 행복할 권리가 있어요
+datasets/moon/audio/4/3_0535.wav|모기가 물었나 봐. 너무 가려워
+datasets/moon/audio/4/1_0248.wav|저는 애완견 돌보는 걸 좋아해요
+datasets/moon/audio/4/3_3146.wav|그는 한 장교의 목숨을 구해 훈장을 받았다
+datasets/moon/audio/4/3_1995.wav|국을 뭘로 양념했어요
+datasets/moon/audio/4/3_1105.wav|제가 어제 그곳에 있었다는 것을 입증할 수 있는 사진이 있습니다
+datasets/moon/audio/4/3_4212.wav|너 어디 있었어 온종일 너 찾아다녔잖아
+datasets/moon/audio/4/1_0175.wav|바닥을 닦아라
+datasets/moon/audio/4/3_4796.wav|평소처럼 그 사람은 활기가 넘쳤다
+datasets/moon/audio/4/4_4936.wav|밤새 눈이 많이 쌓였네
+datasets/moon/audio/4/4_3699.wav|퇴근할 때 모니터를 끄지 않는 사람이 많아요
+datasets/moon/audio/4/2_0466.wav|밤늦게 왜 전화한 거야
+datasets/moon/audio/4/3_1062.wav|각오 단단히 해라
+datasets/moon/audio/4/4_0082.wav|그건 네가 걱정할 일이 아니다
+datasets/moon/audio/4/3_4569.wav|우리는 그냥 친구 사이예요
+datasets/moon/audio/4/1_0562.wav|한국의 농촌 인구가 줄어들고 있다
+datasets/moon/audio/4/4_1907.wav|시내 곳곳을 돌아다녔어요
+datasets/moon/audio/4/4_3701.wav|눈에 모래가 들어간 것 같아
+datasets/moon/audio/4/4_4643.wav|셋째 주까지 신청하셔야 합니다
+datasets/moon/audio/4/2_0460.wav|바쁜 일이 있어서 그만 일어나겠습니다
+datasets/moon/audio/4/3_3795.wav|삼번 출구로 나가세요
+datasets/moon/audio/4/1_0269.wav|그냥 둘러보는 거예요
+datasets/moon/audio/4/4_0112.wav|면접에 앞서 간단한 테스트가 있습니다
+datasets/moon/audio/4/3_1433.wav|책임감이 강한 사람은 회사에서 환영받는다
+datasets/moon/audio/4/2_0276.wav|그 노래는 작년에 대단한 인기를 끌었다
+datasets/moon/audio/4/4_3100.wav|아 실수로 중요한 메일을 지웠어
+datasets/moon/audio/4/3_2994.wav|그녀는 이번 선거에서 총 투표 수의 오십일퍼센트를 득표했다
+datasets/moon/audio/4/4_0235.wav|현실적인 방안을 마련해야 합니다
+datasets/moon/audio/4/4_4844.wav|거기는 정말 시원해
+datasets/moon/audio/4/3_4610.wav|죽지 않은 게 그나마 다행이야
+datasets/moon/audio/4/2_0385.wav|마음 모질게 먹어
+datasets/moon/audio/4/4_1921.wav|구두 닦으세요
+datasets/moon/audio/4/3_1262.wav|그 사람들의 끝없는 불평이 지겨워
+datasets/moon/audio/4/1_0689.wav|테러로 다리가 무너졌다
+datasets/moon/audio/4/3_0724.wav|방금 검사 결과가 나왔습니다
+datasets/moon/audio/4/3_4940.wav|요즘은 책을 보기도 귀찮아요
+datasets/moon/audio/4/3_0302.wav|밤에는 추우니까 담요 한 장을 더 달라고 해라
+datasets/moon/audio/4/4_2274.wav|신사 숙녀 여러분, 김 교수님을 힘찬 박수로 맞아 주십시오
+datasets/moon/audio/4/1_0424.wav|이 배는 일본을 향하고 있습니다
+datasets/moon/audio/4/4_5292.wav|왜 아무것도 아닌 일로 울어
+datasets/moon/audio/4/3_3058.wav|만약에 사고를 목격한다면 어떻게 해야 할까요
+datasets/moon/audio/4/3_3251.wav|고통은 집착에서 비롯된다
+datasets/moon/audio/4/4_5205.wav|떠나간 사람 기다려도 아무 소용 없어요
+datasets/moon/audio/4/3_3513.wav|그 돈을 제 계좌로 이체해 주실 수 있습니까
+datasets/moon/audio/4/4_5044.wav|수술하시기 전에는 아무것도 드시면 안 됩니다
+datasets/moon/audio/4/3_4838.wav|너는 정말 용감하구나
+datasets/moon/audio/4/4_1278.wav|얼음이 녹을 때까지는 운전하지 않는 게 어때
+datasets/moon/audio/4/4_0027.wav|고양이는 아홉 개의 목숨을 가졌다는 말이 있다
+datasets/moon/audio/4/2_0733.wav|그 사람 아주 얄미워 죽겠어요
+datasets/moon/audio/4/2_0964.wav|그 수업 너무 지겨웠어요
+datasets/moon/audio/4/4_1659.wav|저는 술만 마시면 금세 얼굴이 빨개져요
+datasets/moon/audio/4/3_1113.wav|그가 이 보안 시스템을 고안했습니다
+datasets/moon/audio/4/1_0837.wav|할아버지 이불 펴 드려라
+datasets/moon/audio/4/3_1120.wav|밥 먹을 때는 먹는 데만 집중해라
+datasets/moon/audio/4/3_4559.wav|시간이 꽤 늦었네
+datasets/moon/audio/4/4_1457.wav|담요로 몸을 감싸세요
+datasets/moon/audio/4/4_5312.wav|우리 집 찾는 데 힘들지는 않았니
+datasets/moon/audio/4/4_4816.wav|오늘 신문 봤어
+datasets/moon/audio/4/3_4885.wav|솔직히 거기 가고 싶지 않아 더구나 시간도 너무 늦었어
+datasets/moon/audio/4/3_2757.wav|에어로빅을 하기 전에 스트레칭을 충분히 하는 걸 잊지 마
+datasets/moon/audio/4/4_1468.wav|규칙은 아주 간단해요
+datasets/moon/audio/4/4_3946.wav|이게 네가 원하는 거니
+datasets/moon/audio/4/4_3479.wav|월세는 매달 십오일에 내시면 됩니다
+datasets/moon/audio/4/4_5317.wav|그 애의 웃긴 표정을 보고 웃음을 참을 수가 없었어요
+datasets/moon/audio/4/2_1039.wav|그의 죽음은 많은 사람들에게 커다란 충격이었다
+datasets/moon/audio/4/4_3132.wav|교과서 십쪽을 펴세요
+datasets/moon/audio/4/3_4262.wav|바닥이 왜 이리 지저분해
+datasets/moon/audio/4/4_2709.wav|잠깐이면 되는데 얘기 좀 할 수 있을까요
+datasets/moon/audio/4/3_2833.wav|저는 현대 미술에 관심이 많습니다
+datasets/moon/audio/4/4_5310.wav|우표는 어디서 살 수 있죠
+datasets/moon/audio/4/4_1005.wav|무슨 일이 있더라도 나는 네 편이야
+datasets/moon/audio/4/3_0834.wav|신경 쓰지 마
+datasets/moon/audio/4/4_5081.wav|내일은 내일의 태양이 뜰 거야
+datasets/moon/audio/4/4_5608.wav|저는 유치원에서 한글을 배웠어요
+datasets/moon/audio/4/1_0050.wav|이 문제는 제삼자의 시각에서 바라볼 필요가 있어
+datasets/moon/audio/4/4_2385.wav|이거 현금으로 좀 바꾸고 싶은데요
+datasets/moon/audio/4/4_5257.wav|조심해 기름이 튀잖아
+datasets/moon/audio/4/4_2175.wav|한 가지만 더 확인을 해도 될까요
+datasets/moon/audio/4/2_0982.wav|넌 짙은 색 옷이 잘 어울려
+datasets/moon/audio/4/3_2125.wav|스테이크 안 타게 잘 보고 있어라
+datasets/moon/audio/4/4_2521.wav|갈비 일인분에 만 원이에요
+datasets/moon/audio/4/3_3912.wav|흐린 날씨가 이어지겠습니다
+datasets/moon/audio/4/4_1357.wav|원하는 곳에 앉으십시오
+datasets/moon/audio/4/4_0515.wav|아내는 분홍색 잠옷을 입고 잡니다
+datasets/moon/audio/4/3_1426.wav|그들은 부자지만 검소한 생활을 한다
+datasets/moon/audio/4/3_4724.wav|외국인이 많기 때문에 언어 장벽이 주요 문제다
+datasets/moon/audio/4/2_0512.wav|불길한 예감이 사실로 드러났어요
+datasets/moon/audio/4/3_0874.wav|김 과장님은 가끔 사람을 정말 열 받게 해요
+datasets/moon/audio/4/3_4700.wav|단순한 게 좋은 거예요
+datasets/moon/audio/4/3_4597.wav|오늘은 어제보다 덜 더운 것 같아요
+datasets/moon/audio/4/4_1555.wav|거짓말하지 마
+datasets/moon/audio/4/3_1951.wav|이번 주 들어 가격이 많이 올랐어요
+datasets/moon/audio/4/4_5354.wav|이 옷 위아래를 따로 살 수는 없나요
+datasets/moon/audio/4/3_4302.wav|얼음과 물은 같은 물질이다
+datasets/moon/audio/4/1_0414.wav|물은 높은 곳에서 낮은 곳으로 흐른다
+datasets/moon/audio/4/4_1418.wav|계산은 각자 합시다
+datasets/moon/audio/4/3_1197.wav|영어 할 줄 아세요
+datasets/moon/audio/4/2_1032.wav|저는 이웃들이랑 친해요
+datasets/moon/audio/4/4_2723.wav|서비스에 어떠한 장애도 있어서는 안 된다
+datasets/moon/audio/4/1_0675.wav|비타민이 모자라면 병에 걸리기 쉽다
+datasets/moon/audio/4/4_0751.wav|최선을 다했으니 후회는 없어요
+datasets/moon/audio/4/3_4332.wav|도로는 오른쪽으로 완만하게 구부러져 나무로 된 다리로 이어진다
+datasets/moon/audio/4/1_0039.wav|화재가 발생하지 않도록 조심해라
+datasets/moon/audio/4/3_4985.wav|한여름
+datasets/moon/audio/4/3_0205.wav|내가 차 안을 살펴볼게
+datasets/moon/audio/4/1_0630.wav|저는 새 멤버들에게 만족합니다
+datasets/moon/audio/4/4_5611.wav|한국에서의 유학 생활은 어때요
+datasets/moon/audio/4/3_4405.wav|그는 커다란 상자를 안고 내 쪽으로 걸어왔다
+datasets/moon/audio/4/3_0452.wav|고양이가 발톱으로 얼굴을 할퀴었어요
+datasets/moon/audio/4/3_3395.wav|벽을 흰색으로 다시 칠하고 싶어요
+datasets/moon/audio/4/4_4230.wav|점심은 피자로 할까
+datasets/moon/audio/4/1_0514.wav|내가 게임에서 지다니 믿을 수가 없어
+datasets/moon/audio/4/3_4142.wav|벌써 가려고
+datasets/moon/audio/4/1_0033.wav|정신분석학은 이십세기에 급격히 발전했다
+datasets/moon/audio/4/4_5079.wav|학교까지 좀 태워 줄래
+datasets/moon/audio/4/4_4823.wav|그동안 신세 많았습니다
+datasets/moon/audio/4/4_0506.wav|빨간 불빛이 들어오면 버튼을 누르세요
+datasets/moon/audio/4/4_1275.wav|더 이상 드릴 말씀이 없습니다
+datasets/moon/audio/4/3_3020.wav|학교 폭력이 매해 늘어나고 있다
+datasets/moon/audio/4/3_1162.wav|그분은 언제나 열정과 의욕이 넘쳐 보여요
+datasets/moon/audio/4/2_1020.wav|추워 죽겠어 창문 닫아
+datasets/moon/audio/4/4_3730.wav|이 가방은 제가 들기에는 너무 무거워요
+datasets/moon/audio/4/4_0972.wav|다리 좀 펴야겠어
+datasets/moon/audio/4/1_0346.wav|저 기억나세요
+datasets/moon/audio/4/4_0659.wav|나 지금 한가하게 영화를 볼 처지가 아니야
+datasets/moon/audio/4/3_4111.wav|언제 첫 키스를 했는지 잘 기억이 안 나요
+datasets/moon/audio/4/3_4091.wav|당일에 신분증을 지참하셔야 합니다
+datasets/moon/audio/4/3_4049.wav|프린터를 고치려면 시간이 얼마나 들까요
+datasets/moon/audio/4/4_1170.wav|그 집은 높은 담으로 둘러싸여 있다
+datasets/moon/audio/4/4_1306.wav|아이가 놀이터에서 놀고 있어요
+datasets/moon/audio/4/4_1983.wav|과장 되신 거 축하드립니다
+datasets/moon/audio/4/3_4440.wav|저는 하루에 두 번 샤워를 해요
+datasets/moon/audio/4/4_4894.wav|예의를 지켜서 손해를 볼 일은 없어요
+datasets/moon/audio/4/4_3419.wav|책을 다시 꽂아 놓을게요
+datasets/moon/audio/4/4_1617.wav|움직이지 말고 그대로 있어
+datasets/moon/audio/4/4_1918.wav|좀 더 구체적인 예를 들어 주세요
+datasets/moon/audio/4/1_0901.wav|실례합니다
+datasets/moon/audio/4/4_0089.wav|안주는 뭐로 하시겠어요
+datasets/moon/audio/4/4_1095.wav|또다시 시험에 떨어지지 않으려면 마음 독하게 먹어
+datasets/moon/audio/4/2_0656.wav|투표는 우리나라 국민들 모두의 신성한 권리입니다
+datasets/moon/audio/4/3_0055.wav|여보 아기 기저귀 좀 갈아 줘
+datasets/moon/audio/4/3_2640.wav|부모님은 두 분 다 은퇴하셨어요
+datasets/moon/audio/4/3_3177.wav|진실은 밝혀지게 되어 있어
+datasets/moon/audio/4/4_1438.wav|너무 늦은 감이 있네요
+datasets/moon/audio/4/3_2251.wav|이번 여름에 부모님이랑 여행 갈 계획이에요
+datasets/moon/audio/4/4_0399.wav|아프리카에 가 본 적 있어
+datasets/moon/audio/4/4_4150.wav|박지성은 오늘날 최고의 아시아 선수 중 한 명이다
+datasets/moon/audio/4/3_4619.wav|그 이야기는 틀림없이 거짓이다
+datasets/moon/audio/4/4_3708.wav|저는 부모님을 모시고 살아요
+datasets/moon/audio/4/4_0240.wav|이번 방학 때 미국에 갈 거야
+datasets/moon/audio/4/4_5578.wav|저는 예술에 대해 아는 게 없어요
+datasets/moon/audio/4/3_3675.wav|이 프로그램은 스팸메일을 차단해 줍니다
+datasets/moon/audio/4/3_4369.wav|나무 사이로 햇빛이 비쳤다
+datasets/moon/audio/4/4_5549.wav|옆쪽으로 좀 가 주세요
+datasets/moon/audio/4/4_3720.wav|무척 피곤해 보이시네요
+datasets/moon/audio/4/3_3918.wav|한낮에는 무더웠는데 지금은 시원해
+datasets/moon/audio/4/4_1513.wav|말을 가려서 해
+datasets/moon/audio/4/4_3953.wav|이 방은 넓이가 얼마나 되나요
+datasets/moon/audio/4/2_0933.wav|그가 한 말이 정확히 맞습니다
+datasets/moon/audio/4/3_4564.wav|교장 선생님의 연설은 다소 지루했다
+datasets/moon/audio/4/4_5302.wav|운전을 오래 했더니 좀 피곤하네요
+datasets/moon/audio/4/1_0871.wav|이 방은 응접실로 사용될 겁니다
+datasets/moon/audio/4/3_4969.wav|건강해야 일도 할 수 있죠
+datasets/moon/audio/4/4_0111.wav|아빠 말씀이 맞아요
+datasets/moon/audio/4/3_4809.wav|숙제하고 나서 놀아라
+datasets/moon/audio/4/3_0802.wav|지금은 웃을 기분이 아니에요
+datasets/moon/audio/4/4_2606.wav|오늘은 일요일이라 수업이 없어요
+datasets/moon/audio/4/2_0380.wav|이것은 명백한 사실입니다
+datasets/moon/audio/4/4_2880.wav|그 사람은 정당하지 않은 방법으로 돈을 모았어요
+datasets/moon/audio/4/3_1025.wav|저는 우리 팀이 이길 것을 확신합니다
+datasets/moon/audio/4/4_1118.wav|초등학교 동창들하고 아직 연락하고 지내니
+datasets/moon/audio/4/3_4469.wav|한국은 천연자원이 풍부하지 않습니다
+datasets/moon/audio/4/3_0614.wav|이제는 아무도 이 거리를 오가지 않습니다
+datasets/moon/audio/4/3_3322.wav|이슬람 사원에 들어가기 전에는 신을 벗어야 합니다
+datasets/moon/audio/4/1_0183.wav|너한테 달렸어
+datasets/moon/audio/4/2_0500.wav|그는 아주 부지런한 사람이다
+datasets/moon/audio/4/1_0790.wav|시간 있으면 제 전시회에 오세요
+datasets/moon/audio/4/3_0837.wav|저는 나쁜 남자들한테 끌려요
+datasets/moon/audio/4/4_5564.wav|그들은 가난했지만 행복했다
+datasets/moon/audio/4/4_2276.wav|왜 힘없이 앉아 있어
+datasets/moon/audio/4/2_0888.wav|작은 문제라도 무시하면 안 돼
+datasets/moon/audio/4/4_0297.wav|죄와 벌
+datasets/moon/audio/4/3_2691.wav|대부분의 해수욕장들이 내일 개장할 예정입니다
+datasets/moon/audio/4/3_2499.wav|그는 시험에 합격하기 위해 열심히 노력했지만 떨어졌다
+datasets/moon/audio/4/3_4232.wav|이렇게 이른 시각에 무슨 일이세요
+datasets/moon/audio/4/4_5297.wav|운이 참 좋으시네요
+datasets/moon/audio/4/1_0302.wav|저는 학생들을 가르치는 일을 좋아합니다
+datasets/moon/audio/4/3_3353.wav|저희 양계장에는 약 5만 마리의 닭이 있어요
+datasets/moon/audio/4/1_0794.wav|삼층까지 계단을 걸어 올라가세요
+datasets/moon/audio/4/1_0331.wav|예전 일은 왜 그만두셨어요
+datasets/moon/audio/4/3_3357.wav|이 마을 농가들은 양봉으로 고수익을 올리고 있다
+datasets/moon/audio/4/4_0933.wav|어젯밤에 단 1분도 못 잤어요
+datasets/moon/audio/4/3_2239.wav|보일러가 고장 났다는 초기 신호는 온수가 안 나오거나 난방이 안 될 때입니다
+datasets/moon/audio/4/1_0194.wav|내 동생이 어제 교통사고를 당했어
+datasets/moon/audio/4/4_1248.wav|엄마 오늘 저녁은 뭐예요
+datasets/moon/audio/4/4_1876.wav|공장 내에서는 사진을 찍을 수 없습니다
+datasets/moon/audio/4/4_2163.wav|몇 학번이세요  98학번입니다
+datasets/moon/audio/4/1_0927.wav|엄마는 나한테 제발 동생과 그만 싸우라고 소리쳤다
+datasets/moon/audio/4/3_3948.wav|이달 말이면 벚꽃이 질 거야
+datasets/moon/audio/4/4_3540.wav|엄마는 싼 옷만 입으세요
+datasets/moon/audio/4/4_0451.wav|그 영화에서 가장 좋은 부분이 뭐였어
+datasets/moon/audio/4/3_4184.wav|정확한 번역이 불가능할 때가 종종 있다
+datasets/moon/audio/4/2_0452.wav|제 일곱 살짜리 아들은 정말 미운 짓만 해요
+datasets/moon/audio/4/3_2447.wav|출석 부를게
+datasets/moon/audio/4/4_4227.wav|맵고 짠 음식은 피하셔야 합니다
+datasets/moon/audio/4/4_3895.wav|나머지는 그냥 다음에 오실 때 주세요
+datasets/moon/audio/4/4_3789.wav|저는 무역 회사에서 일하고 있습니다
+datasets/moon/audio/4/3_3280.wav|외국에서는 새로운 관습에 적응할 필요가 있다
+datasets/moon/audio/4/2_0570.wav|오늘 하든 내일 하든 저는 상관없어요
+datasets/moon/audio/4/3_2935.wav|이 드라마는 특히 아시아 국가들 사이에서 인기가 높다
+datasets/moon/audio/4/3_4196.wav|겨울방학 동안 졸업 논문 준비를 할 생각입니다
+datasets/moon/audio/4/4_5505.wav|어제 본 연극 어땠어
+datasets/moon/audio/4/4_0169.wav|바가지 좀 긁지 마
+datasets/moon/audio/4/1_0857.wav|이 곰팡이는 어디에서 생겨난 거야
+datasets/moon/audio/4/3_4743.wav|빈 칸에 알맞은 말을 쓰시오
+datasets/moon/audio/4/1_0334.wav|보통 하루에 몇 시간 근무하세요
+datasets/moon/audio/4/4_5468.wav|저는 이번 드라마에서 왕비 역을 맡았습니다
+datasets/moon/audio/4/4_1131.wav|이 강에는 위험한 동물들이 많습니다
+datasets/moon/audio/4/3_1827.wav|폭우로 인해 경기가 취소되었다
+datasets/moon/audio/4/4_5157.wav|통장을 가져오셨나요
+datasets/moon/audio/4/4_2864.wav|전체 직원이 몇 명이에요
+datasets/moon/audio/4/1_0157.wav|죄송하지만 예약을 취소하고 싶어요
+datasets/moon/audio/4/3_3900.wav|아침마다 강가를 따라 걷습니다
+datasets/moon/audio/4/3_0836.wav|저는 제 아내에게 첫눈에 반했어요
+datasets/moon/audio/4/2_0347.wav|많은 고등학생들이 대학 생활에 대해 막연한 기대를 갖고 있다
+datasets/moon/audio/4/3_2465.wav|방학 숙제가 많이 밀렸어
+datasets/moon/audio/4/1_0367.wav|부산은 구경할 곳이 많아요
+datasets/moon/audio/4/2_0479.wav|출퇴근 시간 지하철 이호선은 사람들로 굉장히 복잡합니다
+datasets/moon/audio/4/3_0723.wav|어머니는 약물 치료를 받고 계세요
+datasets/moon/audio/4/4_4110.wav|그 농구 선수는 왼발에 부상을 입었다
+datasets/moon/audio/4/2_0532.wav|남자들도 때로는 불평등한 대우를 받습니다
+datasets/moon/audio/4/3_4830.wav|아들 녀석은 나보다 키가 커
+datasets/moon/audio/4/3_2743.wav|삼박 사일
+datasets/moon/audio/4/3_4509.wav|제가 경비 일체를 부담하겠습니다
+datasets/moon/audio/4/1_0338.wav|누구를 그리고 계신 거예요
+datasets/moon/audio/4/4_3493.wav|요즘은 공기가 매우 건조합니다
+datasets/moon/audio/4/4_4565.wav|저녁 일곱 시 이전에 오시는 손님께는 소주 한 병을 서비스로 제공합니다
+datasets/moon/audio/4/4_0152.wav|오전에는 가구 배치를 바꾸느라 바빴어요
+datasets/moon/audio/4/1_0635.wav|살 집은 마련했어
+datasets/moon/audio/4/4_4426.wav|미안해요 자동차 사고가 났었어요
+datasets/moon/audio/4/2_0993.wav|방 안 공기가 몹시 차가워요
+datasets/moon/audio/4/3_4691.wav|사람은 물 없이는 살 수 없다
+datasets/moon/audio/4/3_4895.wav|오후에는 약속이 있습니다
+datasets/moon/audio/4/4_0040.wav|이번 경기는 정말 아깝게 졌어요
+datasets/moon/audio/4/3_0583.wav|지하철 안은 발 디딜 틈도 없었다
+datasets/moon/audio/4/2_0446.wav|십대들은 자신의 외모에 민감하다
+datasets/moon/audio/4/4_4213.wav|플라스틱은 쉽게 썩지 않아요
+datasets/moon/audio/4/4_3811.wav|아버지는 꼭 신문을 보면서 밥을 드세요
+datasets/moon/audio/4/3_2376.wav|저는 장가를 일찍 갔어요
+datasets/moon/audio/4/3_1314.wav|코가 참 오뚝하시네요
+datasets/moon/audio/4/3_4884.wav|이 차 마음에 들어요. 게다가 가격도 괜찮아요
+datasets/moon/audio/4/4_0682.wav|청소년 범죄가 점차 증가하고 있어요
+datasets/moon/audio/4/3_1854.wav|국제연합의 공식 언어는 아랍어 중국어 영어 불어 러시아어 스페인어 이다
+datasets/moon/audio/4/3_2925.wav|내 자리에서 무대가 잘 보여
+datasets/moon/audio/4/3_4983.wav|최소
+datasets/moon/audio/4/3_0804.wav|나는 여자들의 심리를 이해할 수 없다
+datasets/moon/audio/4/4_0423.wav|볼 좀 이쪽으로 던져 줄래
+datasets/moon/audio/4/4_1074.wav|개인적인 질문 하나 해도 될까요
+datasets/moon/audio/4/4_0049.wav|조수미는 세계적으로 알려진 음악가다
+datasets/moon/audio/4/2_0410.wav|많은 사람들이 연초에 무리한 계획을 세웁니다
+datasets/moon/audio/4/3_1773.wav|그는 자신의 처지에 대해 자주 푸념을 늘어놓는다
+datasets/moon/audio/4/3_0852.wav|행운을 빌어
+datasets/moon/audio/4/4_2000.wav|가 볼 만한 관광지 좀 추천해 주세요
+datasets/moon/audio/4/3_3111.wav|대통령은 테러리스트에 대해 군사 행동을 개시하기로 결정했다
+datasets/moon/audio/4/4_5163.wav|오늘 토론은 주제가 뭐예요
+datasets/moon/audio/4/4_4772.wav|아기는 태어나기 전에 엄마의 심장이 뛰는 소리를 들어요
+datasets/moon/audio/4/3_1094.wav|또 그럴듯한 핑계를 생각해 냈구나
+datasets/moon/audio/4/3_3304.wav|한국에는 절이 아주 많아요
+datasets/moon/audio/4/4_3940.wav|오늘은 기온이 어제보다 낮아요
+datasets/moon/audio/4/3_1136.wav|물건들을 크기별로 나누어 줄래
+datasets/moon/audio/4/4_1062.wav|저는 나중에 구두 디자이너가 되고 싶어요
+datasets/moon/audio/4/4_0582.wav|요즘에는 시계를 오른쪽 손목에 차는 사람이 많아요
+datasets/moon/audio/4/3_3698.wav|이 구역에서 경적을 울리는 것은 금지되어 있습니다
+datasets/moon/audio/4/4_1193.wav|에어컨 틀었으니까 창문 닫아라
+datasets/moon/audio/4/3_0318.wav|이를 닦으면 잇몸에서 피가 나요
+datasets/moon/audio/4/4_2312.wav|고맙지만 혼자 할 수 있을 것 같아요
+datasets/moon/audio/4/2_1115.wav|이 길은 험해서 운전하기가 쉽지 않아
+datasets/moon/audio/4/3_0412.wav|교과서 10쪽을 펴세요
+datasets/moon/audio/4/4_3375.wav|이건 아버지께서 주신 거야
+datasets/moon/audio/4/1_0115.wav|그는 공을 차는 척하면서 상대 선수를 찼다
+datasets/moon/audio/4/3_0514.wav|나는 방에서 나오려고 문의 손잡이를 돌렸다
+datasets/moon/audio/4/4_0696.wav|치아 상태가 썩 좋지 않네요
+datasets/moon/audio/4/3_4859.wav|어떤 일이 있어도 거기 갈 거야
+datasets/moon/audio/4/3_1638.wav|추석 때 아이들은 할아버지, 할머니께 큰절을 한다
+datasets/moon/audio/4/2_0999.wav|어제는 그 일 때문에 하루 종일 기분이 착잡했어요
+datasets/moon/audio/4/3_4793.wav|저는 일요일 아침마다 산에 갑니다
+datasets/moon/audio/4/2_0584.wav|저는 호주에 온 지 20년이 다 되어 가지만 아직 영어가 서툴러요
+datasets/moon/audio/4/3_4807.wav|저는 아침이 될 때까지 깨어 있었어요
+datasets/moon/audio/4/4_2635.wav|소금은 상처를 치료하는 데 이용되기도 한다
+datasets/moon/audio/4/3_2286.wav|아내는 며느리와 잘 지냅니다
+datasets/moon/audio/4/4_3289.wav|캐나다 인구의 이십오퍼센트가 프랑스어를 사용해요
+datasets/moon/audio/4/3_4824.wav|저는 한국말을 하지 못해요
+datasets/moon/audio/4/3_2008.wav|저는 소주 몇 잔이 고작이에요
+datasets/moon/audio/4/3_2949.wav|제 친구 하나가 작년에 호주로 이민을 갔어요
+datasets/moon/audio/4/3_4550.wav|오늘 저녁은 정말 환상적이었어요
+datasets/moon/audio/4/4_0683.wav|천국에 가고 싶으면 신을 믿으세요
+datasets/moon/audio/4/4_4468.wav|사모님께서 향수를 좋아하시나요
+datasets/moon/audio/4/4_2283.wav|백일호인데요 주문 좀 하고 싶어요
+datasets/moon/audio/4/4_0341.wav|요즘 인기 있는 브랜드를 추천해 주실 수 있나요
+datasets/moon/audio/4/3_4358.wav|저는 화장을 옅게  하는 걸 좋아해요
+datasets/moon/audio/4/4_3164.wav|대학교 때 저는 잠깐 식당 종업원으로 일했어요
+datasets/moon/audio/4/4_0334.wav|버터 좀 더 주시겠어요
+datasets/moon/audio/4/4_4343.wav|저는 편지보다 이메일을 즐겨 씁니다
+datasets/moon/audio/4/3_2433.wav|예전에는 초등학교를 국민학교라고 불렀다
+datasets/moon/audio/4/3_3182.wav|공동 생활에는 질서가 요구된다
+datasets/moon/audio/4/3_4221.wav|한 시간 안으로 돌아와
+datasets/moon/audio/4/1_0037.wav|모두가 시험에 통과했음을 발표하게 되어 기쁘게 생각합니다
+datasets/moon/audio/4/4_2692.wav|왜 메일을 보낼 때 마지막 줄이 늘 잘리는 거죠
+datasets/moon/audio/4/1_0178.wav|엄마가 돌아가신 후 모든 것이 달라졌어요
+datasets/moon/audio/4/2_0869.wav|이제는 일이 손에 어느 정도 익었어요
+datasets/moon/audio/4/2_0804.wav|네 말이 전적으로 옳아
+datasets/moon/audio/4/4_3185.wav|머리 조심
+datasets/moon/audio/4/1_0373.wav|엄마는 빵을 굽고 계세요
+datasets/moon/audio/4/3_4821.wav|이 책은 읽을 만하다
+datasets/moon/audio/4/2_0681.wav|싼 게 비지떡이다
+datasets/moon/audio/4/4_2339.wav|이 화장품은 주름을 펴 주는 기능이 있어요
+datasets/moon/audio/4/3_3787.wav|그 철도는 아직 건설 중입니다
+datasets/moon/audio/4/3_1641.wav|안녕히 가세요
+datasets/moon/audio/4/4_4763.wav|자동차 엔진 수리를 배울 때는 지식과 실습 둘 다 중요합니다
+datasets/moon/audio/4/3_2727.wav|차가 없어졌어요
+datasets/moon/audio/4/1_0019.wav|내가 누군지 알아보겠니
+datasets/moon/audio/4/3_1311.wav|에이 나 여자 친구 생겼어 비 정말 어떻게 생겼어
+datasets/moon/audio/4/1_0416.wav|이 가방 산 걸 후회하고 있어
+datasets/moon/audio/4/4_4735.wav|여기 앉아서 땀 좀 식히고 가
+datasets/moon/audio/4/2_0203.wav|우리는 끝없는 바다 위에 떠 있었다
+datasets/moon/audio/4/2_0227.wav|냉정히 말해 이것은 너의 문제다
+datasets/moon/audio/4/3_1689.wav|대부분의 사람들이 새 법률에 반대한다고 응답했다
+datasets/moon/audio/4/4_0663.wav|이 지역은 철이 풍부합니다
+datasets/moon/audio/4/3_3435.wav|서울은 세계에서 가장 물가가 비싼 도시 중 하나예요
+datasets/moon/audio/4/4_4364.wav|렌즈 끼셨어요
+datasets/moon/audio/4/3_1604.wav|그 말 진담이야
+datasets/moon/audio/4/3_0121.wav|잇몸이 많이 부으셨군요
+datasets/moon/audio/4/3_1801.wav|위로해 주셔서 고맙습니다
+datasets/moon/audio/4/4_5529.wav|이 음식은 영양이 풍부하다
+datasets/moon/audio/4/4_3032.wav|남편과 저는 같은 직장에 다니고 있어요
+datasets/moon/audio/4/4_5615.wav|몸매를 유지하는 비결이 뭔가요
+datasets/moon/audio/4/3_3846.wav|빨리 눈이 그쳤으면 좋겠어요
+datasets/moon/audio/4/4_4289.wav|이번에 우리 회사는 열 명의 신규 직원을 뽑을 예정입니다
+datasets/moon/audio/4/4_1647.wav|텔레비전 그만 보고 네 방 좀 치워라
+datasets/moon/audio/4/4_1232.wav|왜 그렇게 우울한 얼굴을 하고 있니
+datasets/moon/audio/4/4_2919.wav|얼마 전에 전화번호가 바뀌었어요
+datasets/moon/audio/4/2_1131.wav|우리 앞에 황량한 사막이 끝없이 펼쳐져 있었다
+datasets/moon/audio/4/2_0494.wav|두 달 전보다 배가 많이 불렀네요
+datasets/moon/audio/4/4_3148.wav|심각한 병일수록 조기에 발견하는 게 중요하다
+datasets/moon/audio/4/4_2715.wav|커피 한 잔 주세요
+datasets/moon/audio/4/3_1658.wav|잠시 실례하겠습니다
+datasets/moon/audio/4/2_0873.wav|저는 수입이 일정하지 않아요
+datasets/moon/audio/4/2_1096.wav|다른 사람들에게 꼭 필요한 사람이 되고 싶어요
+datasets/moon/audio/4/3_3883.wav|그 호텔은 절벽 끝에 위치해 있다
+datasets/moon/audio/4/3_4104.wav|저녁 금방 차릴게
+datasets/moon/audio/4/4_1938.wav|국기 달았니
+datasets/moon/audio/4/4_2338.wav|화장실에 화장지가 다 떨어졌어
+datasets/moon/audio/4/3_4152.wav|잠이 막 들려던 차에 전화가 왔다
+datasets/moon/audio/4/3_1961.wav|계산은 카운터에서 하시면 됩니다
+datasets/moon/audio/4/3_0034.wav|생년월일이 어떻게 되세요
+datasets/moon/audio/4/1_0710.wav|총을 내려 놓아
+datasets/moon/audio/4/4_2549.wav|인쇄하기 전에 종이가 있는지 확인했어
+datasets/moon/audio/4/4_3944.wav|어제 학교 갔었니  네
+datasets/moon/audio/4/4_2035.wav|경기 결과가 어떻게 됐어
+datasets/moon/audio/4/3_0600.wav|부산으로 가는 기차가 오후 한 시에 출발한다
+datasets/moon/audio/4/3_4240.wav|이발소에 간 지 오래됐어요
+datasets/moon/audio/4/3_1709.wav|나는 이모에게 돈을 빌려 달라고 사정했다
+datasets/moon/audio/4/4_4476.wav|남한에서 제일 높은 산은 한라산입니다
+datasets/moon/audio/4/2_0143.wav|밥 먹기도 귀찮아
+datasets/moon/audio/4/4_2510.wav|나 딴 나라로 이민 가기로 결정했어
+datasets/moon/audio/4/3_3077.wav|경찰이 그 여자에게 수갑을 채웠다
+datasets/moon/audio/4/4_4501.wav|상황이 나아지고 있어요
+datasets/moon/audio/4/3_4363.wav|구름 한 점 없는 하늘에서 해가 밝게 빛나고 있었다
+datasets/moon/audio/4/3_2147.wav|스파는 바쁜 도시 생활로부터 벗어날 수 있는 완벽한 장소다
+datasets/moon/audio/4/4_3236.wav|안녕히 주무셨어요
+datasets/moon/audio/4/3_2223.wav|방에 빛이 좀 들어오게 커튼을 열어 주시겠어요
+datasets/moon/audio/4/4_2855.wav|점원 모집
+datasets/moon/audio/4/3_0378.wav|제 방 정말 엉망이죠
+datasets/moon/audio/4/3_4087.wav|예전에 어디선가 그 커플을 본 적이 있다
+datasets/moon/audio/4/4_1094.wav|이 술 너무 독한데
+datasets/moon/audio/4/3_2495.wav|이번 시험에서 오십명 중 사십구등을 했어요
+datasets/moon/audio/4/4_0481.wav|저는 부끄러움이 많아요
+datasets/moon/audio/4/3_4195.wav|갈수록 흰머리가 늘어요
+datasets/moon/audio/4/2_0879.wav|이번 시험이 취소될 수도 있어요
+datasets/moon/audio/4/1_0077.wav|이 자리는 비었습니까
+datasets/moon/audio/4/3_0545.wav|창문에 기대지 마 위험해
+datasets/moon/audio/4/1_0402.wav|우리는 밤새도록 얘기를 계속했습니다
+datasets/moon/audio/4/1_0769.wav|그녀의 소식을 들으니 마음이 놓였다
+datasets/moon/audio/4/1_0738.wav|폭력은 폭력을 낳는 법입니다
+datasets/moon/audio/4/3_2909.wav|마지막 공연은 열한 시에 있습니다
+datasets/moon/audio/4/4_2031.wav|어떤 계절을 제일 좋아하세요
+datasets/moon/audio/4/1_0335.wav|그러는 게 좋을 것 같아
+datasets/moon/audio/4/4_3217.wav|제 가장 친한 친구는 삼년 전에 교통사고로 죽었어요
+datasets/moon/audio/4/1_0147.wav|결혼 축하해
+datasets/moon/audio/4/3_4448.wav|이 수의 십의 자리 숫자는 일의 자리 숫자의 세 배이다 각 숫자의 합은 팔이다 이 수는
+datasets/moon/audio/4/4_0595.wav|챔피언을 유지하는 건 챔피언이 되는 것만큼 힘들어요
+datasets/moon/audio/4/3_0239.wav|오늘 저녁에는 뭔가 매콤한 걸 먹고 싶어요
+datasets/moon/audio/4/4_1567.wav|저는 감기에 걸려도 약을 잘 안 먹어요
+datasets/moon/audio/4/3_3604.wav|오늘 아침에 정호가 뉴스에 나왔어
+datasets/moon/audio/4/4_4938.wav|싹 버리고 새 거 사자
+datasets/moon/audio/4/4_1349.wav|이모는 암으로 돌아가셨어요
+datasets/moon/audio/4/4_1582.wav|물에 빠뜨린 동전 건지고 있어요
+datasets/moon/audio/4/1_0369.wav|일자리를 구하고 있습니다
+datasets/moon/audio/4/4_4203.wav|저는 국내 가요보다 팝송을 자주 들어요
+datasets/moon/audio/4/3_0184.wav|그 남자는 부상으로 피를 많이 흘렸다
+datasets/moon/audio/4/4_3958.wav|그들은 담 너머로 그 여자를 몰래 보았다
+datasets/moon/audio/4/4_2695.wav|잘못해서 컴퓨터가 꺼졌어요
+datasets/moon/audio/4/4_1145.wav|부모님은 제가 어렸을 때 돌아가셨어요
+datasets/moon/audio/4/4_3344.wav|네 말이 맞았다는 걸 깨달았어
+datasets/moon/audio/4/4_0157.wav|배고파 죽겠어요
+datasets/moon/audio/4/3_2424.wav|누가 수업 후에 칠판 지울래
+datasets/moon/audio/4/4_0057.wav|사람의 앞날은 알 수가 없어요
+datasets/moon/audio/4/4_4994.wav|수돗물은 마셔도 되지만, 사실 아무도 마시지 않습니다
+datasets/moon/audio/4/3_3224.wav|제 이모는 도박으로 전 재산을 날렸어요
+datasets/moon/audio/4/2_0210.wav|어젯밤 잠을 못 자서 신경이 날카로워요
+datasets/moon/audio/4/3_0413.wav|주먹을 쥐었다 폈다 해 볼래
+datasets/moon/audio/4/3_4860.wav|어느 비 내리는 아침, 그가 내 사무실에 찾아왔다
+datasets/moon/audio/4/4_1088.wav|친구가 취미로 도자기를 만드는데 하나 줬어요
+datasets/moon/audio/4/4_1692.wav|이게 다 너를 위해서 그러는 거야
+datasets/moon/audio/4/3_1163.wav|그녀는 책을 쓰는 데 열정을 쏟았다
+datasets/moon/audio/4/4_0994.wav|당신 덕에 살았습니다
+datasets/moon/audio/4/4_1865.wav|우리 학교는 공업 지역에 있어요
+datasets/moon/audio/4/4_0554.wav|저는 별 어려움 모르고 자랐어요
+datasets/moon/audio/4/2_0359.wav|김 빠진 맥주는 맛없어
+datasets/moon/audio/4/3_0771.wav|당분간 목발을 짚고 다니세요
+datasets/moon/audio/4/4_2616.wav|시험이 이틀밖에 안 남았어요
+datasets/moon/audio/4/4_5522.wav|저 암에 대해 연구하고 있습니다
+datasets/moon/audio/4/4_4799.wav|아프리카의 식량 사정은 심각합니다
+datasets/moon/audio/4/4_0797.wav|차 두 대가 정면으로 충돌하면서 두 명이 사망했다
+datasets/moon/audio/4/3_2782.wav|너는 내 적수가 못 돼
+datasets/moon/audio/4/1_0566.wav|그는 흥분하여 두 주먹을 불끈 쥐었다
+datasets/moon/audio/4/4_0429.wav|휴가 잘 보내세요
+datasets/moon/audio/4/4_2533.wav|그 여자는 자기 잘못을 절대 인정하지 않아요
+datasets/moon/audio/4/4_1002.wav|오늘 정말 덥다
+datasets/moon/audio/4/4_5323.wav|그 영화는 웃기면서 동시에 감동적이다
+datasets/moon/audio/4/3_3638.wav|인쇄가 선명하지 않아요
+datasets/moon/audio/4/3_0455.wav|그 녀석이 먼저 내 배를 쳤어요
+datasets/moon/audio/4/3_3951.wav|어머니는 뜰에서 채소를 가꾸세요
+datasets/moon/audio/4/4_1655.wav|통행 금지
+datasets/moon/audio/4/4_0852.wav|저는 대학교 사학년이에요
+datasets/moon/audio/4/4_4958.wav|이 표현은 주로 회화에서 쓰인다
+datasets/moon/audio/4/4_0420.wav|양파 볶는 냄새가 나
+datasets/moon/audio/4/4_4637.wav|세상에 지금이 몇 시야 나 가야겠어
+datasets/moon/audio/4/3_3624.wav|죄송하지만 이 책은 절판되었습니다
+datasets/moon/audio/4/3_2077.wav|담배 피워도 될까요
+datasets/moon/audio/4/4_3444.wav|저희 프로그램에는 다양한 코너가 있습니다
+datasets/moon/audio/4/3_3696.wav|운전대를 편안하게 잡으세요
+datasets/moon/audio/4/3_2809.wav|그녀는 이번 마라톤에서 가장 나이 어린 참가자다
+datasets/moon/audio/4/4_1598.wav|저는 걸음이 빠른 편이에요
+datasets/moon/audio/4/3_3167.wav|보호 장비의 사용을 직원들의 자율에 맡겨서는 안 됩니다
+datasets/moon/audio/4/3_3213.wav|저도 이 모임에 참여하고 싶어요
+datasets/moon/audio/4/3_1582.wav|소위 유기농 식품에 대한 관심이 점점 커지고 있다
+datasets/moon/audio/4/4_4011.wav|퇴원하셨다니 마음이 놓이네요
+datasets/moon/audio/4/3_1982.wav|한국 사람들은 쉽게 지치는 여름날 삼계탕을 즐겨 찾는다
+datasets/moon/audio/4/4_0324.wav|어제 이 건물 앞에서 싸움이 벌어졌어요
+datasets/moon/audio/4/4_4111.wav|왼쪽 아래에 있는 빨간 버튼을 누르세요
+datasets/moon/audio/4/2_0142.wav|귀찮게 굴지 좀 마
+datasets/moon/audio/4/3_3919.wav|날이 찌는 듯이 덥다
+datasets/moon/audio/4/4_4627.wav|한국 사람들은 술을 마실 때 서로 잔을 채워 줘요
+datasets/moon/audio/4/3_0409.wav|나는 꿈을 꾸고 있는 게 아닌가 싶어 내 볼을 꼬집었다
+datasets/moon/audio/4/3_1558.wav|당신은 귀가 너무 얇아요
+datasets/moon/audio/4/4_1455.wav|제 취미는 음악 감상이에요
+datasets/moon/audio/4/4_5111.wav|그 아이는 풍선이 터지자 울음을 터뜨렸다
+datasets/moon/audio/4/4_5220.wav|여기서 너를 만나다니 정말 뜻밖인데
+datasets/moon/audio/4/3_0355.wav|빨래가 바싹 말랐어
+datasets/moon/audio/4/3_4298.wav|산 너머로 해가 졌다
+datasets/moon/audio/4/4_1747.wav|내 친구 지호 기억나
+datasets/moon/audio/4/1_0094.wav|고기를 기름에 볶지 마라
+datasets/moon/audio/4/3_3870.wav|오존층 파괴는 지구온난화의 원인이 되고 있다
+datasets/moon/audio/4/4_1066.wav|그때까지 도착하기는 어려울 것 같네요
+datasets/moon/audio/4/3_4130.wav|그는 끝내 나타나지 않았다
+datasets/moon/audio/4/4_2697.wav|여자들은 잘생긴 남자보다 재미있는 남자를 더 좋아한다
+datasets/moon/audio/4/1_0276.wav|나쁜 친구와 어울려 다니지 마라
+datasets/moon/audio/4/4_1993.wav|새를 관찰하는 것은 꽤 흥미로운 일이에요
+datasets/moon/audio/4/3_4515.wav|올해에는 거의 눈이 내리지 않았다
+datasets/moon/audio/4/3_4812.wav|회사가 결국 망하고 말았다
+datasets/moon/audio/4/2_0762.wav|네가 내게 그런 말을 하다니 어처구니없다
+datasets/moon/audio/4/4_1431.wav|쇠고기 간 거 있나요
+datasets/moon/audio/4/4_0939.wav|당분간 혼자 지내고 싶어
+datasets/moon/audio/4/3_4810.wav|돈을 다 써 버렸어요
+datasets/moon/audio/4/4_1824.wav|저는 내년에 고등학생이 돼요
+datasets/moon/audio/4/4_3369.wav|불이 꺼지지 않게 해라
+datasets/moon/audio/4/4_5245.wav|빨리 바다에 뛰어들자
+datasets/moon/audio/4/4_0492.wav|저도 불과 일주일 전에 여기에 왔어요
+datasets/moon/audio/4/3_0319.wav|나 아직 세수도 안 했어
+datasets/moon/audio/4/3_4615.wav|특히 이 부분을 주의해서 보세요
+datasets/moon/audio/4/4_1711.wav|이거 뭘 그린 거니
+datasets/moon/audio/4/4_3270.wav|목에 생기는 주름은 감출 수가 없어요
+datasets/moon/audio/4/1_0074.wav|램프가 그의 작품을 비추게 배치되어 있었다
+datasets/moon/audio/4/3_1940.wav|이 책은 요즘 날개 돋친 듯 팔리고 있어요
+datasets/moon/audio/4/3_0156.wav|흰색이 너의 까만 피부랑 잘 어울리는구나
+datasets/moon/audio/4/4_0450.wav|요즘에는 아이를 원하지 않는 부부가 많아요
+datasets/moon/audio/4/2_1064.wav|그의 얼굴이 공포로 파랗게 질렸다
+datasets/moon/audio/4/3_3236.wav|스트레스는 모든 병의 근원이다
+datasets/moon/audio/4/4_1166.wav|둘 다 마음에 안 들어요
+datasets/moon/audio/4/1_0534.wav|따님 이름은 뭐라고 지었어요
+datasets/moon/audio/4/2_0032.wav|들어 주셔서 대단히 감사합니다
+datasets/moon/audio/4/3_0091.wav|그녀는 자신의 재산을 딸에게 모두 남긴다는 유언을 남겼다
+datasets/moon/audio/4/4_3018.wav|주차장은 지하에 있어요
+datasets/moon/audio/4/4_0103.wav|여기 앉아도 되나요
+datasets/moon/audio/4/4_0256.wav|그녀는 늘 반지를 끼고 있다
+datasets/moon/audio/4/3_4913.wav|여기는 웬일이세요
+datasets/moon/audio/4/4_1198.wav|엔진에 문제가 있는 것 같은데요
+datasets/moon/audio/4/2_0123.wav|이 근처 괜찮은 식당을 알아요
+datasets/moon/audio/4/3_4180.wav|전립선암은 아주 흔한 암이다
+datasets/moon/audio/4/4_2720.wav|자네만 믿어
+datasets/moon/audio/4/4_5158.wav|인간은 날씨의 변화를 통제할 수 없어요
+datasets/moon/audio/4/3_1170.wav|잠시 기다려 주세요
+datasets/moon/audio/4/4_1326.wav|저는 음력 시월 이십육일에 태어났어요
+datasets/moon/audio/4/4_5277.wav|이 표시는 무슨 의미예요
+datasets/moon/audio/4/3_2558.wav|그는 위생 관념이 부족하다
+datasets/moon/audio/4/3_0901.wav|뭐가 그렇게 못마땅한 거야
+datasets/moon/audio/4/4_3681.wav|목을 거의 움직일 수가 없어요
+datasets/moon/audio/4/4_4754.wav|실내에 들어갈 때는 신발을 벗어 주세요
+datasets/moon/audio/4/2_0439.wav|그녀의 기술은 그 남자의 진술과 미묘하게 다르다
+datasets/moon/audio/4/3_0682.wav|음식으로 많은 병을 치료할 수 있다
+datasets/moon/audio/4/4_0522.wav|실패의 원인을 분석하는 일은 매우 중요하다
+datasets/moon/audio/4/4_2486.wav|모든 제품의 크기가 일정해야 합니다
+datasets/moon/audio/4/4_4856.wav|세상에 소금 대신 설탕을 넣어 버렸어
+datasets/moon/audio/4/1_0361.wav|이 중에서 하나를 고르세요
+datasets/moon/audio/4/3_3778.wav|백삼십사번 버스를 타세요
+datasets/moon/audio/4/2_0815.wav|제 꿈은 용감한 군인이 되는 거예요
+datasets/moon/audio/4/3_3343.wav|가을은 수확의 계절이다
+datasets/moon/audio/4/2_1017.wav|야 촌스럽게 굴지 마
+datasets/moon/audio/4/4_1210.wav|이제 밖은 어두워
+datasets/moon/audio/4/3_2607.wav|저는 요즘 제 월급의 대부분을 저축하고 있어요
+datasets/moon/audio/4/4_0760.wav|초콜릿 좋아하세요
+datasets/moon/audio/4/4_2555.wav|입을 크게 벌려 보세요
+datasets/moon/audio/4/4_4781.wav|서울 지역 시내버스 요금이 얼마예요
+datasets/moon/audio/4/4_1539.wav|게으른 건 여전하구나
+datasets/moon/audio/4/4_3620.wav|머릿속이 너무 복잡해요
+datasets/moon/audio/4/3_1050.wav|왠지 이 그림은 아프리카를 연상하게 한다
+datasets/moon/audio/4/4_2215.wav|긴장이 돼서 밤새 한숨도 못 잤어요
+datasets/moon/audio/4/3_4337.wav|반죽을 납작하게 누르세요
+datasets/moon/audio/4/3_3895.wav|호주의 내륙은 하나의 거대한 사막 지역이다
+datasets/moon/audio/4/1_0795.wav|오늘은 기온이 많이 올라갔다
+datasets/moon/audio/4/4_2329.wav|사실대로 말해라 네가 훔쳤지
+datasets/moon/audio/4/4_1439.wav|날 좀 가만 내버려 둬
+datasets/moon/audio/4/4_3920.wav|네가 나라면 납득할 수 있겠니
+datasets/moon/audio/4/3_2280.wav|이제 나도 아내가 필요하다
+datasets/moon/audio/4/1_0193.wav|문을 당겨서 여세요
+datasets/moon/audio/4/4_5553.wav|필요한 게 있으면 말해라
+datasets/moon/audio/4/4_3160.wav|저희 식당에서는 음식에 조미료를 넣지 않습니다
+datasets/moon/audio/4/1_0467.wav|그 영화는 특수효과를 많이 이용해 만들어졌다
+datasets/moon/audio/4/2_0240.wav|누나는 남자 보는 눈이 높아요
+datasets/moon/audio/4/3_1353.wav|어떻게 그렇게 날씬한 몸매를 유지하십니까
+datasets/moon/audio/4/4_2528.wav|서울의 인구는 천만이 넘어요
+datasets/moon/audio/4/3_2973.wav|정부는 다른 아시아 나라들과의 문화 교류를 강화하는 데 힘쓰고 있다
+datasets/moon/audio/4/2_0487.wav|이 가죽은 촉감이 참 부드러워요
+datasets/moon/audio/4/4_4102.wav|왜 외교관이 되고 싶은 거니
+datasets/moon/audio/4/3_1546.wav|그 여자는 사람들에게 거만한 태도로 지시를 하고는 했다
+datasets/moon/audio/4/4_2526.wav|그 사람은 참 인간적이라서 좋아요
+datasets/moon/audio/4/1_0379.wav|내 취미는 길거리의 사람들을 관찰하는 거야
+datasets/moon/audio/4/1_0916.wav|저를 소개하겠습니다
+datasets/moon/audio/4/3_2318.wav|남들 말에 신경 쓸 것 없어
+datasets/moon/audio/4/3_4127.wav|그가 죽은 후에야 비로소 내가 그 사람을 얼마나 사랑했는지 알았습니다
+datasets/moon/audio/4/3_0990.wav|그 시험을 다시 봐야 한다는 생각을 하니 하늘이 노래졌다
+datasets/moon/audio/4/3_3191.wav|사회 계층 간의 갈등을 해소하는 일은 매우 중요하다
+datasets/moon/audio/4/3_3606.wav|저는 티브이 방송국의 아나운서입니다
+datasets/moon/audio/4/3_4200.wav|한순간의 부주의가 사고를 불러올 수 있다
+datasets/moon/audio/4/3_4512.wav|참가 인원은 총 열 명입니다
+datasets/moon/audio/4/3_0921.wav|가끔 모든 것이 허무하게 느껴진다
+datasets/moon/audio/4/4_1681.wav|난 유머 감각이 있는 사람이 좋아 나도 그래
+datasets/moon/audio/4/3_2793.wav|우리 팀이 이점 차로 졌다
+datasets/moon/audio/4/4_0902.wav|오늘은 달이 참 밝네
+datasets/moon/audio/4/4_1682.wav|나 오늘 점심 굶었어 그래요 왜요
+datasets/moon/audio/4/1_0610.wav|겨우 세개 맞혔어
+datasets/moon/audio/4/4_4411.wav|아빠 생일 선물을 찾고 있어요
+datasets/moon/audio/4/4_4472.wav|이번 일을 교훈으로 삼으세요
+datasets/moon/audio/4/1_0922.wav|남은 음식 좀 싸 주시겠어요
+datasets/moon/audio/4/1_0681.wav|시부모님을 모시고 사세요
+datasets/moon/audio/4/2_0211.wav|그날 새벽 날카로운 비명 소리에 잠을 깼다
+datasets/moon/audio/4/3_4467.wav|기업의 가치를 평가하는 무수히 많은 방법이 있다
+datasets/moon/audio/4/2_0959.wav|저는 결과가 과정보다 더 중요하다고 생각해요
+datasets/moon/audio/4/4_4978.wav|갑자기 엄청난 비가 쏟아지기 시작했다
+datasets/moon/audio/4/4_0521.wav|내 생각에 노란색 분필이 제일 잘 보이는 것 같아
+datasets/moon/audio/4/4_3894.wav|남동생이 하나 있었으면 좋겠어요
+datasets/moon/audio/4/2_0263.wav|이 노래는 멜로디가 너무 단조로워
+datasets/moon/audio/4/4_0858.wav|어제 이 근처에서 대형 화재가 있었대
+datasets/moon/audio/4/4_0395.wav|영화 자주 보세요
+datasets/moon/audio/4/1_0869.wav|당신을 더 이상 사랑하지 않아
+datasets/moon/audio/4/3_2217.wav|아내는 최신형 냉장고를 사고 싶어해요
+datasets/moon/audio/4/3_0736.wav|그녀는 현장에서 소방관에게 응급처치를 받았다
+datasets/moon/audio/4/1_0763.wav|미국이 수출을 늘리기 위해 많은 압력을 가하고 있어요
+datasets/moon/audio/4/3_0284.wav|낮잠을 너무 많이 잤더니 잠이 안 온다
+datasets/moon/audio/4/3_4065.wav|그녀는 밤중에 일한다
+datasets/moon/audio/4/4_1442.wav|하녀는 임상수 감독의 영화예요
+datasets/moon/audio/4/4_1411.wav|아기는 언제 가질 생각이니
+datasets/moon/audio/4/4_3581.wav|모든 걸 제게 맡기세요
+datasets/moon/audio/4/4_1192.wav|돈은 지갑에 있어요
+datasets/moon/audio/4/3_0072.wav|술은 어른한테 배워야 해요
+datasets/moon/audio/4/4_4359.wav|저는 매일 점심 때 라면을 먹어요
+datasets/moon/audio/4/4_3955.wav|그림 사이의 간격을 좀 더 넓혀 보세요
+datasets/moon/audio/4/4_3321.wav|이런 큰일 났어
+datasets/moon/audio/4/3_1066.wav|조심해 위험해
+datasets/moon/audio/4/1_0401.wav|엄마는 병원에 누워 계세요
+datasets/moon/audio/4/3_2526.wav|저는 대학 다닐 때 영국에서 일년간 어학연수를 했습니다
+datasets/moon/audio/4/4_5550.wav|오랜만에 달리기를 했더니 옆구리가 아파요
+datasets/moon/audio/4/1_0026.wav|소영이 좀 바꿔 주세요
+datasets/moon/audio/4/2_0968.wav|이 지독한 냄새는 어디서 나는 거야
+datasets/moon/audio/4/2_0995.wav|찬 음식을 먹고 배탈이 났어요
+datasets/moon/audio/4/4_0589.wav|제가 개인적으로 책임지겠습니다
+datasets/moon/audio/4/3_4178.wav|전화가 자꾸 끊어져요
+datasets/moon/audio/4/4_2236.wav|네가 얼마나 힘든지 헤아릴 수 있어
+datasets/moon/audio/4/4_1653.wav|중요한 물건은 금고에 보관하세요
+datasets/moon/audio/4/4_1110.wav|그 사람은 아직 도망 다니고 있다
+datasets/moon/audio/4/4_0440.wav|보름 만에 처음으로 밖으로 나왔어요
+datasets/moon/audio/4/4_3133.wav|서울역이 어느 쪽이죠
+datasets/moon/audio/4/3_3991.wav|에이 오늘은 좀 어때요 비 지난주보다는 훨씬 좋아
+datasets/moon/audio/4/4_3159.wav|오층 좀 눌러 주시겠어요
+datasets/moon/audio/4/3_1107.wav|베토벤의 정확한 사인을 규명하기 위해 많은 사람들이 노력하고 있다
+datasets/moon/audio/4/4_5361.wav|운전하면서 전화하는 것은 위험해
+datasets/moon/audio/4/3_1938.wav|여기서 파는 물건들은 품질이 좋다
+datasets/moon/audio/4/3_1088.wav|내 말 오해하지 마
+datasets/moon/audio/4/3_2711.wav|세계 여행은 언제나 제 꿈이었어요
+datasets/moon/audio/4/1_0080.wav|이틀 동안 차를 빌리고 싶은데요
+datasets/moon/audio/4/3_2149.wav|저는 도심에서 운전하는 걸 좋아하지 않습니다
+datasets/moon/audio/4/4_1832.wav|고개를 조금만 숙여 주세요
+datasets/moon/audio/4/3_1117.wav|그의 사진에는 독창성이 전혀 없다
+datasets/moon/audio/4/4_2973.wav|한국은 노인 인구가 계속 증가하고 있어요
+datasets/moon/audio/4/1_0487.wav|머리가 너무 귀찮아. 너무 빨리 자라
+datasets/moon/audio/4/3_1943.wav|구매하신 상품은 교환이나 반품이 안 됩니다
+datasets/moon/audio/4/3_3730.wav|차가 막혀 늦었어요
+datasets/moon/audio/4/1_0024.wav|이거 다른 걸로 바꿀 수 있을까요
+datasets/moon/audio/4/3_1072.wav|흡연이 얼마나 위험한지 인식하지 못하는 사람도 있다
+datasets/moon/audio/4/3_2513.wav|장학금은 신청했어
+datasets/moon/audio/4/1_0287.wav|우리 부부는 아이를 갖지 않기로 결정했어
+datasets/moon/audio/4/4_0605.wav|어디 있었어 오늘 하루 종일 너를 찾아다녔어
+datasets/moon/audio/4/2_1089.wav|풍성한 한가위 되세요
+datasets/moon/audio/4/3_4806.wav|음악을 듣고 있어요
+datasets/moon/audio/4/4_4414.wav|벌레 한 마리의 생명도 소중히 여겨야 해
+datasets/moon/audio/4/2_0714.wav|안녕하세요
+datasets/moon/audio/4/3_4678.wav|부가세는 별도입니다
+datasets/moon/audio/4/4_0288.wav|저는 지난달에 뇌 수술을 받았어요
+datasets/moon/audio/4/3_4918.wav|오늘 밤은 그냥 집에 있을래요
+datasets/moon/audio/4/4_0730.wav|제한 시간이 약 삼십초 남았습니다
+datasets/moon/audio/4/2_0836.wav|이 구역은 임산부에게는 위험합니다
+datasets/moon/audio/4/2_0860.wav|간단히 말해서 상황은 이래
+datasets/moon/audio/4/4_3910.wav|제 방은 난방이 잘 안 돼요
+datasets/moon/audio/4/3_0369.wav|이 옷은 뒤집어서 다림질하세요
+datasets/moon/audio/4/3_0524.wav|선수들은 경기가 끝난 뒤 포옹을 주고받았다
+datasets/moon/audio/4/4_3238.wav|출발할 준비됐어요
+datasets/moon/audio/4/3_1785.wav|인질들의 안전이 최우선이라는 점을 다시 한번 강조하고 싶습니다
+datasets/moon/audio/4/3_4819.wav|지금처럼 놀아 가지고는 이 시험에 합격할 수 없어
+datasets/moon/audio/4/2_0069.wav|그는 정신이 건전한 젊은이입니다
+datasets/moon/audio/4/4_1354.wav|여기서 며칠이나 묵으세요
+datasets/moon/audio/4/3_2557.wav|때로는 정의의 개념을 정의하기가 쉽지 않습니다
+datasets/moon/audio/4/3_1768.wav|그렇게 비꼬지 마
+datasets/moon/audio/4/4_3461.wav|나랑 같이 갈래
+datasets/moon/audio/4/3_4590.wav|어머니는 실제로는 일흔이지만 예순 전후로 보입니다
+datasets/moon/audio/4/4_2490.wav|쇼핑 중독은 일종의 병이다
+datasets/moon/audio/4/1_0969.wav|이 캔 좀 따 줘
+datasets/moon/audio/4/4_2653.wav|재즈는 저한테 너무 어려워요
+datasets/moon/audio/4/3_3876.wav|어제 산을 내려오다 발을 삐었어요
+datasets/moon/audio/4/3_0595.wav|아이가 일분도 가만있지를 못해요
+datasets/moon/audio/4/4_0200.wav|그 소문은 사실이 아닌 것으로 밝혀졌어요
+datasets/moon/audio/4/1_0200.wav|추석에는 많은 사람들이 고향을 다녀온다
+datasets/moon/audio/4/3_2363.wav|우리는 7년 연애 끝에 헤어졌다
+datasets/moon/audio/4/4_3226.wav|대부분의 식물은 뿌리와 줄기 잎을 가지고 있다
+datasets/moon/audio/4/3_3980.wav|저는 곤충을 별로 좋아하지 않아요
+datasets/moon/audio/4/4_2766.wav|자세한 얘기는 이따 만나서 하자
+datasets/moon/audio/4/2_0022.wav|그 코치는 선수들에게 가혹하게 대하는 걸로 악명 높았다
+datasets/moon/audio/4/3_0110.wav|저는 원래 오른쪽 볼에 점이 있었어요
+datasets/moon/audio/4/4_2586.wav|일어서서 말씀해 주세요
+datasets/moon/audio/4/3_2584.wav|이력서를 이메일로 보내 주십시오
+datasets/moon/audio/4/3_0026.wav|저는 서른 살이고 싱글입니다
+datasets/moon/audio/4/4_4164.wav|요즘은 티비의 오락 프로그램들이 거의 다 비슷한 거 같아요
+datasets/moon/audio/4/3_1310.wav|네 꼴 보기 싫어
+datasets/moon/audio/4/3_4279.wav|주차는 인근 공영 주차장에서 가능합니다
+datasets/moon/audio/4/4_4760.wav|아직 그 정도 실력은 안 돼요
+datasets/moon/audio/4/4_3700.wav|그날은 제가 기분이 몹시 안 좋았어요
+datasets/moon/audio/4/3_2504.wav|취직 시험에서 또 물을 먹었어요
+datasets/moon/audio/4/3_1531.wav|일이 끝나지 않았는데 가다니 자네 참 무책임하군
+datasets/moon/audio/4/4_2186.wav|문제가 한둘이 아니에요
+datasets/moon/audio/4/4_2164.wav|저는 대학 다닐 때 학비를 벌기 위해 아르바이트를 많이 했어요
+datasets/moon/audio/4/4_1917.wav|꿈과 현실을 구별하지 못하는 사람이 가끔 있어요
+datasets/moon/audio/4/2_0368.wav|조금만 참아. 방학이 머지않았어
+datasets/moon/audio/4/3_2709.wav|나는 어릴 때 종이비행기를 날리고는 했다
+datasets/moon/audio/4/3_4524.wav|사람들은 저마다 꿈이 있다
+datasets/moon/audio/4/3_1447.wav|아이들이 참 얌전하네요
+datasets/moon/audio/4/4_5055.wav|저희는 월요일마다 쉬어요
+datasets/moon/audio/4/3_2638.wav|고용주는 합법적으로 파업 중인 근로자를 해고할 수 없다
+datasets/moon/audio/4/2_0761.wav|제가 어처구니없는 실수를 저질렀어요
+datasets/moon/audio/4/4_1228.wav|일본의 인구는 1억이 넘어요
+datasets/moon/audio/4/4_2054.wav|은행에서 일한 경험이 있으세요
+datasets/moon/audio/4/3_2525.wav|외국 유학을 가기로 결심했어
+datasets/moon/audio/4/4_3847.wav|내일은 기온이 이도 내지 삼도 오르겠습니다
+datasets/moon/audio/4/3_3422.wav|방금 거래처에서 팩스를 받았어요
+datasets/moon/audio/4/4_2422.wav|이분이 저희 회사 사장님이에요
+datasets/moon/audio/4/4_0560.wav|일정에 약간의 변동이 생겼어요
+datasets/moon/audio/4/4_5475.wav|그것은 역사상 가장 충격적인 사건 가운데 하나였다
+datasets/moon/audio/4/3_0479.wav|범인은 행인을 찌르고 달아났다
+datasets/moon/audio/4/4_2591.wav|문제 좀 그만 일으켜라
+datasets/moon/audio/4/4_2909.wav|음악을 정식으로 배운 적은 없어요
+datasets/moon/audio/4/2_0803.wav|우리가 옳은 일을 하는 건지 잘 모르겠어
+datasets/moon/audio/4/4_0744.wav|최근 계속 몸이 안 좋아요
+datasets/moon/audio/4/4_0325.wav|그 사람은 술을 먹으면 자는 버릇이 있어요
+datasets/moon/audio/4/3_3390.wav|제가 살 집을 짓고 싶어요
+datasets/moon/audio/4/3_3399.wav|작업자들이 벽돌을 쌓고 있다
+datasets/moon/audio/4/4_0074.wav|아이들은 차의 앞 좌석에 앉히면 안 됩니다
+datasets/moon/audio/4/2_0768.wav|아버지는 엄숙한 표정을 하고 계셨다
+datasets/moon/audio/4/3_1928.wav|점원 구함
+datasets/moon/audio/4/3_4453.wav|한 점 차로 이겼어요
+datasets/moon/audio/4/3_2072.wav|내가 보기에는 너 취했어
+datasets/moon/audio/4/4_5363.wav|다음 페이지의 위쪽을 보세요
+datasets/moon/audio/4/4_5429.wav|그 사람은 식탁 예절이 엉망이야
+datasets/moon/audio/4/3_2193.wav|엘리베이터가 멈췄어. 관리인을 불러야 해
+datasets/moon/audio/4/4_3129.wav|사진 좀 찍어 주시겠어요
+datasets/moon/audio/4/2_0715.wav|안녕히 가세요. 안녕히 계세요
+datasets/moon/audio/4/4_2633.wav|아무한테도 이야기하지 마
+datasets/moon/audio/4/3_0136.wav|아기들이 손가락을 빠는 것은 나쁜가요
+datasets/moon/audio/4/3_4384.wav|이 바지는 내 예산 범위 밖이다
+datasets/moon/audio/4/4_3533.wav|말썽을 일으키고 싶지는 않아요
+datasets/moon/audio/4/1_0510.wav|이 제품에 대한 수요가 증가하고 있다
+datasets/moon/audio/4/2_0005.wav|그녀의 음정은 완벽에 가까웠다
+datasets/moon/audio/4/4_2270.wav|흰 셔츠 있나요
+datasets/moon/audio/4/3_4919.wav|나는 차라리 집에서 숙제나 할래
+datasets/moon/audio/4/3_2248.wav|명절을 맞아 온 집안 식구가 모였다
+datasets/moon/audio/4/3_2241.wav|지진 후에 큰 화재가 발생했다
+datasets/moon/audio/4/2_0580.wav|그 꿈이 너무 생생해서 잊혀지지를 않아
+datasets/moon/audio/4/3_4858.wav|어떤 사람들은 컴퓨터가 우리 생활을 보다 편리하게 만들었다고 말한다
+datasets/moon/audio/4/4_2718.wav|잔디밭에 들어가지 마시오
+datasets/moon/audio/4/3_0307.wav|너무 부드러운 베개를 베고 자면 목에 좋지 않다
+datasets/moon/audio/4/3_1167.wav|이렇게 추운 날씨는 못 견디겠어요
+datasets/moon/audio/4/3_2876.wav|클래식은 제 취향이 아니에요
+datasets/moon/audio/4/3_3351.wav|부모님은 목장을 운영하세요
+datasets/moon/audio/4/3_3990.wav|이사 온 지 이주가 지났어요
+datasets/moon/audio/4/4_0551.wav|벼는 가뭄에 약하다
+datasets/moon/audio/4/4_3906.wav|나무의 나이는 어떻게 알 수 있지
+datasets/moon/audio/4/3_1319.wav|그 드레스 입으니까 멋지다
+datasets/moon/audio/4/3_3853.wav|태풍이 진로를 서쪽으로 바꾸었다
+datasets/moon/audio/4/1_0231.wav|그것이 사실임이 드러났다
+datasets/moon/audio/4/3_3274.wav|내일이면 방학이 끝나요
+datasets/moon/audio/4/3_4254.wav|죽기를 두려워하지 않는다면 앞으로 나오시오
+datasets/moon/audio/4/4_1415.wav|가족과 떨어져 지내는 건 힘든 일일 거야
+datasets/moon/audio/4/3_3860.wav|지진으로 전국이 난리가 났다
+datasets/moon/audio/4/2_0969.wav|이번 독감은 정말 지독해
+datasets/moon/audio/4/3_0528.wav|제 말이 들리면 고개를 끄덕이세요
+datasets/moon/audio/4/4_0184.wav|사람들은 그 가수에게 큰 박수를 보냈다
+datasets/moon/audio/4/3_4905.wav|두 사람 친구 아니야
+datasets/moon/audio/4/4_0970.wav|이 차는 새 거나 다름없어
+datasets/moon/audio/4/3_4847.wav|쟤는 항상 자기 얘기만 한다
+datasets/moon/audio/4/4_1762.wav|저희 학교는 입학 기준이 아주 높아요
+datasets/moon/audio/4/1_0103.wav|사람들은 그를 게으른 천재라고 부른다
+datasets/moon/audio/4/4_2149.wav|이번 방학 때는 친구들이랑 해수욕장에 갈 생각이에요
+datasets/moon/audio/4/4_4683.wav|세월 참 빠르구나
+datasets/moon/audio/4/2_1010.wav|창피한 줄 아세요
+datasets/moon/audio/4/3_2908.wav|오늘 영화 보러 갈래
+datasets/moon/audio/4/4_0077.wav|안개 때문에 십미터 앞도 보이지 않아요
+datasets/moon/audio/4/4_3209.wav|이 차 주인 되세요
+datasets/moon/audio/4/3_3180.wav|관광객들은 공중도덕과 사회 도덕을 지켜야 한다
+datasets/moon/audio/4/3_2928.wav|관객들이 배우들에게 열광적으로 박수를 보냈다
+datasets/moon/audio/4/4_5603.wav|저는 중국 요리가 좋아요
+datasets/moon/audio/4/3_4451.wav|일에서 백까지의 자연수를 모두 합하시오
+datasets/moon/audio/4/4_1698.wav|그런 일은 종종 일어나요
+datasets/moon/audio/4/3_0185.wav|요즘 들어 눈곱이 많이 끼어요
+datasets/moon/audio/4/4_5036.wav|저는 수년 동안 아버지와 말을 하지 않았어요
+datasets/moon/audio/4/2_0944.wav|제가 어깨가 좀 좁아요
+datasets/moon/audio/4/3_4663.wav|이 두 곡은 되게 유사해
+datasets/moon/audio/4/3_1616.wav|저는 어릴 때 말을 심하게 더듬었어요
+datasets/moon/audio/4/4_1796.wav|기름 안 튀게 조심해라
+datasets/moon/audio/4/4_3860.wav|보고서는 오백자 내외로 쓰세요
+datasets/moon/audio/4/3_3609.wav|그 탤런트는 기자 회견을 소집했다
+datasets/moon/audio/4/4_2343.wav|샤워를 했더니 피로가 확 풀린 것 같아요
+datasets/moon/audio/4/4_1011.wav|나도 데려가 줘
+datasets/moon/audio/4/4_3836.wav|아이들을 밖으로 내보내라
+datasets/moon/audio/4/3_2155.wav|이 동네 주민이세요
+datasets/moon/audio/4/4_2173.wav|당신과 평생을 함께하고 싶어요
+datasets/moon/audio/4/1_1008.wav|그는 기뻐서 울고 있다
+datasets/moon/audio/4/1_0789.wav|나는 더 이상 화를 누를 수 없었다
+datasets/moon/audio/4/4_4843.wav|우리는 보통 시월에는 바쁩니다
+datasets/moon/audio/4/3_3238.wav|그 보고서는 엄청난 대중의 관심을 불러일으켰다
+datasets/moon/audio/4/4_0312.wav|하늘에서 번개가 쳤어요
+datasets/moon/audio/4/2_0080.wav|노사 간에 격렬한 논쟁이 오가고 있다
+datasets/moon/audio/4/3_1309.wav|코끼리가 거울에 비친 자신의 모습을 바라보고 있다
+datasets/moon/audio/4/3_4836.wav|우리는 작년에 여기에서 처음 만났어요
+datasets/moon/audio/4/4_1943.wav|이 국수 정말 맛있네요
+datasets/moon/audio/4/1_0801.wav|제 짐 좀 방으로 옮겨 주세요
+datasets/moon/audio/4/1_0390.wav|심사위원들이 그를 우승자로 결정했어요
+datasets/moon/audio/4/4_4401.wav|잘못한 게 없다고 생각하는 거니
+datasets/moon/audio/4/1_0366.wav|여기에 오시느라 고생하지 않으셨어요
+datasets/moon/audio/4/4_0794.wav|나랑 춤출래
+datasets/moon/audio/4/3_4662.wav|네 옷 내 거랑 비슷한데
+datasets/moon/audio/4/4_5597.wav|회사 차를 개인적인 용도로 사용하면 안 됩니다
+datasets/moon/audio/4/4_5233.wav|똑바로 가다가 왼쪽으로 도세요
+datasets/moon/audio/4/3_0828.wav|자기는 날 얼마나 사랑해
+datasets/moon/audio/4/4_3690.wav|수업 중간에 몰래 빠져 나왔어요
+datasets/moon/audio/4/4_2506.wav|이마에 열이 있네요
+datasets/moon/audio/4/4_5040.wav|수표로 계산해도 되나요
+datasets/moon/audio/4/1_0217.wav|집들이 때 회사 사람들 집에 데려와도 돼
+datasets/moon/audio/4/4_1473.wav|그 공원은 강 건너에 있어요
+datasets/moon/audio/4/3_0346.wav|빨래는 햇볕에서 더 빨리 마른다
+datasets/moon/audio/4/4_0890.wav|목숨이 다할 때까지 너만을 사랑할게
+datasets/moon/audio/4/4_0940.wav|그 사람은 언제나 당당해 보여
+datasets/moon/audio/4/4_2962.wav|짐을 저울 위에 올려 주세요
+datasets/moon/audio/4/3_4741.wav|헌 돈을 새 돈으로 교환해 주실 수 있나요
+datasets/moon/audio/4/3_2197.wav|우리는 침실이 두 개 있는 아파트를 구하고 있어요
+datasets/moon/audio/4/4_2849.wav|날씨가 점점 추워지고 있어요
+datasets/moon/audio/4/2_0472.wav|사전을 찾는 일을 번거롭게 여겨선 안 된다
+datasets/moon/audio/4/3_3791.wav|여기서 지하철역이 얼마나 멀어요
+datasets/moon/audio/4/3_1092.wav|그것은 추측에 불과하다
+datasets/moon/audio/4/3_4647.wav|만약을 대비해서 매달 돈을 저축해라
+datasets/moon/audio/4/3_3096.wav|그 사람들을 처벌하기를 원치 않습니다
+datasets/moon/audio/4/4_1606.wav|우리는 돈을 걷어서 선생님의 선물을 샀다
+datasets/moon/audio/4/4_3075.wav|배가 진짜 고파요
+datasets/moon/audio/4/4_3757.wav|문득 옛 기억이 떠올랐다
+datasets/moon/audio/4/4_3874.wav|올해 추석에는 나흘 동안 쉬어요
+datasets/moon/audio/4/2_0820.wav|나 이 옷 입으니까 우스꽝스러워 보이지
+datasets/moon/audio/4/3_0867.wav|그것 참 안됐군요
+datasets/moon/audio/4/4_5260.wav|아이가 골목길에서 튀어나와서 사고가 날 뻔했어요
+datasets/moon/audio/4/3_4867.wav|왜 이렇게 늦었어
+datasets/moon/audio/4/3_1216.wav|결과에 너무 신경 쓰지 마라
+datasets/moon/audio/4/4_4499.wav|어느 쪽이든 상관없습니다
+datasets/moon/audio/4/2_0335.wav|공연이 끝나자 관객들은 무대 위 배우들에게 뜨거운 박수를 보냈다
+datasets/moon/audio/4/4_5171.wav|아이가 아무리 잘못을 했어도 때리는 것은 옳지 않습니다
+datasets/moon/audio/4/3_2521.wav|오늘 밤 세미나에 참석하고 싶어요
+datasets/moon/audio/4/4_4131.wav|오후에는 기온이 영상으로 올라가겠습니다
+datasets/moon/audio/4/3_4915.wav|아마 철수는 그걸 들 수 있을 거예요. 걔가 저보다 힘이 세거든요
+datasets/moon/audio/4/3_4938.wav|출구 없음
+datasets/moon/audio/4/4_4072.wav|너무 기뻐서 눈물이 나왔어요
+datasets/moon/audio/4/1_0574.wav|술이 깬 다음 얘기하자
+datasets/moon/audio/4/3_0758.wav|기침을 시작하면 멈추지를 않아요
+datasets/moon/audio/4/3_4986.wav|생맥주
+datasets/moon/audio/4/4_2475.wav|네가 지금 하는 얘기는 내가 들은 것하고 일치하지 않아
+datasets/moon/audio/4/3_0628.wav|그는 물러서서 액자를 제대로 걸었는지 살펴보았다
+datasets/moon/audio/4/4_5025.wav|일반적으로 여자가 남자보다 수명이 길어요
+datasets/moon/audio/4/3_4074.wav|현 상태로는 전혀 만족스럽지 않습니다
+datasets/moon/audio/4/3_0166.wav|근육은 내부 장기들을 보호한다
+datasets/moon/audio/4/4_1172.wav|독수리는 알에서 깨어난 지 약 두 달 만에 둥지를 떠난다
+datasets/moon/audio/4/4_5338.wav|손님은 왕이다
+datasets/moon/audio/4/1_0501.wav|부모님께 안부 전해 주세요
+datasets/moon/audio/4/3_0520.wav|생일 선물로 뭐 받고 싶어
+datasets/moon/audio/4/4_5224.wav|이 두 단어는 띄어야 해요
+datasets/moon/audio/4/4_1087.wav|우리 회사는 최신 기술을 도입하기로 결정했다
+datasets/moon/audio/4/4_4847.wav|너희 농장에는 소가 있니
+datasets/moon/audio/4/3_2104.wav|콩나물 좀 다듬어라
+datasets/moon/audio/4/3_0236.wav|차가 너무 달아요
+datasets/moon/audio/4/1_0682.wav|손님들을 전철 역까지 모셔 드리세요
+datasets/moon/audio/4/4_2482.wav|일회용 카메라 찾고 있어요
+datasets/moon/audio/4/3_3326.wav|폭설로 이 지역 농가들이 큰 피해를 입었다
+datasets/moon/audio/4/2_0986.wav|이 회사는 급여가 짜요
+datasets/moon/audio/4/3_2444.wav|오늘 딸아이의 졸업식이 있어요
+datasets/moon/audio/4/4_1892.wav|공연장에서는 핸드폰을 꺼 주세요
+datasets/moon/audio/4/3_2674.wav|낚시 좋아하세요
+datasets/moon/audio/4/4_3890.wav|저는 일남 삼녀 중 첫째예요
+datasets/moon/audio/4/3_1837.wav|범인의 사진이 언론에 공개되었다
+datasets/moon/audio/4/4_3450.wav|코트 주세요. 걸어 드릴게요
+datasets/moon/audio/4/4_1263.wav|언제 게임 한번 하자
+datasets/moon/audio/4/1_0575.wav|실수로 접시를 깼어요
+datasets/moon/audio/4/3_2411.wav|재학생과 졸업생은 우리 체육관을 무료로 이용할 수 있습니다
+datasets/moon/audio/4/3_2057.wav|커피 한 잔
+datasets/moon/audio/4/4_3083.wav|이제부터는 어려운 부분만 집중적으로 공부할 필요가 있어요
+datasets/moon/audio/4/4_2082.wav|아쉽지만 계약을 취소해야겠습니다
+datasets/moon/audio/4/4_3572.wav|나는 마루를 쓸 테니까 너는 닦아
+datasets/moon/audio/4/3_2733.wav|관광하러 왔어요
+datasets/moon/audio/4/4_3797.wav|서두르면 기차를 탈 수 있을 거야
+datasets/moon/audio/4/3_2649.wav|직원이 몇 명이나 되나요
+datasets/moon/audio/4/3_3820.wav|중력의 법칙은 우주에서도 적용된다
+datasets/moon/audio/4/1_0143.wav|이번 주말 내 생일에 너를 초대하고 싶은데
+datasets/moon/audio/4/4_0064.wav|아무래도 병원에 가 봐야 할 것 같아
+datasets/moon/audio/4/4_2981.wav|춥지 않아
+datasets/moon/audio/4/4_4722.wav|십오분 후에 경기가 시작됩니다
+datasets/moon/audio/4/4_0697.wav|시합에서 지고 나서 그는 주먹으로 벽을 쳐서 뼈에 금이 갔다
+datasets/moon/audio/4/4_4535.wav|어젯밤에 엄마와 사소한 일로 싸웠어요
+datasets/moon/audio/4/3_1857.wav|한글과 영어는 표음 문자다
+datasets/moon/audio/4/3_4126.wav|행복이 제 궁극적인 목표입니다
+datasets/moon/audio/4/2_0118.wav|과도하지만 않으면 이제 술을 드셔도 괜찮아요
+datasets/moon/audio/4/3_0997.wav|그건 정말 어이없는 규정이다
+datasets/moon/audio/4/4_4601.wav|성경은 백개 이상의 언어로 번역되었어요
+datasets/moon/audio/4/4_4132.wav|이번 주말에 부모님이 서울로 올라오실 거예요
+datasets/moon/audio/4/3_2297.wav|나는 어릴 때 삼촌과 함께 살았다
+datasets/moon/audio/4/3_4147.wav|아직 자
+datasets/moon/audio/4/4_0533.wav|저는 노래 부르는 게 좋아요
+datasets/moon/audio/4/4_0941.wav|슈퍼에 가서 당근 좀 사 올래
+datasets/moon/audio/4/4_0209.wav|이십세기가 되면서 산업이 빠른 속도로 발달하기 시작했다
+datasets/moon/audio/4/4_3328.wav|키가 얼마예요
+datasets/moon/audio/4/3_3570.wav|내 문자 받았어
+datasets/moon/audio/4/3_4832.wav|이 모자가 내 마음에 들어
+datasets/moon/audio/4/4_3545.wav|당신 개가 우리 집 정원을 망쳐 놨어요
+datasets/moon/audio/4/4_4923.wav|좋은 소식이 있어요
+datasets/moon/audio/4/3_1661.wav|하나만 여쭤 봐도 될까요
+datasets/moon/audio/4/4_2698.wav|어릴 때는 잘사는 친구들이 부러웠어요
+datasets/moon/audio/4/3_4255.wav|정면에 보이는 건물이 학생회관이다
+datasets/moon/audio/4/3_3811.wav|배는 어떻게 떠 있을 수 있을까
+datasets/moon/audio/4/1_0234.wav|이곳에 들어오시면 안 됩니다
+datasets/moon/audio/4/4_3592.wav|지금은 감기에 걸려서 냄새를 못 맡아요
+datasets/moon/audio/4/4_1256.wav|하루 종일 앉아 있었더니 엉덩이가 아파요
+datasets/moon/audio/4/4_1099.wav|이 호텔은 분위기가 독특하네요
+datasets/moon/audio/4/1_0014.wav|내가 아기를 안고 있을게
+datasets/moon/audio/4/4_3169.wav|환경을 위해 종이컵 사용을 줄입시다
+datasets/moon/audio/4/3_0538.wav|왜 길에 침을 뱉어
+datasets/moon/audio/4/4_4904.wav|옛날에는 학생들의 손바닥을 자로 때리는 선생님들이 있었어요
+datasets/moon/audio/4/1_0860.wav|누가 절 살려 주셨어요
+datasets/moon/audio/4/4_4296.wav|저는 오른쪽 뺨에 점이 있어요
+datasets/moon/audio/4/4_3926.wav|저는 날아오는 공을 간신히 피했어요
+datasets/moon/audio/4/4_2512.wav|비밀 번호를 입력하시오
+datasets/moon/audio/4/4_1441.wav|등 뒤로 감춘 게 뭐니
+datasets/moon/audio/4/3_1659.wav|괜찮아요
+datasets/moon/audio/4/3_4703.wav|간단히 말해 시험을 망쳤어요
+datasets/moon/audio/4/3_1650.wav|새해 복 많이 받으세요
+datasets/moon/audio/4/3_1751.wav|나는 비난을 받아도 싸
+datasets/moon/audio/4/3_0000.wav|아직 만날 사람이 한 명 더 있어
+datasets/moon/audio/4/3_2942.wav|제 꿈은 세상의 모든 나라들을 가 보는 거예요
+datasets/moon/audio/4/4_1568.wav|생선 뼈가 목에 걸렸어요
+datasets/moon/audio/4/4_1541.wav|거액의 상금
+datasets/moon/audio/4/4_1527.wav|이 호텔은 방마다 에어컨을 갖추고 있어요
+datasets/moon/audio/4/3_2655.wav|서두를 필요 없어 아직 여유 있어
+datasets/moon/audio/4/3_0008.wav|한국에서는 대다수 온라인 서비스를 이용할 때 실명 확인이 필요합니다
+datasets/moon/audio/4/4_4729.wav|요즘 누가 시집을 사
+datasets/moon/audio/4/4_1393.wav|지영이와 저는 사귄 지 삼개월 됐어요
+datasets/moon/audio/4/3_1074.wav|이 중에서 네 신발을 알아보겠니
+datasets/moon/audio/4/3_3931.wav|낮 최고 기온은 영상 이도로 예상됩니다
+datasets/moon/audio/4/4_0965.wav|그 질문에는 답변하고 싶지 않아요
+datasets/moon/audio/4/3_0729.wav|체온을 재겠습니다
+datasets/moon/audio/4/4_4041.wav|볼륨을 좀 높여 주세요
+datasets/moon/audio/4/4_2575.wav|토요일이랑 일요일에는 한가해요
+datasets/moon/audio/4/4_2332.wav|화분에 물을 일주일에 두 번만 주세요
+datasets/moon/audio/4/4_4399.wav|저는 보통 점심 때 샌드위치를 먹어요
+datasets/moon/audio/4/3_2295.wav|처가 쪽 친척들과 친하세요
+datasets/moon/audio/4/3_2623.wav|회의실 예약했어요
+datasets/moon/audio/4/4_0618.wav|참기름 냄새가 정말 고소해요
+datasets/moon/audio/4/4_0592.wav|책가방을 한쪽 어깨에 메고 다니지 마라
+datasets/moon/audio/4/4_4183.wav|분위기 파악 좀 해
+datasets/moon/audio/4/4_2424.wav|작지만 내 이별 선물이야
+datasets/moon/audio/4/4_5555.wav|안녕하세요 여러분
+datasets/moon/audio/4/3_3283.wav|장례를 지내야 한다는 법이 있지는 않다. 장례는 단지 보편적인 작별 의식이다
+datasets/moon/audio/4/3_4708.wav|대중교통으로 오시는 게 더 편리하실 거예요
+datasets/moon/audio/4/3_3400.wav|집을 지으려면 시멘트, 콘크리트, 모래 등이 필요하다
+datasets/moon/audio/4/3_4464.wav|많이 드세요
+datasets/moon/audio/4/4_4636.wav|세상 참 좁다
+datasets/moon/audio/4/3_2388.wav|아내가 아기를 가졌어요
+datasets/moon/audio/4/1_0590.wav|연설이 시간을 오래 끄니까 사람들이 자리를 뜨기 시작했어요
+datasets/moon/audio/4/4_4256.wav|다른 포크 갖다 드리겠습니다
+datasets/moon/audio/4/4_3242.wav|우리 자리는 앞쪽 중앙이야
+datasets/moon/audio/4/3_0408.wav|왜 불쌍한 인형 팔을 비틀고 있니
+datasets/moon/audio/4/4_5288.wav|지금 날 의심하는 거야
+datasets/moon/audio/4/3_0547.wav|그는 돌아서서 가 버렸다
+datasets/moon/audio/4/3_0926.wav|걔는 자기 배 채우는 것밖에 몰라요
+datasets/moon/audio/4/4_3826.wav|어쩌다 사고가 난 거야
+datasets/moon/audio/4/3_2987.wav|저는 이번 선거에서 여당 후보를 찍었어요
+datasets/moon/audio/4/3_4802.wav|나 삼십분이나 기다렸어
+datasets/moon/audio/4/4_1030.wav|김 오이 당근 계란 등 재료가 다 있습니다
+datasets/moon/audio/4/2_0321.wav|저는 잘못한 게 없으니 떳떳해요
+datasets/moon/audio/4/4_3880.wav|오늘은 쉬는 날이에요
+datasets/moon/audio/4/4_5560.wav|우리는 두 시에 도착해서 한 시간 뒤에 떠났다
+datasets/moon/audio/4/4_2421.wav|부모님은 침대보다 이불이 더 편하다고 말씀하세요
+datasets/moon/audio/4/2_0221.wav|이 도시가 저한테는 낯설어요
+datasets/moon/audio/4/3_0357.wav|비에 옷이 다 젖었다
+datasets/moon/audio/4/3_4840.wav|그건 네 잘못이 아니었다
+datasets/moon/audio/4/2_0588.wav|인간의 본성은 선하다
+datasets/moon/audio/4/4_0855.wav|대한민국은 민주주의 국가다
+datasets/moon/audio/4/4_0357.wav|내일 아침에는 빗자루로 마당의 눈을 쓸어야 할 것 같아
+datasets/moon/audio/4/3_3566.wav|요즘은 공중전화를 보기가 힘들어
+datasets/moon/audio/4/3_2956.wav|내년에 다시 한국에 올 거예요
+datasets/moon/audio/4/4_0588.wav|너는 왜 이리 책임감이 없니
+datasets/moon/audio/4/3_0743.wav|붕대는 최대한 자주 갈아 주세요
+datasets/moon/audio/4/3_2713.wav|일정이 너무 빡빡해요
+datasets/moon/audio/4/3_3873.wav|신선한 공기를 마시니 기분이 좋아져요
+datasets/moon/audio/4/4_2712.wav|잠시 후에 다시 올게요
+datasets/moon/audio/4/4_3989.wav|비가 많이 오는데, 꼭 나가야 해요
+datasets/moon/audio/4/3_4473.wav|저녁을 잔뜩 먹었더니 잠이 와
+datasets/moon/audio/4/3_3189.wav|새 시스템은 보다 효율적입니다
+datasets/moon/audio/4/4_4049.wav|오늘은 놀이터에 애들이 정말 많네
+datasets/moon/audio/4/4_4177.wav|공식적인 행사에 알맞은 옷차림으로 와 주시기 바랍니다
+datasets/moon/audio/4/3_0083.wav|아버지는 내년이 환갑이세요
+datasets/moon/audio/4/2_0237.wav|중국은 놀라운 속도로 발전하고 있습니다
+datasets/moon/audio/4/4_3239.wav|엄마가 매일 아침 준비물 챙기는 거 도와주세요
+datasets/moon/audio/4/4_2098.wav|저는 교사가 되고 싶어요
+datasets/moon/audio/4/4_1219.wav|어쨌든 재미있었다니 다행이다
+datasets/moon/audio/4/3_2697.wav|아이들이 놀이터에서 그네를 타고 놀고 있어요
+datasets/moon/audio/4/1_1002.wav|한글은 십오세기에 세종대왕에 의해 만들어졌어
+datasets/moon/audio/4/3_4312.wav|그 티비프로그램은 일반 상식을 시험하기 위해 만들어졌다
+datasets/moon/audio/4/1_0703.wav|골키퍼가 슛을 막아 냈어요
+datasets/moon/audio/4/4_1804.wav|한국의 휴대폰 기술은 굉장하군요
+datasets/moon/audio/4/3_0244.wav|몸에 좋은 약은 입에 쓰다
+datasets/moon/audio/4/4_1592.wav|그 사람이 길을 건너왔다
+datasets/moon/audio/4/4_3626.wav|늦어서 미안해
+datasets/moon/audio/4/3_0951.wav|골치 아파
+datasets/moon/audio/4/4_1403.wav|연락할 경우를 대비해서 핸드폰 가져가
+datasets/moon/audio/4/3_3960.wav|엄마 거북이 키우고 싶어요
+datasets/moon/audio/4/4_0442.wav|어머니 잘 보살펴라
+datasets/moon/audio/4/3_4690.wav|날개가 없는 새가 있어요
+datasets/moon/audio/4/4_0018.wav|액세서리는 몇 층에 있어요
+datasets/moon/audio/4/1_0603.wav|그거 전부 내가 꾸며 낸 거야
+datasets/moon/audio/4/4_2420.wav|이번 주 토요일에는 쉬어요
+datasets/moon/audio/4/4_1621.wav|그동안 고생 많으셨어요
+datasets/moon/audio/4/4_0848.wav|서울의 대기오염은 정말 심각해요
+datasets/moon/audio/4/2_0476.wav|새 계획은 예전 것과 별다르지 않아요
+datasets/moon/audio/4/4_3556.wav|필요한 만큼 가져
+datasets/moon/audio/4/4_2230.wav|하룻밤에 얼마예요
+datasets/moon/audio/4/4_1992.wav|네가 가장 좋아하는 과목은 뭐니
+datasets/moon/audio/4/4_4438.wav|제가 외출한 사이에 전화 온 데 있어요
+datasets/moon/audio/4/3_0868.wav|그녀의 얼굴은 분노로 새빨개졌다
+datasets/moon/audio/4/3_0875.wav|분해서 잠이 안 와요
+datasets/moon/audio/4/4_2944.wav|접근 금지
+datasets/moon/audio/4/3_2829.wav|내용뿐 아니라, 형식도 중요해
+datasets/moon/audio/4/1_0985.wav|행복했던 시절을 떠올리면 미소가 지어진다
+datasets/moon/audio/4/3_0806.wav|저는 춤에는 자신이 없어요
+datasets/moon/audio/4/3_0627.wav|저는 무서워서 뒷걸음질쳤어요
+datasets/moon/audio/4/3_1574.wav|이거 내가 말했다고 아무한테도 말하지 마
+datasets/moon/audio/4/2_1046.wav|당신과 결혼한 건 탁월한 선택이었어
+datasets/moon/audio/4/4_3657.wav|내가 그 말을 믿을 거라고 생각해요
+datasets/moon/audio/4/4_1798.wav|치마 길이 좀 줄여 주세요
+datasets/moon/audio/4/3_0892.wav|내 여자 친구는 가끔 나를 짜증스럽게 해
+datasets/moon/audio/4/2_0418.wav|그는 무서운 기세로 식탁 위 음식들을 먹어 치웠다
+datasets/moon/audio/4/3_1670.wav|어디 가세요
+datasets/moon/audio/4/3_3841.wav|비 온 뒤에 무지개가 떴다
+datasets/moon/audio/4/2_1041.wav|좀 더 크게 말씀해 주세요
+datasets/moon/audio/4/3_0293.wav|잠깐 눈 좀 붙이지 그러세요
+datasets/moon/audio/4/3_2287.wav|저희는 시부모님과 함께 삽니다
+datasets/moon/audio/4/3_0133.wav|그는 손등으로 얼굴의 땀을 닦았다
+datasets/moon/audio/4/3_0309.wav|벌써 일어난 거야
+datasets/moon/audio/4/4_5477.wav|역시 예상했던 대로구나
+datasets/moon/audio/4/4_2890.wav|정확히 어떤 스타일을 원하세요
+datasets/moon/audio/4/4_2058.wav|제가 제일 좋아하는 과목이 경제학이었어요
+datasets/moon/audio/4/3_2599.wav|임신 중에 조퇴가 불가피한 여러 이유가 있죠
+datasets/moon/audio/4/4_1752.wav|교육 기관을 설립하다
+datasets/moon/audio/4/3_4398.wav|간밤에 대형 화재가 발생했다
+datasets/moon/audio/4/4_2261.wav|그것 참 흥미로운 생각이네요
+datasets/moon/audio/4/4_0817.wav|지금 내가 갖고 있는 돈은 이게 다예요
+datasets/moon/audio/4/4_5408.wav|양쪽 다리가 부었네요
+datasets/moon/audio/4/2_0923.wav|손 교수님은 점잖은 신사예요
+datasets/moon/audio/4/4_3354.wav|너무 비싸요 조금만 깎아 주세요
+datasets/moon/audio/4/4_5300.wav|이 운동화는 등산할 때도 신을 수 있습니다
+datasets/moon/audio/4/4_4325.wav|아버지는 말이 없는 편이세요
+datasets/moon/audio/4/2_1036.wav|밖은 벌써 캄캄해졌어요
+datasets/moon/audio/4/4_1422.wav|그분을 가까이서 본 적은 없어요
+datasets/moon/audio/4/1_0803.wav|이 산을 오르는 건 결코 쉽지 않아
+datasets/moon/audio/4/3_4565.wav|그런대로 괜찮아
+datasets/moon/audio/4/3_0735.wav|마사지가 통증을 줄이는 데 도움이 될 거예요
+datasets/moon/audio/4/4_1699.wav|그 사람 일본인인 것 같습니다 그러나 확실하지는 않습니다
+datasets/moon/audio/4/3_0694.wav|신종플루가 전국적으로 퍼졌다
+datasets/moon/audio/4/4_1507.wav|옷 갈아입는 곳이 어디예요
+datasets/moon/audio/4/3_2538.wav|최근의 설문 조사 결과 응답자의 과반수가 새 규정에 반대하는 것으로 나타났다
+datasets/moon/audio/4/3_2903.wav|그 종이에는 아무것도 적혀 있지 않았다
+datasets/moon/audio/4/4_2156.wav|그분은 훌륭한 학자인 건 분명하지만, 저는 개인적으로 그분을 좋아하지 않아요
+datasets/moon/audio/4/3_2707.wav|내 조카는 장난감보다 인형을 더 좋아해요
+datasets/moon/audio/4/1_0136.wav|아기는 소리가 나는 쪽을 쳐다본다
+datasets/moon/audio/4/4_1516.wav|이 길은 가로등이 없어서 너무 위험해요
+datasets/moon/audio/4/2_0000.wav|여기에서 가까운 곳에 서점이 있나요
+datasets/moon/audio/4/4_0636.wav|거기 가는 것보다 차라리 집에서 잠이나 자는 편이 나을 것 같아
+datasets/moon/audio/4/3_2408.wav|내 여자 친구는 나보다 네 살 어린 대학생이야
+datasets/moon/audio/4/3_2678.wav|등산 자주 가세요
+datasets/moon/audio/4/4_1291.wav|강이 깊어서 건널 수가 없어요
+datasets/moon/audio/4/3_3815.wav|우주의 기원을 이해하는 것은 인류의 오랜 소망 중 하나다
+datasets/moon/audio/4/4_1355.wav|여기 앉으세요
+datasets/moon/audio/4/4_5223.wav|환자의 상태가 눈에 띄게 좋아졌어요
+datasets/moon/audio/4/4_0192.wav|보내 주신 제품에서 몇 가지 문제가 발견되었습니다
+datasets/moon/audio/4/3_3222.wav|마약 복용이 증가하고 있다
+datasets/moon/audio/4/3_1788.wav|그 회사로부터 입사 제의를 받았어요
+datasets/moon/audio/4/3_3699.wav|그녀가 운전석에 타 시동을 걸었다
+datasets/moon/audio/4/3_4048.wav|여기서 걸어서 얼마나 걸리나요
+datasets/moon/audio/4/2_0859.wav|어떻게 네가 나한테 이럴 수 있어
+datasets/moon/audio/4/4_3296.wav|이 카페에는 영화배우들이 자주 온대
+datasets/moon/audio/4/4_1369.wav|내일 점심 같이할까
+datasets/moon/audio/4/1_0113.wav|그는 점차 냉혹한 지도자로 변화했다
+datasets/moon/audio/4/4_0430.wav|우리 연말에 보너스가 나올까
+datasets/moon/audio/4/4_5405.wav|가위로 양 끝을 잘라 줄래
+datasets/moon/audio/4/3_2968.wav|양국의 대표들이 그 사안을 논의하기 위해 만났다
+datasets/moon/audio/4/3_1089.wav|죄송해요, 제 친구로 착각했어요
+datasets/moon/audio/4/3_2698.wav|미끄럼틀, 그네, 시소는 대체로 어린 아이들이 이용합니다
+datasets/moon/audio/4/4_4027.wav|농담하는 거지
+datasets/moon/audio/4/4_3563.wav|내 마누라가 나보다 두 배는 더 벌어
+datasets/moon/audio/4/3_4446.wav|첫 번째 두 번째 세 번째 네 번째 다섯 번
+datasets/moon/audio/4/4_4645.wav|먼저 구체적인 목표를 세워
+datasets/moon/audio/4/4_4549.wav|세금을 포함해서 이만 원입니다
+datasets/moon/audio/4/4_3630.wav|오늘날 미디어는 아이들에게 많은 영향을 준다
+datasets/moon/audio/4/4_4441.wav|저는 이웃들과 사이좋게 지냅니다
+datasets/moon/audio/4/4_3426.wav|좋은 꿈 꿔
+datasets/moon/audio/4/2_0882.wav|좀 더 자세하게 말해 봐
+datasets/moon/audio/4/3_4887.wav|미성년자 즉 십구세 미만인 자에게 담배를 파는 것은 불법이다
+datasets/moon/audio/4/4_1959.wav|공이 언덕 아래로 굴러 내려갔어요
+datasets/moon/audio/4/3_1975.wav|죽은 쌀에 물을 많이 넣고 끓인 거야
+datasets/moon/audio/4/3_0864.wav|가엾기도 해라
+datasets/moon/audio/4/3_1663.wav|문의할 사항이 있으시면 제 비서에게 연락 주세요
+datasets/moon/audio/4/4_4917.wav|그게 무슨 소리야
+datasets/moon/audio/4/4_4584.wav|커피에 설탕 넣으세요
+datasets/moon/audio/4/4_5140.wav|어젯밤에 술을 너무 많이 마셨더니 토할 것 같아
+datasets/moon/audio/4/3_1114.wav|저는 늘 제 자신이 대단히 창의적인 사람이라고 생각해 왔습니다
+datasets/moon/audio/4/3_3245.wav|오늘 오후 세 시경 지진이 발생했다
+datasets/moon/audio/4/3_1000.wav|그녀는 어리둥절한 표정을 지었다
+datasets/moon/audio/4/3_2438.wav|제가 제일 좋아하는 과목은 생물이에요
+datasets/moon/audio/4/1_0439.wav|많은 사람들이 태풍으로 전 재산을 잃었어요
+datasets/moon/audio/4/3_4941.wav|아내는 서울에 있고, 저는 직장 때문에 제주도에 있습니다
+datasets/moon/audio/4/4_3295.wav|기차의 몇몇 칸은 금연 구역입니다
+datasets/moon/audio/4/3_1425.wav|저는 소박하게 살고 싶어요
+datasets/moon/audio/4/4_1779.wav|너무 긴장돼요
+datasets/moon/audio/4/1_0270.wav|적군이 그를 둘러쌌다
+datasets/moon/audio/4/3_0702.wav|의사 선생님이 심각한 게 아니라고 그러셨어요
+datasets/moon/audio/4/4_4597.wav|저는 선거 결과에 관심이 없어요
+datasets/moon/audio/4/1_0787.wav|오른쪽으로 누우세요
+datasets/moon/audio/4/4_0088.wav|그 문은 안쪽에서 열린다
+datasets/moon/audio/4/3_3393.wav|내일 고객과 함께 설계도를 검토해 봐야 합니다
+datasets/moon/audio/4/4_2756.wav|저는 시골에서 자랐어요
+datasets/moon/audio/4/1_0001.wav|그녀의 사랑을 얻기 위해 애썼지만 헛수고였다
+datasets/moon/audio/4/2_0262.wav|그는 하얀 셔츠 위에 넥타이를 단정하게 매고 있었다
+datasets/moon/audio/4/4_1715.wav|졸업하고 나면 학교가 그리울 것 같아
+datasets/moon/audio/4/4_0624.wav|더 이상은 못 참겠어요
+datasets/moon/audio/4/2_0042.wav|그날 밤은 바람이 강하게 불었어요
+datasets/moon/audio/4/3_3907.wav|개구리는 물속과 땅 위 양쪽에서 살 수 있다
+datasets/moon/audio/4/3_2167.wav|엄마는 옆집에 사세요
+datasets/moon/audio/4/3_0659.wav|다음 역에서 내리세요
+datasets/moon/audio/4/4_3155.wav|조건 없이 제안을 받아들일게요
+datasets/moon/audio/4/1_0543.wav|자리에 앉아 졸다가 한 정거장을 지나쳤다
+datasets/moon/audio/4/3_3286.wav|경주에는 유적지가 많아요
+datasets/moon/audio/4/3_0522.wav|내가 짐을 들 테니 당신이 아이 좀 안아요
+datasets/moon/audio/4/2_0808.wav|이제부터 난 완전히 자유야
+datasets/moon/audio/4/4_5138.wav|먼저 퇴근할게요. 내일 봐요
+datasets/moon/audio/4/4_4016.wav|텔레비전 프로그램 녹화 좀 해 줄래
+datasets/moon/audio/4/4_2752.wav|오늘은 하루 종일 회의가 잡혀 있어요
+datasets/moon/audio/4/2_0253.wav|다양한 의견을 듣는 것은 중요합니다
+datasets/moon/audio/4/2_0282.wav|회의실이 너무 덥지 않아
+datasets/moon/audio/4/4_2942.wav|경기도는 강원도 서쪽에 접해 있다
+datasets/moon/audio/4/4_5544.wav|그 사람의 인생은 불행의 연속이었다
+datasets/moon/audio/4/4_1345.wav|공항으로 가 주세요
+datasets/moon/audio/4/4_5013.wav|먼저 숙소부터 정해야겠어요
+datasets/moon/audio/4/3_4022.wav|저는 매년 새로운 음악 악기를 배웁니다
+datasets/moon/audio/4/3_2668.wav|우리 좌석 번호가 몇 번이야
+datasets/moon/audio/4/4_4053.wav|이 손 놔
+datasets/moon/audio/4/4_3627.wav|미처 그건 생각하지 못했어요
+datasets/moon/audio/4/3_2088.wav|많은 아빠들이 집에 돌아가는 길에 빵집에 들른다
+datasets/moon/audio/4/3_2092.wav|우리 포장마차 가서 한잔하자
+datasets/moon/audio/4/3_4939.wav|그 사람이 범인임이 분명해
+datasets/moon/audio/4/3_4354.wav|나는 그들에게 벽을 은은한 색으로 칠해 달라고 부탁했다
+datasets/moon/audio/4/4_5583.wav|죄송하지만 예약을 취소하고 싶은데요
+datasets/moon/audio/4/4_1704.wav|네가 그러니까 병이 났지
+datasets/moon/audio/4/4_1947.wav|아들 아이는 군에 있어요
+datasets/moon/audio/4/1_0774.wav|도둑을 막으려면 담을 높여야 해
+datasets/moon/audio/4/2_0438.wav|바닥이 미끄러우니 조심하세요
+datasets/moon/audio/4/2_0153.wav|그런 말 마세요
+datasets/moon/audio/4/3_2194.wav|따뜻한 실내에 있어라
+datasets/moon/audio/4/2_0116.wav|이제 과감한 결정을 해야 할 때다
+datasets/moon/audio/4/1_0806.wav|저희는 물건을 다발로 팔아요
+datasets/moon/audio/4/4_4062.wav|거기 누구 있어요
+datasets/moon/audio/4/3_3862.wav|저는 환경문제에 깊은 관심을 갖고 있습니다
+datasets/moon/audio/4/3_1313.wav|하이힐을 신고 우아하게 걷고 싶어요
+datasets/moon/audio/4/3_2028.wav|제가 입이 짧은 편이어서 많이 안 먹어요
+datasets/moon/audio/4/1_0924.wav|오늘은 정말 스트레스 쌓여
+datasets/moon/audio/4/3_0207.wav|이 박사는 현미경으로 미생물을 관찰하고 있다
+datasets/moon/audio/4/1_0249.wav|우리 엄마는 우리를 돌보는 것 때문에 아침부터 밤까지 바빠요
+datasets/moon/audio/4/2_1072.wav|이 전자사전은 사용하기에 상당히 편하다
+datasets/moon/audio/4/4_3637.wav|내가 밀라고 할 때까지 밀지 마
+datasets/moon/audio/4/3_1781.wav|친구한테 바람을 맞아서 기분이 별로예요
+datasets/moon/audio/4/4_4957.wav|이 커피는 너무 쓴데
+datasets/moon/audio/4/4_3389.wav|그 사람의 성공은 끊임없는 노력의 결과다
+datasets/moon/audio/4/2_1061.wav|틀림없어
+datasets/moon/audio/4/1_0688.wav|그는 늘 입에 담배를 물고 일을 합니다
+datasets/moon/audio/4/4_4147.wav|오늘부터 다이어트 할 거야
+datasets/moon/audio/4/4_1585.wav|모퉁이를 돌면 바로 건물이 있습니다
+datasets/moon/audio/4/3_1479.wav|왜 나는 그냥 쉬면서 느긋하게 즐기면 안 되는 거야
+datasets/moon/audio/4/3_4833.wav|저를 아세요
+datasets/moon/audio/4/4_0059.wav|그 문제는 아무나 풀 수 있어요
+datasets/moon/audio/4/3_2133.wav|국이 식을 때까지 기다려라
+datasets/moon/audio/4/4_5104.wav|우리 집 강아지는 털이 아주 많아요
+datasets/moon/audio/4/4_4576.wav|이 프로그램을 어떻게 설치하죠
+datasets/moon/audio/4/3_3052.wav|나는 운이 좋아 살아났어
+datasets/moon/audio/4/2_1060.wav|그녀가 수지일 리가 없어 네가 잘못 본 게 틀림없어
+datasets/moon/audio/4/3_1032.wav|그것 참 독창적인 발상이군요
+datasets/moon/audio/4/4_3651.wav|토요일에 미술관 갈래
+datasets/moon/audio/4/3_2277.wav|저는 동생과 사이가 안 좋아요
+datasets/moon/audio/4/4_4020.wav|이렇게 지하철에서 우연히 만나다니 정말 놀라워
+datasets/moon/audio/4/3_0996.wav|기막혀서 말이 안 나오는구나
+datasets/moon/audio/4/3_1800.wav|왜 갑자기 사람 비행기를 태우는 거야
+datasets/moon/audio/4/4_0131.wav|아쉽지만 이제 가야겠어요
+datasets/moon/audio/4/3_0563.wav|오래 앉았다 일어날 때 현기증이 나요
+datasets/moon/audio/4/4_5130.wav|커튼 좀 다시 쳐 줄래 틈 사이로 햇빛이 들어와
+datasets/moon/audio/4/4_5045.wav|나이는 숫자에 불과한 겁니다
+datasets/moon/audio/4/4_0445.wav|우리 부모님은 보수적이세요
+datasets/moon/audio/4/4_4440.wav|사이다 한 잔 더 갖다 주시겠어요
+datasets/moon/audio/4/4_1777.wav|지금은 긴급 상황입니다
+datasets/moon/audio/4/3_1993.wav|살을 빼고 싶으면 초콜릿을 그만 먹어
+datasets/moon/audio/4/2_0107.wav|어머님이 어쩌면 그렇게 곱게 늙으셨어요
+datasets/moon/audio/4/1_0576.wav|걔는 늘 분위기를 깨
+datasets/moon/audio/4/3_1480.wav|그는 아주 재미있는 사람이어서 좋은 아빠가 될 거야
+datasets/moon/audio/4/2_0613.wav|아내는 저한테 정말 소중한 사람이에요
+datasets/moon/audio/4/3_3163.wav|우리는 모두 법을 지킬 의무가 있다
+datasets/moon/audio/4/2_0690.wav|쓸데없이 남의 일에 참견하지 마
+datasets/moon/audio/4/2_0088.wav|응원해 주셔서 늘 고맙게 생각하고 있습니다
+datasets/moon/audio/4/4_4107.wav|사람을 외모로 판단하지 마세요
+datasets/moon/audio/4/4_2520.wav|저는 보통 누우면 이내 잠이 들어요
+datasets/moon/audio/4/1_0493.wav|그 사람은 집이 없는 사람들에게 먹을 것을 무료로 제공하고 있다
+datasets/moon/audio/4/4_5202.wav|떨지 말고 침착해
+datasets/moon/audio/4/4_0107.wav|무릎이 아파서 걸을 수가 없어요
+datasets/moon/audio/4/4_0520.wav|그의 얼굴은 분노로 빨개졌다
+datasets/moon/audio/4/3_4704.wav|알고 보니 그 문제는 예상한 것보다 더 복잡했다
+datasets/moon/audio/4/4_5026.wav|저는 아내를 처음 본 순간 그녀에게 반했어요
+datasets/moon/audio/4/4_3311.wav|커피숍에 가서 시원한 것 좀 마시자
+datasets/moon/audio/4/2_0490.wav|나는 네가 정말 부러워
+datasets/moon/audio/4/4_4184.wav|구멍을 파
+datasets/moon/audio/4/3_2418.wav|저는 대학교수가 되고 싶어요
+datasets/moon/audio/4/3_3223.wav|아버지는 알코올 중독이셨어요
+datasets/moon/audio/4/3_3594.wav|시청자들에게 새 앨범에 대해 말씀해 주시겠어요
+datasets/moon/audio/4/3_1745.wav|엄마는 저에게 공부하라는 얘기를 귀에 못이 박힐 정도로 하세요
+datasets/moon/audio/4/1_0826.wav|요즘 매일 머리가 한 움큼씩 빠져
+datasets/moon/audio/4/1_0627.wav|머리 좀 그만 만져
+datasets/moon/audio/4/3_3797.wav|시청으로 가려면 어디에서 지하철을 갈아타야 합니까
+datasets/moon/audio/4/4_2926.wav|내년에도 취업 전망이 어두워요
+datasets/moon/audio/4/2_1049.wav|이번 주말에 특별한 계획 있어요
+datasets/moon/audio/4/4_5076.wav|지갑을 택시에 두고 내렸어
+datasets/moon/audio/4/4_4995.wav|오늘은 수업이 없어요
+datasets/moon/audio/4/2_0825.wav|모두가 그녀의 우아한 자태에 매료되었다
+datasets/moon/audio/4/3_1186.wav|그 선수는 승리에 크게 기여했다
+datasets/moon/audio/4/1_0828.wav|내 아들 녀석은 학교를 자주 빠져요
+datasets/moon/audio/4/4_4475.wav|삼월에는 아직 추워요
+datasets/moon/audio/4/2_0447.wav|어제 많은 사람들 앞에서 민망하게 넘어졌다
+datasets/moon/audio/4/4_5394.wav|남의 약점을 이용하지 마라
+datasets/moon/audio/4/2_0366.wav|양파 때문에 눈이 매워서 눈물이 났어요
+datasets/moon/audio/4/4_0654.wav|체중 관리를 하셔야겠어요
+datasets/moon/audio/4/4_0859.wav|대입 시험
+datasets/moon/audio/4/4_4138.wav|한국 야구 팀은 이천팔년 베이징 올림픽에서 우승했다
+datasets/moon/audio/4/3_3493.wav|은행 문을 몇 시에 닫나요
+datasets/moon/audio/4/4_3870.wav|내용도 중요하지만 형식도 중요하다
+datasets/moon/audio/4/3_4498.wav|병원에는 각종 질병으로 고통받는 많은 사람들이 있다
+datasets/moon/audio/4/2_0520.wav|내일 발표가 있어 초조하고 불안해요
+datasets/moon/audio/4/3_2967.wav|우리는 소수의 의견을 존중해야 합니다
+datasets/moon/audio/4/2_0233.wav|남편은 발이 넓어요
+datasets/moon/audio/4/3_1929.wav|사용한 후에 내 물건들을 돌려줘
+datasets/moon/audio/4/2_0086.wav|땅이 고르지 않으니 주의하세요
+datasets/moon/audio/4/3_1755.wav|괜한 트집 좀 잡지 마라
+datasets/moon/audio/4/4_3969.wav|너는 사람을 너무 잘 믿어
+datasets/moon/audio/4/4_1501.wav|기계가 갑자기 멈췄어요
+datasets/moon/audio/4/4_0470.wav|여동생은 부잣집으로 시집갔어요
+datasets/moon/audio/4/4_4721.wav|저는 얼마 전에 조그만 식당을 시작했어요
+datasets/moon/audio/4/2_0496.wav|아들 녀석이 몸이 부실해서 걱정이야
+datasets/moon/audio/4/2_0905.wav|어제 우리는 모두 수영장에서 정말 재미있게 놀았다
+datasets/moon/audio/4/3_3331.wav|예전에 이 지역은 논이었다
+datasets/moon/audio/4/3_0290.wav|어젯밤 일찍 잠자리에 들었다
+datasets/moon/audio/4/4_1962.wav|구석구석 다 찾아봤어요
+datasets/moon/audio/4/4_1815.wav|아들이 동물원에 가자고 졸랐다
+datasets/moon/audio/4/3_4383.wav|이 가게는 넓이가 얼마나 됩니까
+datasets/moon/audio/4/2_0256.wav|그 사람들은 나를 다정하게 대해 주었다
+datasets/moon/audio/4/4_5262.wav|물 튀기지 않게 조심하세요
+datasets/moon/audio/4/3_1079.wav|그 사건에 대해 뭔가 알아낸 게 있나요
+datasets/moon/audio/4/3_0495.wav|용기에 덮개를 씌워 놓으세요
+datasets/moon/audio/4/4_0165.wav|저는 길에서 침 뱉는 사람들을 이해할 수가 없어요
+datasets/moon/audio/4/3_4996.wav|시작되다
+datasets/moon/audio/4/4_1351.wav|좀 적게 먹으려고 노력 중이야
+datasets/moon/audio/4/2_1074.wav|모든 사람이 법 앞에서 평등하다
+datasets/moon/audio/4/2_0473.wav|번거로움을 끼쳐서 죄송합니다
+datasets/moon/audio/4/2_0442.wav|요전에는 미안하게 됐어
+datasets/moon/audio/4/2_0231.wav|호남평야는 한국에서 가장 넓은 평야입니다
+datasets/moon/audio/4/4_2587.wav|오늘 날씨가 왜 이렇죠
+datasets/moon/audio/4/3_4514.wav|시간이 모든 것을 해결해 줄 거야
+datasets/moon/audio/4/3_2563.wav|당신의 주장은 상식에 어긋납니다
+datasets/moon/audio/4/3_4335.wav|왜 모자를 비뚤게 쓰니
+datasets/moon/audio/4/3_1182.wav|도와줘서 고마워
+datasets/moon/audio/4/4_3586.wav|그는 맞아 죽었다
+datasets/moon/audio/4/2_0997.wav|저는 성격이 차분한 편이에요
+datasets/moon/audio/4/4_1515.wav|종이를 가로로 접으세요
+datasets/moon/audio/4/3_0511.wav|차 미는 거 도와 드릴까요
+datasets/moon/audio/4/3_4518.wav|그 영화에서 가장 좋은 부분이 뭐였어
+datasets/moon/audio/4/4_0343.wav|눈 비비지 마라
+datasets/moon/audio/4/4_3640.wav|여기 오는 내내 차가 밀렸어요
+datasets/moon/audio/4/4_3641.wav|18세 미만 출입 금지
+datasets/moon/audio/4/3_1522.wav|저희 선생님은 아주 엄한 분이세요
+datasets/moon/audio/4/4_1928.wav|제품 구입에 관한 질문은 어디로 해야 하죠
+datasets/moon/audio/4/4_0625.wav|시청자 여러분의 많은 참여 부탁합니다
+datasets/moon/audio/4/1_0986.wav|그 사람을 볼 때마다 내 예전 남자 친구를 떠올리게 돼
+datasets/moon/audio/4/4_0300.wav|제가 돈을 벌고 남편은 아이를 보고 있어요
+datasets/moon/audio/4/4_0807.wav|사진 촬영 금지
+datasets/moon/audio/4/3_3120.wav|한국에는 군인이 몇 명이나 있습니까
+datasets/moon/audio/4/4_4606.wav|이 광고에는 성적 메시지가 숨겨져 있다
+datasets/moon/audio/4/4_1638.wav|근래 읽은 책 중에서 가장 인상적이었던 것을 말해 보세요
+datasets/moon/audio/4/3_4729.wav|어떤 기생충은 인간에게 이로울 수 있다
+datasets/moon/audio/4/3_3033.wav|그녀는 사기를 당해 집을 날렸다
+datasets/moon/audio/4/4_1535.wav|행복하게 살아라
+datasets/moon/audio/4/3_3408.wav|벽에 구멍을 뚫어야 하니 드릴을 가져올게요
+datasets/moon/audio/4/4_2194.wav|인천은 항구 도시예요
+datasets/moon/audio/4/3_4754.wav|그것은 색다른 경험이었어요
+datasets/moon/audio/4/1_0362.wav|제일 좋은 걸 고르셨어요
+datasets/moon/audio/4/4_5545.wav|이틀 연속 밤새웠더니 피곤해 죽겠어
+datasets/moon/audio/4/4_1754.wav|발음 기호 읽을 줄 알아
+datasets/moon/audio/4/4_2242.wav|왜 남의 물건을 허락도 없이 쓰는 거예요
+datasets/moon/audio/4/4_0687.wav|한국에서는 여자가 결혼해도 처녀 때의 성을 그대로 씁니다
+datasets/moon/audio/4/4_0024.wav|태어났을 때 아기 몸무게가 얼마였어요
+datasets/moon/audio/4/4_2504.wav|일단 이걸로 끝내자
+datasets/moon/audio/4/3_1505.wav|지갑이 없어진 줄 알고 간이 콩알만 해졌어요
+datasets/moon/audio/4/3_4000.wav|언제 왔어
+datasets/moon/audio/4/4_2195.wav|어제 하루 종일 고객들한테서 항의가 엄청나게 들어왔어
+datasets/moon/audio/4/4_2348.wav|소문의 확산을 막기 위해 대책을 마련해야 해요
+datasets/moon/audio/4/3_1608.wav|고백할 게 있는데요, 사랑합니다
+datasets/moon/audio/4/4_2651.wav|재활용품은 따로 내놓으셔야 해요
+datasets/moon/audio/4/3_3314.wav|우리 주 예수 그리스도의 이름으로 기도 드립니다 아멘
+datasets/moon/audio/4/3_1487.wav|이순신 장군은 우리나라의 국가적 영웅이다
+datasets/moon/audio/4/4_4121.wav|오이는 다이어트에 좋아요
+datasets/moon/audio/4/3_2780.wav|챔피언이 도전자를 근소한 차이로 이겼다
+datasets/moon/audio/4/3_4490.wav|남기지 말고 다 먹어
+datasets/moon/audio/4/4_3176.wav|우리는 의견 차를 좁히는 데 실패했다
+datasets/moon/audio/4/4_3326.wav|겨울에는 건조해지기 쉬우니까 손에 크림을 꼭 발라
+datasets/moon/audio/4/3_2183.wav|문 닫고 들어오세요
+datasets/moon/audio/4/3_4236.wav|졸업한 지 삼년이 지났어요
+datasets/moon/audio/4/3_0777.wav|어쩌다 멍이 들었어요
+datasets/moon/audio/4/1_0500.wav|방을 정리하는 데 여러 시간이 걸렸습니다
+datasets/moon/audio/4/1_0410.wav|아내는 나를 보고 기쁨의 눈물을 흘렸다
+datasets/moon/audio/4/4_3893.wav|한국이 남북으로 나뉜 지 50년이 넘었어요
+datasets/moon/audio/4/1_0242.wav|나는 음악을 듣다 잠이 들었다
+datasets/moon/audio/4/3_2627.wav|이것 좀 복사해 주시겠어요
+datasets/moon/audio/4/4_3102.wav|그 여성 작가는 여성의 사회적 지위를 높이는 데 크게 기여해 왔다
+datasets/moon/audio/4/4_5080.wav|허락 없이 쓰레기를 태우면 안 됩니다
+datasets/moon/audio/4/3_1354.wav|나 몸무게가 좀 늘었어
+datasets/moon/audio/4/4_5320.wav|내가 그렇게 우스워 보여
+datasets/moon/audio/4/2_1051.wav|이번은 매우 특수한 경우입니다
+datasets/moon/audio/4/4_1033.wav|올해 들어 등록금이 많이 올랐어요
+datasets/moon/audio/4/3_1349.wav|남편은 상당히 마른 편이에요
+datasets/moon/audio/4/4_3938.wav|어제보다는 훨씬 낫지만 아직도 아파요
+datasets/moon/audio/4/3_1578.wav|반말하지 마세요
+datasets/moon/audio/4/2_0887.wav|자유롭게 질문하시면 됩니다
+datasets/moon/audio/4/1_0951.wav|뭔가 타고 있는 것 같아요
+datasets/moon/audio/4/4_0269.wav|정면을 바라보고 움직이지 마세요
+datasets/moon/audio/4/3_2822.wav|저 팀은 공격보다 수비가 강하다
+datasets/moon/audio/4/4_5574.wav|오늘 밤에는 소나기가 예상됩니다
+datasets/moon/audio/4/3_4676.wav|미안 잠시 딴 생각을 하고 있었어
+datasets/moon/audio/4/1_0974.wav|저를 따라오십시오
+datasets/moon/audio/4/4_0905.wav|셔츠에 단추를 다는 중이에요
+datasets/moon/audio/4/4_1604.wav|이 차는 겉으로는 괜찮아 보여도 사실 엔진에 문제가 있습니다
+datasets/moon/audio/4/3_1489.wav|그는 탁월한 지도자예요
+datasets/moon/audio/4/2_0661.wav|대답하기 전에 신중하게 생각하세요
+datasets/moon/audio/4/4_1135.wav|새 동료들하고는 잘 지내
+datasets/moon/audio/4/3_3765.wav|타이어 갈 줄 알아
+datasets/moon/audio/4/3_0800.wav|십대들은 사춘기에 감수성이 예민하다
+datasets/moon/audio/4/1_0112.wav|전혀 안 변하셨네요
+datasets/moon/audio/4/3_4333.wav|할머니는 나이 때문에 허리가 굽으셨다
+datasets/moon/audio/4/4_1496.wav|이 노트북은 들고 다니기가 간편해요
+datasets/moon/audio/4/4_0273.wav|늦게 일어나는 바람에 늦었어요
+datasets/moon/audio/4/1_0968.wav|엄마는 포도를 따고 계세요
+datasets/moon/audio/4/4_4495.wav|나이가 무슨 상관이에요
+datasets/moon/audio/4/3_2220.wav|선풍기 앞에서 머리를 말려라
+datasets/moon/audio/4/4_0272.wav|아내의 가장 큰 바람은 아기를 갖는 거예요
+datasets/moon/audio/4/4_4340.wav|교통이 편한 곳에 살고 싶어요
+datasets/moon/audio/4/3_0312.wav|푹 쉬면 괜찮을 거야
+datasets/moon/audio/4/1_0953.wav|한국에서는 태어나면 곧바로 한 살이에요
+datasets/moon/audio/4/4_1420.wav|차를 입구 쪽으로 더 가까이 대 주시겠어요
+datasets/moon/audio/4/4_0963.wav|이 답 맞나요
+datasets/moon/audio/4/4_0904.wav|찌개가 너무 달아요
+datasets/moon/audio/4/1_0720.wav|누구나 하늘을 날고 싶은 소망이 있지요
+datasets/moon/audio/4/2_0349.wav|내가 그렇게 만만해 보여
+datasets/moon/audio/4/4_2254.wav|열쇠를 어디에 흘렸나 봐
+datasets/moon/audio/4/3_1422.wav|터놓고 말할게요
+datasets/moon/audio/4/3_3306.wav|저는 작년에 기독교로 개종했어요
+datasets/moon/audio/4/3_0260.wav|빵이 말라서 딱딱해졌다
+datasets/moon/audio/4/4_2891.wav|전기 요금 내는 걸 깜빡했어
+datasets/moon/audio/4/4_5250.wav|사람들은 땅이 흔들리는 것을 느끼고 건물 밖으로 뛰어나왔다
+datasets/moon/audio/4/3_3389.wav|공사로 인해 불편을 드려 대단히 죄송합니다
+datasets/moon/audio/4/3_0430.wav|포수가 공을 놓쳤다
+datasets/moon/audio/4/3_2685.wav|카메라 렌즈 초점을 맞춰 봐
+datasets/moon/audio/4/4_4375.wav|그 사람은 결혼 상대로 최고예요
+datasets/moon/audio/4/3_3744.wav|이 도로에서 제한 속도는 시속 팔십킬로미터입니다
+datasets/moon/audio/4/3_0668.wav|저는 아주 건강해요
+datasets/moon/audio/4/4_1863.wav|누구 내 공책 본 사람 없어요
+datasets/moon/audio/4/4_2536.wav|그 사람은 인격에 문제가 있어
+datasets/moon/audio/4/1_0255.wav|그는 자기 아내를 죽이고 해외로 도망갔다
+datasets/moon/audio/4/3_0120.wav|입술이 계속 트고 갈라져요
+datasets/moon/audio/4/4_1710.wav|어떻게 그리 잘 알아요
+datasets/moon/audio/4/1_0387.wav|아무 것도 결정된 건 없어요
+datasets/moon/audio/4/3_1295.wav|이번 주 내내 바빴어요
+datasets/moon/audio/4/4_5582.wav|그 노래를 들으면 옛 추억이 떠오른다
+datasets/moon/audio/4/4_5042.wav|이 책상은 무게가 수십 킬로나 돼요
+datasets/moon/audio/4/4_2087.wav|교과서 좀 잠깐 빌릴 수 있을까
+datasets/moon/audio/4/3_1010.wav|논리적 사고는 문제를 해결하고 합리적 결정을 내리게 한다
+datasets/moon/audio/4/4_2308.wav|저희 회사 홈페이지 방문을 환영합니다
+datasets/moon/audio/4/3_3229.wav|두 나라 간의 무역 마찰이 최고점에 다다랐다
+datasets/moon/audio/4/3_3937.wav|나비가 꽃에 앉아 있다
+datasets/moon/audio/4/4_4005.wav|농촌의 노동 인구가 점점 줄고 있어요
+datasets/moon/audio/4/1_0761.wav|아내의 요리 솜씨가 점점 늘고 있어요
+datasets/moon/audio/4/4_0355.wav|모두 안심하시고 비행을 즐기십시오
+datasets/moon/audio/4/3_4932.wav|나가서 뭐 좀 먹자
+datasets/moon/audio/4/4_0021.wav|새 앨범은 언제 나오나요
+datasets/moon/audio/4/4_1399.wav|어느 동아리에 가입하고 싶어
+datasets/moon/audio/4/4_4118.wav|정말이야 이건 다 오해야
+datasets/moon/audio/4/4_0658.wav|여기는 처음 오신 건가요
+datasets/moon/audio/4/4_1075.wav|시간은 되돌릴 수 없다
+datasets/moon/audio/4/1_1007.wav|여름철에는 매미가 우는 걸 쉽게 볼 수 있어요
+datasets/moon/audio/4/3_3836.wav|오늘 아침은 안개가 자욱하다
+datasets/moon/audio/4/2_0327.wav|제 동생이 저보다 훨씬 똑똑해요
+datasets/moon/audio/4/3_2027.wav|과식은 몸에 해로워요
+datasets/moon/audio/4/4_1872.wav|최고의 방어는 공격이다
+datasets/moon/audio/4/4_0813.wav|나 드디어 취직했어
+datasets/moon/audio/4/3_0201.wav|그는 멍하니 허공을 응시하고 있었다
+datasets/moon/audio/4/4_1249.wav|소영 씨는 업무 때문에 외출 중입니다
+datasets/moon/audio/4/3_2404.wav|우리 반은 남학생보다 여학생이 많아
+datasets/moon/audio/4/4_1634.wav|신체적 장애를 극복하다
+datasets/moon/audio/4/4_4716.wav|우리 달리기 시합할까
+datasets/moon/audio/4/3_3956.wav|어젯밤에 우리 집 고양이가 새끼를 낳았어요
+datasets/moon/audio/4/4_1487.wav|버스는 몇 분 간격으로 출발해요
+datasets/moon/audio/4/4_5070.wav|커피 타 줄까
+datasets/moon/audio/4/4_5255.wav|물이 어찌나 투명한지 바닥이 다 보여요
+datasets/moon/audio/4/4_5054.wav|저는 오늘 쉬는 날이에요
+datasets/moon/audio/4/4_0418.wav|지난 시간 배운 거 복습합시다
+datasets/moon/audio/4/1_0838.wav|십쪽을 펴세요
+datasets/moon/audio/4/4_4002.wav|밖이 추우니까 옷을 따뜻하게 입어라
+datasets/moon/audio/4/3_4055.wav|오늘 아침은 꽤 쌀쌀하네
+datasets/moon/audio/4/4_1056.wav|비타민이 풍부한 음식을 드세요
+datasets/moon/audio/4/3_3874.wav|높은 산에서는 대기가 맑고 깨끗하다
+datasets/moon/audio/4/4_2097.wav|최근에 남북 간의 교류가 활발해지고 있어요
+datasets/moon/audio/4/4_0022.wav|나 지금 화를 안 내려고 애쓰고 있어요
+datasets/moon/audio/4/4_2580.wav|도대체 왜 이러는 거야
+datasets/moon/audio/4/3_0644.wav|그는 뒷문으로 살짝 빠져나갔다
+datasets/moon/audio/4/4_4405.wav|문제가 생기면 알려 주세요
+datasets/moon/audio/4/2_0408.wav|어젯밤에는 무더운 날씨 때문에 잠을 못 잤어요
+datasets/moon/audio/4/3_4574.wav|그는 경기 시작 세 시간 만에 간신히 시합에서 승리했다
+datasets/moon/audio/4/3_1388.wav|이 일은 제 적성에 잘 맞아요
+datasets/moon/audio/4/4_4811.wav|이 이야기는 그리스 신화에 바탕을 두고 있다
+datasets/moon/audio/4/4_5127.wav|이런 가사가 틀렸어요
+datasets/moon/audio/4/4_0215.wav|밤중에 어딜 가려고 그래
+datasets/moon/audio/4/4_4684.wav|이분이 우리 담임 선생님이세요
+datasets/moon/audio/4/3_4210.wav|오래 기다리시게 해서 죄송합니다
+datasets/moon/audio/4/4_1067.wav|도대체 뭐 때문에 싸운 거야
+datasets/moon/audio/4/2_0592.wav|이것은 예민한 사안이니 섬세하게 다루어야 한다
+datasets/moon/audio/4/3_4613.wav|거기 가느니 차라니 집에서 잠이나 자겠다
+datasets/moon/audio/4/3_1056.wav|아차 깜빡 잊어버렸어
+datasets/moon/audio/4/3_2894.wav|매력적인 인물들과 정교한 구성이 이 책을 흥미롭게 하는 요소이다
+datasets/moon/audio/4/3_2058.wav|술을 마신 후에 운전을 하면 절대로 안 됩니다
+datasets/moon/audio/4/4_0122.wav|아래 그림을 참고하세요
+datasets/moon/audio/4/4_2534.wav|한국에는 인종에 대한 편견이 존재합니다
+datasets/moon/audio/4/3_4053.wav|내일 출발 비행기 티켓을 모레로 바꾸고 싶은데요
+datasets/moon/audio/4/4_4010.wav|수화기가 제대로 놓여 있는지 확인해 봐
+datasets/moon/audio/4/4_1556.wav|그 사람이 한 말은 모두 거짓으로 드러났어요
+datasets/moon/audio/4/4_4210.wav|이 책은 오백페이지가 넘어요
+datasets/moon/audio/4/3_4331.wav|몸을 살짝 앞으로 기울여 보세요
+datasets/moon/audio/4/4_0404.wav|특별히 보고할 것이 없습니다
+datasets/moon/audio/4/4_3583.wav|도망만 다니지 말고 문제에 정면으로 맞서라
+datasets/moon/audio/4/4_2609.wav|심장에는 아무 이상이 없는데요
+datasets/moon/audio/4/4_1078.wav|되게 피곤해 보이네
+datasets/moon/audio/4/2_0242.wav|한국은 지난 몇십 년간 눈부시게 발전했다
+datasets/moon/audio/4/4_0009.wav|아침은 여덟시와 아홉시 사이에 제공됩니다
+datasets/moon/audio/4/4_0406.wav|케이크는 차가운 곳에 보관하세요
+datasets/moon/audio/4/2_0519.wav|범죄율의 증가는 불안정한 사회를 반영합니다
+datasets/moon/audio/4/3_4604.wav|십팔세 미만 출입 금지
+datasets/moon/audio/4/2_0741.wav|그는 얕은 잠이 들었다
+datasets/moon/audio/4/4_2411.wav|될 수 있으면 자주 휴지통을 비워라
+datasets/moon/audio/4/2_1130.wav|황당해서 말이 안 나왔다
+datasets/moon/audio/4/4_4899.wav|손가락 끝에 감각이 없어요
+datasets/moon/audio/4/3_1024.wav|그 계획은 사람들의 지지를 얻지 못했다
+datasets/moon/audio/4/3_1212.wav|여기 있는 물건들은 사용하시면 안 됩니다
+datasets/moon/audio/4/4_3101.wav|지우개 좀 잠시 써도 돼
+datasets/moon/audio/4/4_2665.wav|이번 주는 일주일 내내 재수가 없어요
+datasets/moon/audio/4/2_0324.wav|중요한 것은 똑같은 실수를 반복하지 않는 거야
+datasets/moon/audio/4/4_3218.wav|웃겨서 죽을 뻔했어
+datasets/moon/audio/4/3_2826.wav|박물관에서 일부 예술가들의 조각도 볼 수 있어요
+datasets/moon/audio/4/3_4390.wav|범위를 좀 좁혀 봅시다
+datasets/moon/audio/4/3_4276.wav|왜 너는 늘 구석에 앉니
+datasets/moon/audio/4/1_0704.wav|그녀가 손을 내밀어 악수를 청했다
+datasets/moon/audio/4/4_0657.wav|처음에는 일이 힘들었지만 지금은 괜찮아요
+datasets/moon/audio/4/3_0839.wav|너 그 사람한테 마음이 있어
+datasets/moon/audio/4/4_2036.wav|결과적으로는 오히려 잘됐어
+datasets/moon/audio/4/4_3705.wav|어떻게 해야 할지 모르겠어
+datasets/moon/audio/4/2_0801.wav|우리가 올바른 결정을 내렸는지 의심스러워요
+datasets/moon/audio/4/4_2413.wav|십분간 휴식 시간을 가질게요
+datasets/moon/audio/4/4_0587.wav|이번 일은 우리 모두 책임이 있어
+datasets/moon/audio/4/3_4929.wav|필요한 게 있으면 말해라
+datasets/moon/audio/4/3_2573.wav|많은 구직자들이 구직 활동을 포기하고 있다
+datasets/moon/audio/4/3_4849.wav|아무도 오지 않았다
+datasets/moon/audio/4/3_3999.wav|결혼 날짜를 아직 결정하지 못했어요
+datasets/moon/audio/4/4_0349.wav|이 비디오에서 소리가 안 나요
+datasets/moon/audio/4/3_3612.wav|청취해 주셔서 감사 드립니다
+datasets/moon/audio/4/1_0264.wav|제 숙제 좀 도와주세요
+datasets/moon/audio/4/4_2601.wav|선은 점들의 연속으로 이루어져 있다
+datasets/moon/audio/4/3_1828.wav|괜히 말했나 봐
+datasets/moon/audio/4/4_5215.wav|눈을 떠
+datasets/moon/audio/4/4_1833.wav|이 고개를 넘으면 우리 집이 있어요
+datasets/moon/audio/4/4_1049.wav|가방 들어 드릴까요
+datasets/moon/audio/4/4_3221.wav|마지막 줄을 잘 읽어 봐
+datasets/moon/audio/4/4_5539.wav|연말에는 술자리가 많아요
+datasets/moon/audio/4/4_0126.wav|어떤 아르바이트를 해 봤나요
+datasets/moon/audio/4/4_5226.wav|커피 가격이 또 올랐어요
+datasets/moon/audio/4/1_0892.wav|오늘 조카들한테 시달려서 몹시 피곤해
+datasets/moon/audio/4/4_1505.wav|나머지는 다음에 갚을게요
+datasets/moon/audio/4/3_3825.wav|구름 사이로 해가 솟았다
+datasets/moon/audio/4/4_3420.wav|기분 나쁜 꿈을 꾸었어요
+datasets/moon/audio/4/3_2831.wav|그는 이십대 초반에 소설 창작에 전념하기로 작정했다
+datasets/moon/audio/4/1_0740.wav|고양이는 언제나 밥 시간에 딱 맞춰서 나타난다
+datasets/moon/audio/4/1_0271.wav|이 문제를 둘러싸고 많은 논의가 있었다
+datasets/moon/audio/4/3_3081.wav|그들은 그녀를 사기죄로 고발했다
+datasets/moon/audio/4/4_3923.wav|꽉 막힌 차들 위로 날아갔으면 좋겠어요
+datasets/moon/audio/4/3_0708.wav|여기 내과 진료실이 어디예요
+datasets/moon/audio/4/2_0204.wav|지나친 음주는 건강에 나쁩니다
+datasets/moon/audio/4/3_1205.wav|그들은 같은 실수를 반복하지 않기 위해 매우 신중했다
+datasets/moon/audio/4/4_1246.wav|우리 담임 선생님은 굉장히 엄한 분이세요
+datasets/moon/audio/4/1_0754.wav|이 옷은 세탁기에 넣지 마세요
+datasets/moon/audio/4/4_3675.wav|모여서 시험 공부 같이 할래
+datasets/moon/audio/4/2_0096.wav|모든 도시는 고유한 특성을 지니고 있다
+datasets/moon/audio/4/2_0934.wav|그 사고의 정확한 원인이 무엇입니까
+datasets/moon/audio/4/3_2755.wav|너는 운동을 좀 해야 해
+datasets/moon/audio/4/3_2348.wav|싸움을 말리다 맞았어요
+datasets/moon/audio/4/2_0950.wav|저는 그 사람이 좋아요
+datasets/moon/audio/4/3_1633.wav|왜 나한테 고함치고 그래
+datasets/moon/audio/4/4_0400.wav|서울에는 비가 오나 봐
+datasets/moon/audio/4/4_2460.wav|돼지고기 다 익은 거 맞아
+datasets/moon/audio/4/1_0606.wav|너무 더워서 에어컨을 켰어
+datasets/moon/audio/4/3_1960.wav|죄송하지만 저희는 수표를 받지 않는데요
+datasets/moon/audio/4/4_2263.wav|그건 초보자들이 흔히들 하는 실수야
+datasets/moon/audio/4/1_0864.wav|그녀가 다른 남자와 같이 있는 걸 상상할 수가 없어요
+datasets/moon/audio/4/4_0127.wav|제주도는 경치가 아름답기로 유명해요
+datasets/moon/audio/4/3_5005.wav|보이다
+datasets/moon/audio/4/3_1624.wav|소설 좀 그만 써
+datasets/moon/audio/4/3_2597.wav|일주일에 적어도 이틀은 야근을 합니다
+datasets/moon/audio/4/4_2251.wav|땀이 계속 흘러내려서 눈을 뜰 수가 없어요
+datasets/moon/audio/4/4_3593.wav|제가 이 반 담임을 맡고 있습니다
+datasets/moon/audio/4/2_0743.wav|왜 그렇게 표정이 어둡니
+datasets/moon/audio/4/4_1069.wav|우리는 마침내 결론에 도달했다
+datasets/moon/audio/4/3_1931.wav|얼핏 봐도 그건 진짜가 아니야
+datasets/moon/audio/4/3_4115.wav|영화 중간에 잠이 들었어요
+datasets/moon/audio/4/3_0349.wav|옷을 빨아 봤지만 얼룩이 지워지지 않았다
+datasets/moon/audio/4/4_0928.wav|속담에는 깊은 뜻이 담겨 있다
+datasets/moon/audio/4/4_1296.wav|하지만 나중에 마음이 변하면 어떡해요
+datasets/moon/audio/4/4_4658.wav|자식이 죽은 후 아버지는 깊은 슬픔에 빠져 있었다
+datasets/moon/audio/4/3_0714.wav|주말에 다른 사람들과 함께 병원으로 박 대리 병문안을 갈 생각입니다
+datasets/moon/audio/4/3_0385.wav|쓰레기 양을 줄이려고 노력해야 한다
+datasets/moon/audio/4/2_0938.wav|이 상자는 깨지기 쉬운 물건을 담고 있어서 조심스럽게 다뤄야 합니다
+datasets/moon/audio/4/4_5275.wav|힘들 때 의지할 사람이 없어서 외로워요
+datasets/moon/audio/4/4_3752.wav|물론이지
+datasets/moon/audio/4/4_2430.wav|이 도로는 항구까지 이어져 있어요
+datasets/moon/audio/4/4_3835.wav|날 좀 혼자 내버려 둬
+datasets/moon/audio/4/4_2202.wav|그만해 참는 것도 한계가 있어
+datasets/moon/audio/4/3_4375.wav|충격으로 벽에 금이 생겼어요
+datasets/moon/audio/4/3_3546.wav|영어로 의사를 전달하지 못해 답답했어요
+datasets/moon/audio/4/4_0626.wav|제 방에는 창이 없어서 햇볕이 안 들어와요
+datasets/moon/audio/4/3_1346.wav|그 남자는 체격이 건장했다
+datasets/moon/audio/4/1_0533.wav|교회를 어디에 지을지는 아직 결정되지 않았습니다
+datasets/moon/audio/4/3_1516.wav|예진이에게 도와 달라고 했는데 냉정하게 거절하더라
+datasets/moon/audio/4/4_5200.wav|떡국은 설날에 먹는 전통 음식이에요
+datasets/moon/audio/4/4_0545.wav|다친 발목이 심하게 부었어요
+datasets/moon/audio/4/3_1679.wav|왜 그렇게 생각해
+datasets/moon/audio/4/3_2036.wav|하루 종일 굶었어요
+datasets/moon/audio/4/3_3471.wav|잔돈 없으세요
+datasets/moon/audio/4/4_1092.wav|집에 오는 도중에 어디 들른 거야
+datasets/moon/audio/4/4_3368.wav|아버님께 안부 전해 주세요
+datasets/moon/audio/4/3_0707.wav|어머니는 수술 후 병실로 옮겨졌어요
+datasets/moon/audio/4/3_1821.wav|네가 화낼 이유가 없는 것 같은데
+datasets/moon/audio/4/3_4309.wav|상자는 별다른 특징이 없었다
+datasets/moon/audio/4/4_5431.wav|예정보다 약간 늦어지고 있습니다
+datasets/moon/audio/4/4_1106.wav|채널 좀 그만 돌려
+datasets/moon/audio/4/3_3263.wav|정치가 기업의 발목을 잡아서는 안 됩니다
+datasets/moon/audio/4/4_0416.wav|이것 복사 좀 해 주시겠어요
+datasets/moon/audio/4/4_4661.wav|저는 스무 살이에요
+datasets/moon/audio/4/2_0998.wav|그녀의 목소리는 의외로 차분했다
+datasets/moon/audio/4/3_4099.wav|부모님은 저의 장래에 큰 기대를 걸고 계세요
+datasets/moon/audio/4/2_0925.wav|이 기계는 정말로 정교해
+datasets/moon/audio/4/3_3726.wav|길을 잃어서 몇 시간을 헤맸어요
+datasets/moon/audio/4/1_0526.wav|이 버스가 종로를 지나갑니까
+datasets/moon/audio/4/3_0848.wav|그녀의 부정적인 대답이 내 모든 희망을 날려 버렸다
+datasets/moon/audio/4/4_4852.wav|이 망치는 쇠로 되어 있다
+datasets/moon/audio/4/1_0459.wav|필기시험에 이어 면접이 있겠습니다
+datasets/moon/audio/4/3_3415.wav|토요일은 오후 다섯 시까지 영업합니다
+datasets/moon/audio/4/4_0263.wav|밥 좀 더 주세요
+datasets/moon/audio/4/3_4893.wav|요즘 티비에는 광고가 너무 많다
+datasets/moon/audio/4/4_0590.wav|채점이 끝나는 대로 알려 드리겠습니다
+datasets/moon/audio/4/2_0551.wav|왜 눈이 빨개
+datasets/moon/audio/4/3_4958.wav|누구 만나러 오셨어요
+datasets/moon/audio/4/4_3244.wav|잠시 하던 일 중단하고 이쪽으로 와 보세요
+datasets/moon/audio/4/4_3750.wav|그녀는 이번 일에 책임을 지고 자리에서 물러났다
+datasets/moon/audio/4/4_2128.wav|이 캠페인의 핵심 주제가 뭐죠
+datasets/moon/audio/4/4_4171.wav|오른쪽에 스위치가 있어요
+datasets/moon/audio/4/4_2746.wav|가방을 보관할 만한 장소가 있을까요
+datasets/moon/audio/4/3_2169.wav|집주인하고 얘기하고 싶어요
+datasets/moon/audio/4/4_0531.wav|사람들은 자기에게 없는 것을 가진 사람을 부러워합니다
+datasets/moon/audio/4/2_0125.wav|치과에 가는 건 누구에게나 괴로운 일이다
+datasets/moon/audio/4/1_0743.wav|맥주가 넘쳐요
+datasets/moon/audio/4/1_0156.wav|내가 한 말 취소하겠어요
+datasets/moon/audio/4/4_0358.wav|내 생각엔 빗줄기가 더 굵어질 것 같아
+datasets/moon/audio/4/4_2762.wav|더 이상 자리가 없어요
+datasets/moon/audio/4/2_0596.wav|성급한 일반화란 불충분하거나 편향된 예에서 비롯된 오류를 말한다
+datasets/moon/audio/4/3_1206.wav|또 먹어
+datasets/moon/audio/4/4_2933.wav|현재는 전쟁 사진들이 전시 중입니다
+datasets/moon/audio/4/4_0361.wav|행운을 빌어요
+datasets/moon/audio/4/4_2472.wav|이 반에 일본인 학생이 있나요
+datasets/moon/audio/4/3_2885.wav|윤동주는 가장 위대한 시인 중 한 명이다
+datasets/moon/audio/4/3_4145.wav|그건 미처 생각하지 못했어요
+datasets/moon/audio/4/2_1087.wav|상식이 풍부하시군요
+datasets/moon/audio/4/3_2582.wav|귀하가 우리가 원하는 요건을 갖추고 있다고 생각되시면 서둘러 인턴직에 지원하십시오
+datasets/moon/audio/4/4_4258.wav|요즘은 티비에 폭력 장면이 너무 많이 나오는 거 같아요
+datasets/moon/audio/4/3_1242.wav|이 호텔은 방마다 에어컨을 갖추고 있다
+datasets/moon/audio/4/2_0317.wav|딱딱한 의자는 불편하지만 건강에는 좋다
+datasets/moon/audio/4/4_0180.wav|건강은 돈과 바꿀 수 없어요
+datasets/moon/audio/4/4_1767.wav|길거리에 사람이 너무 많아요
+datasets/moon/audio/4/3_0818.wav|오늘 밤은 신나게 놀자
+datasets/moon/audio/4/3_4583.wav|도저히 못 참겠어
+datasets/moon/audio/4/4_1186.wav|뒤늦었지만 감사의 말씀 드립니다
+datasets/moon/audio/4/3_4489.wav|시험까지 일주일 남았다
+datasets/moon/audio/4/3_0561.wav|여기에 한 줄로 서 주세요
+datasets/moon/audio/4/3_0104.wav|머리를 부딪힌 후로 머리가 빠져요
+datasets/moon/audio/4/4_4173.wav|오리도 날 수 있나요
+datasets/moon/audio/4/3_2431.wav|종이 두 장
+datasets/moon/audio/4/4_3857.wav|옛날에 이 자리에 냇물이 있었어요
+datasets/moon/audio/4/4_4367.wav|여기는 내가 제일 좋아하는 레스토랑이야
+datasets/moon/audio/4/4_1261.wav|예약은 언제 하셨죠
+datasets/moon/audio/4/3_3202.wav|공공 기관들은 경제 성장에서 중요한 역할을 해 왔다
+datasets/moon/audio/4/3_1027.wav|그 사람 말이 사실인지 의심스러워
+datasets/moon/audio/4/3_1190.wav|숙제는 스스로 해라
+datasets/moon/audio/4/2_0390.wav|저는 제가 못생겼다고 생각하지 않아요
+datasets/moon/audio/4/3_2702.wav|바둑 한 판 둘까
+datasets/moon/audio/4/4_1208.wav|내일 비가 내려도 소풍을 가나요
+datasets/moon/audio/4/3_0719.wav|수술 후에 그 환자는 아주 빨리 회복했다
+datasets/moon/audio/4/4_4955.wav|저는 안경을 안 쓰면 아무것도 안 보여요
+datasets/moon/audio/4/3_2796.wav|제 목표는 이번 대회에서 일위를 차지하는 것입니다
+datasets/moon/audio/4/4_5177.wav|우리 집은 딸만 셋이에요
+datasets/moon/audio/4/4_2608.wav|십년 이상 된 사전은 피해야 합니다
+datasets/moon/audio/4/3_4671.wav|암호가 일치하지 않습니다
+datasets/moon/audio/4/3_1666.wav|의문 나는 점이 있으시면 질문하세요
+datasets/moon/audio/4/3_3856.wav|오늘 오전 강원도에 폭설이 내렸습니다
+datasets/moon/audio/4/1_0218.wav|그때 그녀가 의사를 데려오지 않았으면 나는 죽었을 거야
+datasets/moon/audio/4/4_3967.wav|선을 넘지 마라
+datasets/moon/audio/4/3_2226.wav|에너지를 절약합시다
+datasets/moon/audio/4/1_0872.wav|산 지렁이를 미끼로 사용해 봐
+datasets/moon/audio/4/4_0740.wav|인간이 최초로 달에 간 게 언제죠
+datasets/moon/audio/4/2_1080.wav|이 이불은 참 포근해요
+datasets/moon/audio/4/3_0017.wav|연령에 상관없이 지원할 수 있습니다
+datasets/moon/audio/4/4_3203.wav|다음 시간에는 한국의 주거 문화에 대해 공부하겠습니다
+datasets/moon/audio/4/3_0370.wav|이 바지 좀 다려 주세요
+datasets/moon/audio/4/3_2675.wav|고기를 자그마치 열 마리나 낚았어요
+datasets/moon/audio/4/1_0993.wav|태양은 동쪽에서 떠서 서쪽으로 진다
+datasets/moon/audio/4/1_0819.wav|초대장에서 그 사람 이름을 빼라
+datasets/moon/audio/4/4_0257.wav|그녀의 눈이 기쁨으로 반짝이고 있었다
+datasets/moon/audio/4/3_4436.wav|이 소포 저울에 좀 달아 봐
+datasets/moon/audio/4/1_0450.wav|천천히 몸을 일으켜 보세요
+datasets/moon/audio/4/3_3822.wav|지금은 날이 흐려서 별이 보이지 않는다
+datasets/moon/audio/4/3_1321.wav|너는 웃을 때가 귀여워
+datasets/moon/audio/4/1_0320.wav|집에서 회사까지 지하철로 얼마나 걸려요
+datasets/moon/audio/4/4_5282.wav|남성 의류는 삼층에 있어요
+datasets/moon/audio/4/3_1393.wav|저는 손톱을 물어 뜨는 나쁜 습관이 있어요
+datasets/moon/audio/4/4_4268.wav|와 너 정말 살이 많이 빠졌구나
+datasets/moon/audio/4/4_1021.wav|이 가방 잠시만 좀 들고 있어 봐
+datasets/moon/audio/4/3_4371.wav|침대를 하나 더 놓을 자리는 없어
+datasets/moon/audio/4/3_1292.wav|내 신세가 참 불쌍해요
+datasets/moon/audio/4/3_3387.wav|그 회사가 아파트 건설사로 선정되었다
+datasets/moon/audio/4/2_0405.wav|그 무관심한 태도는 아내에게 상처가 되었다
+datasets/moon/audio/4/4_3933.wav|언제 이런 증상이 처음 나타났나요
+datasets/moon/audio/4/4_1802.wav|기사님이 오후 세 시쯤 방문하실 겁니다
+datasets/moon/audio/4/4_1674.wav|괜찮아요 그냥 몇 분 동안 쉬면 돼요
+datasets/moon/audio/4/4_0374.wav|빗방울이 점점 굵어지네
+datasets/moon/audio/4/3_4016.wav|올해에는 담배를 끊기로 결심했어요
+datasets/moon/audio/4/3_1290.wav|어떤 경우에도 이 규칙들을 준수해야 합니다
+datasets/moon/audio/4/1_0463.wav|아침에 너무 바빠서 렌즈 끼는 걸 잊었어
+datasets/moon/audio/4/1_0604.wav|사람들은 모두 행복해지기를 꿈꾼다
+datasets/moon/audio/4/4_0392.wav|이 티비 화면은 가로 세로 비율이 십육대 구다
+datasets/moon/audio/4/3_4666.wav|부지런한 건 여전하구나
+datasets/moon/audio/4/4_3685.wav|너는 인생의 목표가 뭐니
+datasets/moon/audio/4/3_4901.wav|네 말이 맞아
+datasets/moon/audio/4/4_0307.wav|음주 운전은 일종의 범죄예요
+datasets/moon/audio/4/3_3545.wav|우리는 의사소통에 문제가 없습니다
+datasets/moon/audio/4/3_0007.wav|저는 프로필에 본명이 아닌 예명을 씁니다
+datasets/moon/audio/4/2_0561.wav|그 여자는 지적이지는 않지만 사랑스럽다
+datasets/moon/audio/4/4_3978.wav|그 사람은 나이보다 늙어 보여요
+datasets/moon/audio/4/4_0202.wav|다섯 살이면 발레를 시작하기에 딱 좋은 나이네요
+datasets/moon/audio/4/3_2933.wav|저는 비극보다 코미디가 좋아요
+datasets/moon/audio/4/3_3445.wav|저는 늘 전기를 절약하려고 노력합니다
+datasets/moon/audio/4/3_3598.wav|아버지는 텔레비전 프로라고는 뉴스밖에 안 보세요
+datasets/moon/audio/4/4_4941.wav|싼값에 비행기 표를 구할 방법 없을까
+datasets/moon/audio/4/4_5423.wav|이 사람이 제 예비 신부입니다
+datasets/moon/audio/4/3_0556.wav|양팔을 쭉 뻗으세요
+datasets/moon/audio/4/3_2455.wav|플루트는 배우기 쉬운가요
+datasets/moon/audio/4/4_5337.wav|세상에 완벽한 번역은 없어
+datasets/moon/audio/4/4_0949.wav|연구는 아직 초기 단계에 있어요
+datasets/moon/audio/4/3_2742.wav|이 근처에는 괜찮은 숙박 시설이 없어요
+datasets/moon/audio/4/2_0680.wav|이 물건은 싸지만 품질은 좋아
+datasets/moon/audio/4/4_3370.wav|엄마 핸드폰이 꺼져 있어요
+datasets/moon/audio/4/4_4282.wav|뻔한 거짓말은 더 이상 안 통해
+datasets/moon/audio/4/4_5378.wav|원숭이도 나무에서 떨어질 때가 있다
+datasets/moon/audio/4/3_4937.wav|비자를 받을 필요가 없어요
+datasets/moon/audio/4/4_2454.wav|한 언어를 익히려면 많은 시간이 필요하다
+datasets/moon/audio/4/3_3670.wav|창을 닫기 전에 로그아웃을 꼭 해라
+datasets/moon/audio/4/3_4573.wav|이것은 시작에 불과해
+datasets/moon/audio/4/4_5436.wav|그 사람은 술자리에서 자기 옛날이야기로 사람들을 지루하게 만든다
+datasets/moon/audio/4/4_4864.wav|기차에서 내릴 때 소지품을 챙겼는지 확인하시기 바랍니다
+datasets/moon/audio/4/4_5630.wav|이 두 소설은 줄거리가 유사해요
+datasets/moon/audio/4/4_4038.wav|졸업 논문의 주제가 무엇입니까
+datasets/moon/audio/4/2_0531.wav|조선 시대에는 남자와 여자의 지위가 불평등했다
+datasets/moon/audio/4/3_3228.wav|조세 개정에 반대해 금요일에 평화 시위가 있었다
